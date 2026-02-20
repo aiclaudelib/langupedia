@@ -1,0 +1,28 @@
+{
+  "name": "lexicon",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "pm2": "pm2 start ecosystem.config.cjs --only lexicon",
+    "pm2:restart": "pm2 restart lexicon",
+    "pm2:stop": "pm2 stop lexicon",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "react": "^19",
+    "react-dom": "^19"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^4",
+    "pm2": "^5",
+    "typescript": "~5.7",
+    "vite": "^6"
+  }
+}
