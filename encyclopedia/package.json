@@ -12,7 +12,7 @@
     "pm2:stop": "pm2 stop lexicon",
     "test": "playwright test",
     "generate-index": "node scripts/generate-index.mjs",
-    "build:ghpages": "node scripts/generate-index.mjs && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/English/ tsc -b && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/English/ vite build && cp dist/index.html dist/404.html"
+    "build:ghpages": "node scripts/generate-index.mjs && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/langupedia/ tsc -b && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/langupedia/ vite build && cp dist/index.html dist/404.html"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.90.21",
