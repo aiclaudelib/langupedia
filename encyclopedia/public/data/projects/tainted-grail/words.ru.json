@@ -581,6 +581,100 @@
     }
   },
   {
+    "word": "cabal",
+    "pronunciation": "kəˈbæl",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "forms": "verb: pastSimple: **caballed**, pastParticiple: **caballed**, presentParticiple: **caballing**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "тайная политическая группа заговорщиков; клика, действующая скрытно ради захвата или удержания власти: *a cabal of senior advisors had been ruling the kingdom from behind the throne* — клика старших советников тайно правила королевством из-за трона.",
+        "examples": [
+          "*The merchant princes formed a cabal to control the price of grain throughout the province.* — Купеческие магнаты сформировали тайную группу для контроля над ценами на зерно во всей провинции.",
+          "*No one knew who belonged to the cabal — only that its reach extended into every guild.* — Никто не знал, кто входит в этот заговор, — лишь то, что его влияние простирается на каждую гильдию."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "noun",
+        "text": "тайный заговор, интрига; сам акт сговора: *the cabal against the duke was uncovered by a loyal servant* — заговор против герцога был раскрыт верным слугой.",
+        "examples": [
+          "*What began as idle grumbling soon became a full-blown cabal to overthrow the council.* — То, что начиналось как праздное ворчание, вскоре переросло в полноценный заговор с целью свергнуть совет."
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "verb",
+        "text": "участвовать в тайном сговоре, плести интриги: *they caballed through the winter, waiting for the right moment to strike* — они плели заговор всю зиму, выжидая удобный момент для удара.",
+        "examples": [
+          "*The nobles caballed against the king while smiling at his feasts.* — Дворяне интриговали против короля, при этом улыбаясь на его пирах."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"There is a cabal within these walls,\" the spymaster whispered, \"and I intend to root out every last member.\"* — «В этих стенах есть заговор, — прошептал начальник разведки, — и я намерен выкорчевать каждого его участника».",
+      "*The five sorcerers had formed a cabal decades ago, bound by oaths sealed in blood and starlight.* — Пять чародеев создали тайный союз десятилетия назад, связанные клятвами, скреплёнными кровью и светом звёзд.",
+      "*She discovered that the cabal had infiltrated the royal court, the army, and even the priesthood.* — Она обнаружила, что заговорщики проникли в королевский двор, армию и даже в жречество."
+    ],
+    "usageNote": "**Cabal** почти всегда несёт негативную коннотацию: это не просто группа единомышленников, а именно тайная клика с корыстными или подрывными целями. В современном языке часто используется в политическом контексте (*a cabal of insiders*, *Washington cabal*) и в конспирологической риторике. В фэнтези — распространённое название для тайных обществ магов, культистов или интриганов.",
+    "comparisons": [
+      {
+        "word": "conspiracy",
+        "description": "более широкий термин — любой тайный сговор. **Cabal** подчёркивает малочисленность группы и её элитарность."
+      },
+      {
+        "word": "clique",
+        "description": "замкнутая группа, но не обязательно тайная и не обязательно с политическими целями. **Cabal** всегда подразумевает секретность и интриги."
+      },
+      {
+        "word": "faction",
+        "description": "группировка внутри организации — может действовать открыто. **Cabal** действует исключительно в тени."
+      },
+      {
+        "word": "junta",
+        "description": "военная хунта, захватившая власть. **Cabal** — это заговорщики до захвата власти; **junta** — уже после."
+      }
+    ],
+    "collocations": [
+      "secret cabal",
+      "shadowy cabal",
+      "powerful cabal",
+      "a cabal of advisors",
+      "form a cabal",
+      "the inner cabal",
+      "a cabal against"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "cabalist",
+        "partOfSpeech": "noun",
+        "description": "участник тайного заговора; интриган. Также — последователь Каббалы (в этом значении чаще *kabbalist*)."
+      },
+      {
+        "word": "caballing",
+        "partOfSpeech": "noun / gerund",
+        "description": "плетение интриг, участие в тайном сговоре."
+      }
+    ],
+    "wordHistory": "Из французского *cabale* — «интрига, тайная группа», заимствованного из средневекового латинского *cabbala*, от древнееврейского *קַבָּלָה* (*qabbālāh*) — «предание, полученное знание», от глагола *qibbēl* — «получать, принимать». Изначально слово относилось к мистическому учению Каббалы — тайной иудейской традиции толкования Священного Писания. В XVII веке слово перешло в политический лексикон: в английском закрепилось благодаря совпадению — при Карле II (около 1672 года) группа из пяти влиятельных министров (Clifford, Arlington, Buckingham, Ashley, Lauderdale) имела инициалы C-A-B-A-L, что народная этимология тут же связала с тайным заговором. Совпадение оказалось слишком красноречивым, и с тех пор **cabal** прочно означает «тайная клика заговорщиков».",
+    "cefrLevel": "C1",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/4/49/En-us-cabal.oga"
+    },
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/cabal.jpg"
+  },
+  {
     "word": "captive",
     "pronunciation": "ˈkaptiv",
     "partOfSpeech": [
@@ -851,6 +945,106 @@
     "image": "/data/projects/tainted-grail/images/words/dabble in.jpg",
     "contextStory": "Старая ведьма предупредила её: «Не вздумай **dabble in** некромантию, дитя. Это не увлечение». Но ученица была молода и бесстрашна — она **dabbled in** запретные заклинания так, как другие балуются с красками, чуть-чуть, ради забавы. К зиме мёртвые уже шептали её имя. Она лишь **dabbled in** тёмные искусства, говорила она себе. Но тьме всё равно, насколько неглубоко ты опустила руки — она утянет тебя на дно.",
     "cefrLevel": "C1"
+  },
+  {
+    "word": "defile",
+    "pronunciation": "dɪˈfaɪl",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "forms": "pastTense: **defiled**; pastParticiple: **defiled**; presentParticiple: **defiling**; thirdPerson: **defiles**; plural: **defiles**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb",
+        "text": "осквернять, загрязнять нечто священное, чистое или почитаемое; лишать святости или чистоты: *the invaders defiled the temple by slaughtering cattle on the altar* — захватчики осквернили храм, зарезав скот на алтаре.",
+        "examples": [
+          "*He felt that even speaking her name in this place would defile it.* — Он чувствовал, что даже произнести её имя в этом месте означало бы осквернить его.",
+          "*The river had been defiled by decades of industrial waste.* — Река была осквернена десятилетиями промышленных отходов."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb",
+        "text": "(арх. / книжн.) обесчестить, опозорить; нанести урон репутации или нравственной чистоте: *the scandal defiled his name beyond repair* — скандал запятнал его имя безвозвратно.",
+        "examples": [
+          "*She refused to defile her honour by accepting a bribe.* — Она отказалась запятнать свою честь, приняв взятку."
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "noun",
+        "text": "(произн. также ˈdiːfaɪl или dɪˈfiːl) узкий проход, дефиле — теснина в горах или между препятствиями, через которую можно пройти лишь колонной: *the army was ambushed in the narrow defile between two cliffs* — армия попала в засаду в узком ущелье между двух скал.",
+        "examples": [
+          "*The mountain defile was so narrow that only two men could walk abreast.* — Горное ущелье было столь узким, что только двое могли идти в ряд."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*The tomb had remained sealed for a thousand years — and now grave robbers had defiled it in a single night.* — Гробница оставалась запечатанной тысячу лет — и вот грабители осквернили её за одну ночь.",
+      "*\"Do not defile this ground with blood,\" the priestess warned, her voice shaking with fury.* — «Не оскверняйте эту землю кровью», — предупредила жрица, её голос дрожал от ярости.",
+      "*The retreating soldiers filed through a narrow defile, exposed to arrows from the ridges above.* — Отступающие солдаты тянулись через узкое ущелье, открытые для стрел с хребтов наверху."
+    ],
+    "usageNote": "Глагол **defile** несёт мощную эмоциональную окраску — это не просто «испачкать», а именно осквернить, причинить духовный или символический ущерб. Чаще всего встречается в контекстах религии, чести и памяти. Существительное **defile** (ущелье) — совсем другое слово по происхождению: оно пришло из французского *défilé* и военной терминологии, тогда как глагол восходит к старофранцузскому *defouler* (топтать).",
+    "comparisons": [
+      {
+        "word": "desecrate",
+        "description": "наиболее близкий синоним — осквернить священное место или объект. Однако **desecrate** применяется почти исключительно к религиозным или мемориальным объектам, тогда как **defile** шире: можно *defile* честь, репутацию, тело."
+      },
+      {
+        "word": "pollute",
+        "description": "загрязнить — чаще в буквальном, физическом смысле (воздух, воду). **Defile** несёт духовный, символический заряд."
+      },
+      {
+        "word": "taint",
+        "description": "запятнать, подпортить — мягче, чем **defile**. Можно *taint* репутацию слухом; *defile* подразумевает более грубое и необратимое осквернение."
+      },
+      {
+        "word": "profane",
+        "description": "глагол «профанировать» — обращаться со священным как с обыденным. Менее агрессивный, чем **defile**, который подразумевает намеренное уничтожение чистоты."
+      }
+    ],
+    "collocations": [
+      "defile a temple",
+      "defile a grave",
+      "defile the memory of",
+      "defile sacred ground",
+      "defile one's honour",
+      "narrow defile",
+      "mountain defile",
+      "march through a defile"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "defilement",
+        "partOfSpeech": "noun",
+        "description": "осквернение — акт или состояние осквернённости."
+      },
+      {
+        "word": "defiler",
+        "partOfSpeech": "noun",
+        "description": "осквернитель — тот, кто оскверняет."
+      },
+      {
+        "word": "defiled",
+        "partOfSpeech": "adjective",
+        "description": "осквернённый, загрязнённый, обесчещенный."
+      }
+    ],
+    "wordHistory": "Глагол **defile** — результат удивительного наложения двух разных слов. Среднеанглийское *defoulen* — «топтать, осквернять» — пришло из старофранцузского *defouler* (топтать ногами), от латинского *de-* + *fullāre* (сукновал — тот, кто топчет ткань при обработке). Но в XIV–XV веках это слово смешалось с другим: *befilen* (загрязнять), от древнеанглийского *fȳlan* (пачкать), родственного *foul*. Из этого скрещивания родился современный глагол **defile** со значением «осквернять». Существительное **defile** (ущелье) — совершенно другое слово: оно заимствовано в XVII веке из французского *défilé*, от *défiler* (маршировать колонной), от *de-* + *file* (ряд, шеренга), восходящего к латинскому *fīlum* (нить). Два омонима — один про грязь и бесчестие, другой про строй и теснину.",
+    "cefrLevel": "C1",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/defile.jpg",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/defile-uk.mp3"
+    }
   },
   {
     "word": "demeanor",
@@ -1222,6 +1416,99 @@
     "cefrLevel": "C1",
     "audio": {
       "us": "https://api.dictionaryapi.dev/media/pronunciations/en/endeavor-us.mp3"
+    }
+  },
+  {
+    "word": "fervent",
+    "pronunciation": "ˈfɜːrvənt",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "пылкий, горячий, страстный — о чувствах, убеждениях или желаниях, переживаемых с глубокой искренней интенсивностью: *her fervent prayer echoed through the empty cathedral* — её пылкая молитва разносилась по пустому собору.",
+        "examples": [
+          "*He was a fervent believer in the power of education to transform lives.* — Он был горячим приверженцем силы образования, способной изменить жизнь.",
+          "*She made a fervent plea for mercy, her voice trembling with conviction.* — Она обратилась с пылкой мольбой о милосердии, голос её дрожал от убеждённости."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "(книжн./арх.) горячий, жгучий — о физическом жаре, зное: *the fervent sun beat down upon the parched earth* — палящее солнце нещадно жгло иссушённую землю.",
+        "examples": [
+          "*The blacksmith worked in the fervent glow of the forge.* — Кузнец работал в жгучем сиянии горна."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"I have one fervent wish,\" she whispered, \"that you come home alive.\"* — «У меня одно пылкое желание, — прошептала она, — чтобы ты вернулся живым».",
+      "*The crowd erupted in fervent applause — not polite clapping, but the roar of people who truly believed.* — Толпа взорвалась пылкими аплодисментами — не вежливыми хлопками, а рёвом людей, которые искренне верили.",
+      "*His fervent devotion to the cause never wavered, even when his friends abandoned it.* — Его горячая преданность делу ни разу не дрогнула, даже когда друзья от него отвернулись."
+    ],
+    "usageNote": "**Fervent** всегда подразумевает искренность и глубину чувства. В отличие от **zealous**, здесь нет подтекста навязчивости или фанатизма — это чистый внутренний жар. Слово чаще встречается в книжном и возвышенном стиле. Типичные конструкции: **fervent + абстрактное существительное** (prayer, hope, wish, belief, desire, devotion). Наречие **fervently** — «горячо, пылко» — используется значительно чаще самого прилагательного.",
+    "comparisons": [
+      {
+        "word": "passionate",
+        "description": "широкое слово — страстный, эмоциональный. Может относиться и к любви, и к гневу, и к увлечению. **Fervent** у́же — только про глубокое, искреннее горение."
+      },
+      {
+        "word": "ardent",
+        "description": "практически синоним **fervent**, но чаще используется о романтических чувствах (*ardent admirer*). **Fervent** чаще — о вере, надежде, убеждениях."
+      },
+      {
+        "word": "zealous",
+        "description": "рвение + действие. **Zealous** человек не просто чувствует — он активно действует и может перегибать палку. **Fervent** — про силу чувства, а не про действие."
+      },
+      {
+        "word": "earnest",
+        "description": "искренний, серьёзный — но без огня и жара. **Earnest** — спокойная убеждённость, **fervent** — пылающая."
+      }
+    ],
+    "collocations": [
+      "fervent prayer",
+      "fervent hope",
+      "fervent wish",
+      "fervent belief",
+      "fervent desire",
+      "fervent supporter",
+      "fervent devotion",
+      "fervent admirer",
+      "fervent plea",
+      "fervent applause"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "fervently",
+        "partOfSpeech": "adverb",
+        "description": "пылко, горячо, страстно — наречие, более частотное, чем само прилагательное."
+      },
+      {
+        "word": "fervor",
+        "partOfSpeech": "noun",
+        "description": "пыл, жар, рвение (амер. написание). Британское — **fervour**."
+      },
+      {
+        "word": "fervid",
+        "partOfSpeech": "adjective",
+        "description": "ещё более интенсивная форма — «раскалённый, неистово пылкий». Книжное слово, встречается реже."
+      }
+    ],
+    "wordHistory": "От латинского *fervēns*, причастия настоящего времени от *fervēre* — «кипеть, бурлить, пылать». Праиндоевропейский корень *bʰrewh₁-* — «кипеть, бурлить» — тот же, что дал английское **brew** (варить пиво), **broth** (бульон) и немецкое *brauen*. Буквально **fervent** — «кипящий». В старофранцузском *fervent* уже означало «пылкий, горячий» — в этом виде слово вошло в среднеанглийский в XIV веке. Родственное **ferment** (брожение) — от того же латинского корня: где кипение физическое стало метафорой эмоционального бурления. Научный термин **effervescent** (шипучий, бурлящий) — тоже родственник.",
+    "cefrLevel": "C1",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/fervent.jpg",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/1/11/En-us-fervent.oga"
     }
   },
   {
@@ -3035,6 +3322,84 @@
     }
   },
   {
+    "word": "vestiges",
+    "pronunciation": "ˈvestɪdʒɪz",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "forms": "singular: **vestige**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "следы, остатки, пережитки чего-либо, что когда-то существовало, но почти полностью исчезло: *the vestiges of a once-great civilization lay buried under sand* — остатки некогда великой цивилизации были погребены под песком.",
+        "examples": [
+          "*The crumbling walls were the last vestiges of the Roman fort.* — Обрушивающиеся стены были последними следами римского форта.",
+          "*She clung to the vestiges of her dignity as they led her away in chains.* — Она цеплялась за остатки своего достоинства, пока её уводили в цепях."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "noun",
+        "text": "малейшее количество, крупица; ничтожный след (обычно в отрицательных конструкциях): *there was not a vestige of truth in his testimony* — в его показаниях не было ни крупицы правды.",
+        "examples": [
+          "*Without a vestige of remorse, he turned and walked away.* — Без малейшего раскаяния он развернулся и ушёл."
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "noun",
+        "text": "(биол.) рудимент — орган или структура, утратившие свою первоначальную функцию в ходе эволюции: *the human appendix is often cited as a vestige of our herbivorous ancestors* — человеческий аппендикс часто приводят как рудимент наших травоядных предков.",
+        "examples": []
+      }
+    ],
+    "mainExamples": [
+      "*They wandered through the vestiges of the abandoned city — broken arches, shattered fountains, streets reclaimed by forest.* — Они бродили среди останков заброшенного города — сломанные арки, разбитые фонтаны, улицы, отвоёванные лесом.",
+      "*The new regime tried to erase every vestige of the old order, but memories proved harder to burn than books.* — Новый режим пытался стереть все следы старого порядка, но воспоминания оказались труднее сжечь, чем книги.",
+      "*Only vestiges of the ancient forest remained — a few gnarled oaks surrounded by miles of farmland.* — От древнего леса остались лишь следы — несколько корявых дубов посреди миль сельскохозяйственных угодий."
+    ],
+    "usageNote": "Слово **vestiges** почти всегда несёт оттенок утраты и угасания: речь идёт о том, что было когда-то значительным, а теперь почти исчезло. В отрицательных конструкциях (*not a vestige of*) усиливает категоричность — \"ни следа, ни капли\". Форма единственного числа **vestige** используется так же часто, но множественное число подчёркивает разрозненность и фрагментарность остатков.",
+    "comparisons": [
+      {
+        "word": "remnants",
+        "description": "остатки чего-либо в более конкретном, материальном смысле (*remnants of fabric* — обрезки ткани). Более нейтральное слово, без ощущения угасания."
+      },
+      {
+        "word": "traces",
+        "description": "следы — более общее и нейтральное слово, может относиться к чему угодно (*traces of blood*). Не несёт оттенка былого величия."
+      },
+      {
+        "word": "relics",
+        "description": "реликвии — предметы из прошлого, часто ценные или почитаемые. В отличие от **vestiges**, подразумевает сохранность и значимость."
+      }
+    ],
+    "collocations": [
+      "last vestiges",
+      "vestiges of power",
+      "vestiges of the past",
+      "not a vestige of",
+      "vestiges of civilization",
+      "vestiges of hope",
+      "faint vestiges"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "vestigial",
+        "partOfSpeech": "adjective",
+        "description": "рудиментарный, остаточный: *vestigial organs* — рудиментарные органы; *vestigial powers* — остаточные полномочия."
+      }
+    ],
+    "wordHistory": "Из французского *vestige* (XVI в.), восходящего к латинскому *vestīgium* — \"след ноги, отпечаток\". Латинское слово имело широкий спектр значений: от буквального следа на земле до метафорических \"следов\" событий и явлений. Родственное латинское *vestīgāre* означало \"выслеживать, расследовать\" — от него произошло английское **investigate** (\"расследовать\"), буквально \"идти по следу\". Таким образом, **vestiges** и **investigate** — этимологические родственники: одно слово говорит о следах, которые остались, а другое — о том, чтобы идти по ним.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/vestiges.jpg"
+  },
+  {
     "word": "weasel out",
     "pronunciation": "ˈwiːzəl aʊt",
     "partOfSpeech": [
@@ -3283,6 +3648,102 @@
     "cefrLevel": "C1",
     "audio": {
       "us": "https://upload.wikimedia.org/wikipedia/commons/6/6c/En-us-you.ogg"
+    }
+  },
+  {
+    "word": "zealous",
+    "pronunciation": "ˈzeləs",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "пылкий, рьяный, фанатично преданный делу или идее; проявляющий страстное рвение: *a zealous defender of the faith would brook no dissent* — рьяный защитник веры не терпел инакомыслия.",
+        "examples": [
+          "*She was zealous in her pursuit of justice, working eighteen-hour days without complaint.* — Она была неистова в своём стремлении к справедливости, работая по восемнадцать часов без жалоб.",
+          "*The zealous reformer demanded that every corrupt official be brought to trial.* — Рьяный реформатор требовал, чтобы каждого коррумпированного чиновника отдали под суд."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "(часто с негативным оттенком) чрезмерно усердный, фанатичный; перегибающий палку в своём рвении: *his zealous enforcement of petty rules made him universally despised* — его фанатичное насаждение мелочных правил сделало его всеобщим объектом презрения.",
+        "examples": [
+          "*The zealous customs officer searched every bag, every pocket, every seam.* — Фанатично усердный таможенник обыскивал каждую сумку, каждый карман, каждый шов."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"I need zealous warriors, not lukewarm allies,\" the king declared, slamming his fist on the table.* — «Мне нужны рьяные воины, а не равнодушные союзники», — объявил король, ударив кулаком по столу.",
+      "*Her zealous devotion to the cause frightened even those who shared her beliefs.* — Её пылкая преданность делу пугала даже тех, кто разделял её убеждения.",
+      "*The inquisitor was zealous beyond reason — he saw heresy in a child's lullaby.* — Инквизитор был фанатичен сверх всякой меры — он видел ересь в детской колыбельной."
+    ],
+    "usageNote": "**Zealous** балансирует между похвалой и упрёком. В позитивном контексте подчёркивает страстную преданность (*a zealous advocate*), в негативном — фанатизм и перебор (*overly zealous*). В отличие от **passionate**, **zealous** часто подразумевает готовность навязывать свою позицию другим. Конструкция **zealous in / about / for** — все три предлога используются.",
+    "comparisons": [
+      {
+        "word": "eager",
+        "description": "просто нетерпеливое желание что-то сделать — без идеологической подоплёки. *Eager* — радостное предвкушение."
+      },
+      {
+        "word": "fervent",
+        "description": "пылкий, горячий — акцент на силе эмоции, без подтекста навязчивости. Ближе к «страстный»."
+      },
+      {
+        "word": "zealous",
+        "description": "рвение + действие + возможная фанатичность. Человек не просто чувствует — он активно действует и может перегибать палку."
+      },
+      {
+        "word": "fanatical",
+        "description": "однозначно негативное — слепая, иррациональная одержимость. **Zealous** мягче и может быть похвалой."
+      }
+    ],
+    "collocations": [
+      "zealous advocate",
+      "zealous defender",
+      "zealous supporter",
+      "zealous pursuit",
+      "zealous enforcement",
+      "overly zealous",
+      "zealous in one's duties"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "zeal",
+        "partOfSpeech": "noun",
+        "description": "рвение, пыл, усердие — существительное, от которого образовано **zealous**."
+      },
+      {
+        "word": "zealot",
+        "partOfSpeech": "noun",
+        "description": "фанатик, зелот — человек, одержимый идеей до крайности. Однозначно негативное."
+      },
+      {
+        "word": "zealously",
+        "partOfSpeech": "adverb",
+        "description": "рьяно, фанатично, с рвением."
+      },
+      {
+        "word": "zealotry",
+        "partOfSpeech": "noun",
+        "description": "фанатизм, зелотство — крайнее проявление рвения."
+      }
+    ],
+    "wordHistory": "От позднелатинского *zēlōsus* — «ревнивый, рьяный», от латинского *zēlus* — «рвение, ревность», заимствованного из греческого *ζῆλος* (*zēlos*) — «пыл, ревность, соперничество». Греческое слово восходит к праиндоевропейскому *yeh₁-* — «искать, стремиться». Интересно, что исторически *zeal* и *jealousy* — однокоренные слова: оба происходят от греческого *zēlos*, просто *jealousy* пришла через старофранцузское *jalousie*. Зелоты (*Zealots*) — название радикальной еврейской секты I века, боровшейся против римского владычества. Именно от них слово **zealot** приобрело оттенок фанатизма, который частично перешёл и на **zealous**.",
+    "cefrLevel": "C1",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/zealous.jpg",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-au.mp3"
     }
   }
 ]

@@ -1,5 +1,5 @@
 export function formatText(text: string | null | undefined): string {
-  if (!text) return ''
+  if (!text || typeof text !== 'string') return ''
   // bold: **text**
   let result = text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
   // italic: *text*

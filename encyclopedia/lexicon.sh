@@ -74,6 +74,12 @@ cmd_add() {
     exit 1
   fi
 
+  # Validate that 'forms' is a string or null (never an object/array)
+  if echo "$input" | jq -e '.forms and (.forms | type != "string")' 2>/dev/null | grep -q true; then
+    echo "Error: 'forms' must be a string or null, got $(echo "$input" | jq -r '.forms | type')" >&2
+    exit 1
+  fi
+
   local today
   today="$(date +%Y-%m-%d)"
 

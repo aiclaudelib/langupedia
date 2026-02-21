@@ -54,7 +54,7 @@ Create two complete JSON objects for the requested word — one for the Russian 
 - `word` (string) — the word itself, lowercase
 - `pronunciation` (string) — IPA-style pronunciation without slashes
 - `partOfSpeech` (array of strings) — e.g. ["noun"], ["verb", "noun"]
-- `forms` (object or null) — irregular forms, conjugations, or plural if notable; null if regular
+- `forms` (string or null) — a flat string of notable inflected forms using markdown bold for the forms themselves; use semicolons to separate groups, commas within groups (e.g. `"abhors, abhorred, abhorring"`, `"past tense: **forsook**; past participle: **forsaken**"`, `"plural: **vestiges**; singular: **vestige**"`); null if forms are completely regular. NEVER use a JSON object — must always be a plain string.
 - `cefrLevel` (string) — CEFR difficulty level: "A1", "A2", "B1", "B2", "C1", "C2"
 - `definitions[].sense` (number) — sequential starting from 1
 - `definitions[].context` (string) — the part of speech this sense belongs to

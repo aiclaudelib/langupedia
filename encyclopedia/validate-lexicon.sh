@@ -101,6 +101,26 @@ validate_project() {
   done
   echo ""
 
+  # --- Check 3: Field type validation ---
+  echo "=== Field Type Validation ==="
+
+  for file in "$ref_file" "$DATA_DIR"/words.*.json; do
+    lang_label="$(basename "$file" .json | sed 's/words\.//')"
+
+    # forms must be string or null
+    bad_forms=$(jq -r '[.[] | select(.forms != null and (.forms | type) != "string")] | .[] | .word' "$file" 2>/dev/null)
+    if [[ -n "$bad_forms" ]]; then
+      echo "ERROR: 'forms' must be string or null in $lang_label:"
+      echo "$bad_forms" | while read -r w; do echo "  - $w"; done
+      errors=$((errors + 1))
+    fi
+  done
+
+  if [[ $errors -eq 0 ]]; then
+    echo "OK: All field types are valid"
+  fi
+  echo ""
+
   # --- Summary ---
   if [[ $errors -eq 0 ]]; then
     echo "All checks passed for $project_id."
