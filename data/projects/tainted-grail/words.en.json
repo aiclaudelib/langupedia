@@ -581,6 +581,100 @@
     }
   },
   {
+    "word": "cabal",
+    "pronunciation": "kəˈbæl",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "forms": "verb: pastSimple: **caballed**, pastParticiple: **caballed**, presentParticiple: **caballing**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "a secret political group of plotters; a small, powerful clique working covertly to seize or maintain power: *a cabal of senior advisors had been ruling the kingdom from behind the throne.*",
+        "examples": [
+          "*The merchant princes formed a cabal to control the price of grain throughout the province.*",
+          "*No one knew who belonged to the cabal — only that its reach extended into every guild.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "noun",
+        "text": "a secret plot or intrigue; the act of conspiring: *the cabal against the duke was uncovered by a loyal servant.*",
+        "examples": [
+          "*What began as idle grumbling soon became a full-blown cabal to overthrow the council.*"
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "verb",
+        "text": "to form a secret group or engage in plotting; to conspire: *they caballed through the winter, waiting for the right moment to strike.*",
+        "examples": [
+          "*The nobles caballed against the king while smiling at his feasts.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"There is a cabal within these walls,\" the spymaster whispered, \"and I intend to root out every last member.\"*",
+      "*The five sorcerers had formed a cabal decades ago, bound by oaths sealed in blood and starlight.*",
+      "*She discovered that the cabal had infiltrated the royal court, the army, and even the priesthood.*"
+    ],
+    "usageNote": "**Cabal** nearly always carries a negative connotation: it denotes not just a group of like-minded people, but specifically a secretive clique with self-serving or subversive aims. In modern usage it appears frequently in political contexts (*a cabal of insiders*, *Washington cabal*) and in conspiracy rhetoric. In fantasy literature, it is a common label for secret societies of mages, cultists, or schemers.",
+    "comparisons": [
+      {
+        "word": "conspiracy",
+        "description": "a broader term for any secret plot. **Cabal** emphasizes the smallness of the group and its elite nature."
+      },
+      {
+        "word": "clique",
+        "description": "a tight-knit group, but not necessarily secret or politically motivated. **Cabal** always implies secrecy and intrigue."
+      },
+      {
+        "word": "faction",
+        "description": "a group within a larger organization — may operate openly. **Cabal** operates exclusively in the shadows."
+      },
+      {
+        "word": "junta",
+        "description": "a military group that has seized power. **Cabal** refers to plotters before the seizure; **junta** refers to the group after."
+      }
+    ],
+    "collocations": [
+      "secret cabal",
+      "shadowy cabal",
+      "powerful cabal",
+      "a cabal of advisors",
+      "form a cabal",
+      "the inner cabal",
+      "a cabal against"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "cabalist",
+        "partOfSpeech": "noun",
+        "description": "a member of a secret plot; a schemer. Also a follower of Kabbalah (more commonly spelled *kabbalist* in that sense)."
+      },
+      {
+        "word": "caballing",
+        "partOfSpeech": "noun / gerund",
+        "description": "the act of plotting or engaging in secret conspiracy."
+      }
+    ],
+    "wordHistory": "From French *cabale* — \"intrigue, secret group,\" borrowed from Medieval Latin *cabbala*, from Hebrew *קַבָּלָה* (*qabbālāh*) — \"tradition, received knowledge,\" from the verb *qibbēl* — \"to receive, to accept.\" Originally the word referred to the mystical tradition of Kabbalah — a secret Jewish tradition of scriptural interpretation. In the 17th century the word migrated into political vocabulary: in English it was cemented by a famous coincidence — under Charles II (around 1672), a group of five powerful ministers (Clifford, Arlington, Buckingham, Ashley, Lauderdale) happened to have initials spelling C-A-B-A-L, which folk etymology immediately linked to secret plotting. The coincidence proved too eloquent to ignore, and since then **cabal** has firmly meant \"a secret clique of conspirators.\"",
+    "cefrLevel": "C1",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/4/49/En-us-cabal.oga"
+    },
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/cabal.jpg"
+  },
+  {
     "word": "captive",
     "pronunciation": "ˈkaptiv",
     "partOfSpeech": [
@@ -851,6 +945,106 @@
     "image": "/data/projects/tainted-grail/images/words/dabble in.jpg",
     "contextStory": "The old witch warned her: \"Do not **dabble in** necromancy, child. It is not a hobby.\" But the apprentice was young and fearless — she **dabbled in** forbidden spells the way others dabble in painting, just a little, just for fun. By winter, the dead were whispering her name. She had only **dabbled in** the dark arts, she told herself. But the darkness does not care how shallow you dip your hands — it pulls you under all the same.",
     "cefrLevel": "C1"
+  },
+  {
+    "word": "defile",
+    "pronunciation": "dɪˈfaɪl",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "forms": "pastTense: **defiled**; pastParticiple: **defiled**; presentParticiple: **defiling**; thirdPerson: **defiles**; plural: **defiles**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb",
+        "text": "to make something sacred, pure, or revered foul or unclean; to despoil of sanctity or purity: *the invaders defiled the temple by slaughtering cattle on the altar.*",
+        "examples": [
+          "*He felt that even speaking her name in this place would defile it.*",
+          "*The river had been defiled by decades of industrial waste.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb",
+        "text": "(archaic / literary) to dishonour, disgrace; to damage someone's reputation or moral purity beyond recovery: *the scandal defiled his name beyond repair.*",
+        "examples": [
+          "*She refused to defile her honour by accepting a bribe.*"
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "noun",
+        "text": "(also pronounced ˈdiːfaɪl or dɪˈfiːl) a narrow passage or gorge, especially between mountains, through which troops can march only in a column: *the army was ambushed in the narrow defile between two cliffs.*",
+        "examples": [
+          "*The mountain defile was so narrow that only two men could walk abreast.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*The tomb had remained sealed for a thousand years — and now grave robbers had defiled it in a single night.*",
+      "*\"Do not defile this ground with blood,\" the priestess warned, her voice shaking with fury.*",
+      "*The retreating soldiers filed through a narrow defile, exposed to arrows from the ridges above.*"
+    ],
+    "usageNote": "The verb **defile** carries strong emotional weight — it is not merely to dirty something, but to violate its sanctity or symbolic purity. It appears most often in contexts of religion, honour, and memory. The noun **defile** (a narrow gorge) is an entirely different word by origin: it comes from French *défilé* (military term), while the verb traces back to Old French *defouler* (to trample).",
+    "comparisons": [
+      {
+        "word": "desecrate",
+        "description": "the closest synonym — to violate the sanctity of a sacred place or object. However, **desecrate** applies almost exclusively to religious or memorial sites, whereas **defile** is broader: one can *defile* honour, reputation, a body."
+      },
+      {
+        "word": "pollute",
+        "description": "to contaminate — more often in a literal, physical sense (air, water). **Defile** carries a spiritual, symbolic charge."
+      },
+      {
+        "word": "taint",
+        "description": "to stain or spoil slightly — milder than **defile**. You can *taint* a reputation with a rumour; *defile* implies a more brutal and irreversible violation."
+      },
+      {
+        "word": "profane",
+        "description": "to treat the sacred as mundane. Less aggressive than **defile**, which implies the deliberate destruction of purity."
+      }
+    ],
+    "collocations": [
+      "defile a temple",
+      "defile a grave",
+      "defile the memory of",
+      "defile sacred ground",
+      "defile one's honour",
+      "narrow defile",
+      "mountain defile",
+      "march through a defile"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "defilement",
+        "partOfSpeech": "noun",
+        "description": "the act of defiling or the state of being defiled."
+      },
+      {
+        "word": "defiler",
+        "partOfSpeech": "noun",
+        "description": "one who defiles."
+      },
+      {
+        "word": "defiled",
+        "partOfSpeech": "adjective",
+        "description": "made foul, unclean, or dishonoured."
+      }
+    ],
+    "wordHistory": "The verb **defile** is the product of a remarkable collision between two different words. Middle English *defoulen* — \"to trample, to pollute\" — came from Old French *defouler* (to trample underfoot), from Latin *de-* + *fullāre* (a fuller — one who treads cloth during processing). But in the 14th–15th centuries, this word merged with another: *befilen* (to make foul), from Old English *fȳlan* (to dirty), related to *foul*. From this crossbreeding emerged the modern verb **defile** meaning \"to desecrate.\" The noun **defile** (a gorge) is an entirely different word: borrowed in the 17th century from French *défilé*, from *défiler* (to march in a column), from *de-* + *file* (a row, a line), going back to Latin *fīlum* (thread). Two homonyms — one about filth and dishonour, the other about formation and terrain.",
+    "cefrLevel": "C1",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/defile.jpg",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/defile-uk.mp3"
+    }
   },
   {
     "word": "demeanor",
@@ -1222,6 +1416,99 @@
     "cefrLevel": "C1",
     "audio": {
       "us": "https://api.dictionaryapi.dev/media/pronunciations/en/endeavor-us.mp3"
+    }
+  },
+  {
+    "word": "fervent",
+    "pronunciation": "ˈfɜːrvənt",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "displaying intense, sincere feeling or passionate conviction: *her fervent prayer echoed through the empty cathedral.*",
+        "examples": [
+          "*He was a fervent believer in the power of education to transform lives.*",
+          "*She made a fervent plea for mercy, her voice trembling with conviction.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "(literary/archaic) intensely hot; burning: *the fervent sun beat down upon the parched earth.*",
+        "examples": [
+          "*The blacksmith worked in the fervent glow of the forge.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"I have one fervent wish,\" she whispered, \"that you come home alive.\"*",
+      "*The crowd erupted in fervent applause — not polite clapping, but the roar of people who truly believed.*",
+      "*His fervent devotion to the cause never wavered, even when his friends abandoned it.*"
+    ],
+    "usageNote": "**Fervent** always implies sincerity and emotional depth. Unlike **zealous**, it carries no undertone of pushiness or fanaticism — it is pure inner fire. The word leans literary and elevated. Typical patterns: **fervent + abstract noun** (prayer, hope, wish, belief, desire, devotion). The adverb **fervently** is used considerably more often than the adjective itself.",
+    "comparisons": [
+      {
+        "word": "passionate",
+        "description": "a broader word — can apply to love, anger, or hobby alike. **Fervent** is narrower — only deep, sincere burning."
+      },
+      {
+        "word": "ardent",
+        "description": "near-synonym of **fervent**, but more often used for romantic feelings (*ardent admirer*). **Fervent** more commonly describes faith, hope, or conviction."
+      },
+      {
+        "word": "zealous",
+        "description": "zeal + action. A **zealous** person doesn't just feel — they actively push and may go too far. **Fervent** is about intensity of feeling, not action."
+      },
+      {
+        "word": "earnest",
+        "description": "sincere and serious — but without fire or heat. **Earnest** is calm conviction; **fervent** is blazing conviction."
+      }
+    ],
+    "collocations": [
+      "fervent prayer",
+      "fervent hope",
+      "fervent wish",
+      "fervent belief",
+      "fervent desire",
+      "fervent supporter",
+      "fervent devotion",
+      "fervent admirer",
+      "fervent plea",
+      "fervent applause"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "fervently",
+        "partOfSpeech": "adverb",
+        "description": "with intense feeling — the adverb form, used more frequently than the adjective itself."
+      },
+      {
+        "word": "fervor",
+        "partOfSpeech": "noun",
+        "description": "intense and passionate feeling (American spelling). British: **fervour**."
+      },
+      {
+        "word": "fervid",
+        "partOfSpeech": "adjective",
+        "description": "an even more intense form — 'white-hot, fiercely passionate.' More literary and less common."
+      }
+    ],
+    "wordHistory": "From Latin *fervēns*, the present participle of *fervēre* — \"to boil, to seethe, to glow.\" The Proto-Indo-European root *bʰrewh₁-* — \"to boil, to bubble\" — is the same one that gave English **brew**, **broth**, and German *brauen*. Literally, **fervent** means \"boiling.\" In Old French, *fervent* already meant \"passionate, ardent\" — and in this form the word entered Middle English in the 14th century. The related **ferment** (fermentation) shares the same Latin root: physical boiling became a metaphor for emotional turmoil. The scientific term **effervescent** (fizzy, bubbling) is also a relative.",
+    "cefrLevel": "C1",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/fervent.jpg",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/1/11/En-us-fervent.oga"
     }
   },
   {
@@ -3035,6 +3322,84 @@
     }
   },
   {
+    "word": "vestiges",
+    "pronunciation": "ˈvestɪdʒɪz",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "forms": "singular: **vestige**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "traces or remains of something that once existed but has almost entirely disappeared: *the vestiges of a once-great civilization lay buried under sand.*",
+        "examples": [
+          "*The crumbling walls were the last vestiges of the Roman fort.*",
+          "*She clung to the vestiges of her dignity as they led her away in chains.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "noun",
+        "text": "the smallest amount; a trace (typically in negative constructions): *there was not a vestige of truth in his testimony.*",
+        "examples": [
+          "*Without a vestige of remorse, he turned and walked away.*"
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "noun",
+        "text": "(biology) a rudimentary organ or structure that has lost its original function through evolution: *the human appendix is often cited as a vestige of our herbivorous ancestors.*",
+        "examples": []
+      }
+    ],
+    "mainExamples": [
+      "*They wandered through the vestiges of the abandoned city — broken arches, shattered fountains, streets reclaimed by forest.*",
+      "*The new regime tried to erase every vestige of the old order, but memories proved harder to burn than books.*",
+      "*Only vestiges of the ancient forest remained — a few gnarled oaks surrounded by miles of farmland.*"
+    ],
+    "usageNote": "**Vestiges** almost always carries an undertone of loss and fading — it refers to something that was once significant but has nearly vanished. In negative constructions (*not a vestige of*), it intensifies the categorical denial — \"not a trace, not a shred.\" The singular form **vestige** is equally common, but the plural emphasizes the scattered, fragmentary nature of what remains.",
+    "comparisons": [
+      {
+        "word": "remnants",
+        "description": "remains of something in a more concrete, material sense (*remnants of fabric* — scraps of cloth). A more neutral word, without the sense of fading grandeur."
+      },
+      {
+        "word": "traces",
+        "description": "a more general and neutral word that can refer to anything (*traces of blood*). Does not carry the connotation of former greatness."
+      },
+      {
+        "word": "relics",
+        "description": "objects from the past, often valued or revered. Unlike **vestiges**, implies preservation and significance."
+      }
+    ],
+    "collocations": [
+      "last vestiges",
+      "vestiges of power",
+      "vestiges of the past",
+      "not a vestige of",
+      "vestiges of civilization",
+      "vestiges of hope",
+      "faint vestiges"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "vestigial",
+        "partOfSpeech": "adjective",
+        "description": "remaining as a trace of something that once existed; rudimentary: *vestigial organs*, *vestigial powers*."
+      }
+    ],
+    "wordHistory": "From French *vestige* (16th century), going back to Latin *vestīgium* — \"footprint, trace.\" The Latin word had a broad range of meanings: from a literal footprint on the ground to metaphorical \"traces\" of events and phenomena. The related Latin *vestīgāre* meant \"to track, to investigate\" — from which English **investigate** derives, literally \"to follow a trail.\" Thus **vestiges** and **investigate** are etymological cousins: one word speaks of the traces left behind, and the other of following them.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/vestiges.jpg"
+  },
+  {
     "word": "weasel out",
     "pronunciation": "ˈwiːzəl aʊt",
     "partOfSpeech": [
@@ -3283,6 +3648,102 @@
     "cefrLevel": "C1",
     "audio": {
       "us": "https://upload.wikimedia.org/wikipedia/commons/6/6c/En-us-you.ogg"
+    }
+  },
+  {
+    "word": "zealous",
+    "pronunciation": "ˈzeləs",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "having or showing great energy, enthusiasm, and devotion in pursuit of a cause, ideal, or goal: *a zealous defender of the faith would brook no dissent.*",
+        "examples": [
+          "*She was zealous in her pursuit of justice, working eighteen-hour days without complaint.*",
+          "*The zealous reformer demanded that every corrupt official be brought to trial.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "(often with negative connotation) excessively eager or fervent to the point of fanaticism: *his zealous enforcement of petty rules made him universally despised.*",
+        "examples": [
+          "*The zealous customs officer searched every bag, every pocket, every seam.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"I need zealous warriors, not lukewarm allies,\" the king declared, slamming his fist on the table.*",
+      "*Her zealous devotion to the cause frightened even those who shared her beliefs.*",
+      "*The inquisitor was zealous beyond reason — he saw heresy in a child's lullaby.*"
+    ],
+    "usageNote": "**Zealous** walks a fine line between compliment and criticism. In positive contexts it highlights passionate commitment (*a zealous advocate*), while in negative ones it implies fanaticism and excess (*overly zealous*). Unlike **passionate**, **zealous** often implies a willingness to impose one's views on others. Takes prepositions **in**, **about**, or **for**.",
+    "comparisons": [
+      {
+        "word": "eager",
+        "description": "simple, enthusiastic desire to do something — no ideological undertone. *Eager* conveys joyful anticipation."
+      },
+      {
+        "word": "fervent",
+        "description": "intensely passionate — focuses on the strength of emotion without the pushy undertone. Closer to 'ardent.'"
+      },
+      {
+        "word": "zealous",
+        "description": "zeal + action + possible fanaticism. The person doesn't just feel — they actively push and may go too far."
+      },
+      {
+        "word": "fanatical",
+        "description": "unambiguously negative — blind, irrational obsession. **Zealous** is milder and can be a compliment."
+      }
+    ],
+    "collocations": [
+      "zealous advocate",
+      "zealous defender",
+      "zealous supporter",
+      "zealous pursuit",
+      "zealous enforcement",
+      "overly zealous",
+      "zealous in one's duties"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "zeal",
+        "partOfSpeech": "noun",
+        "description": "great energy or enthusiasm in pursuit of a cause — the noun from which **zealous** derives."
+      },
+      {
+        "word": "zealot",
+        "partOfSpeech": "noun",
+        "description": "a fanatic; a person consumed by an idea to an extreme degree. Unambiguously negative."
+      },
+      {
+        "word": "zealously",
+        "partOfSpeech": "adverb",
+        "description": "in a zealous manner; with fervent dedication."
+      },
+      {
+        "word": "zealotry",
+        "partOfSpeech": "noun",
+        "description": "fanaticism; extreme zealous behavior."
+      }
+    ],
+    "wordHistory": "From Late Latin *zēlōsus* — \"jealous, zealous,\" from Latin *zēlus* — \"zeal, jealousy,\" borrowed from Greek *ζῆλος* (*zēlos*) — \"ardor, jealousy, rivalry.\" The Greek word traces back to Proto-Indo-European *yeh₁-* — \"to seek, to strive.\" Notably, *zeal* and *jealousy* are etymological siblings: both descend from Greek *zēlos*, but *jealousy* arrived through Old French *jalousie*. The Zealots were a radical Jewish sect of the 1st century CE who fought against Roman rule. It is from them that **zealot** acquired its connotation of fanaticism — a shade of meaning that partially carried over to **zealous** as well.",
+    "cefrLevel": "C1",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/zealous.jpg",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-au.mp3"
     }
   }
 ]
