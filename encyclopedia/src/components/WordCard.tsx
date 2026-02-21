@@ -4,11 +4,13 @@ import { slugify } from '../utils/slugify'
 import { resolveAssetPath } from '../lib/assetPath'
 import WordHistory from './WordHistory'
 import ContextStory from './ContextStory'
+import PronunciationPlayer from './PronunciationPlayer'
 
 interface WordCardProps {
   word: Word
   lang: string
   onLangChange: (lang: string) => void
+  onListenClick?: (word: string) => void
 }
 
 function escapeHtml(text: string): string {
@@ -17,7 +19,7 @@ function escapeHtml(text: string): string {
   return div.innerHTML
 }
 
-export default function WordCard({ word: w, lang, onLangChange }: WordCardProps) {
+export default function WordCard({ word: w, lang, onLangChange, onListenClick }: WordCardProps) {
   return (
     <article className="word-card" id={`card-${slugify(w.word)}`} data-word={w.word}>
       <div className="card-top-section">
@@ -41,14 +43,20 @@ export default function WordCard({ word: w, lang, onLangChange }: WordCardProps)
           </div>
 
           {w.pronunciation && (
-            <div className="card-pronunciation">/{w.pronunciation}/</div>
+            <div className="card-pronunciation">
+              /{w.pronunciation}/
+              {w.audio && <PronunciationPlayer audio={w.audio} />}
+            </div>
           )}
 
-          {w.partOfSpeech && w.partOfSpeech.length > 0 && (
+          {(w.partOfSpeech?.length || w.cefrLevel) && (
             <div className="pos-badges">
-              {w.partOfSpeech.map((pos) => (
+              {w.partOfSpeech?.map((pos) => (
                 <span key={pos} className="pos-badge">{pos}</span>
               ))}
+              {w.cefrLevel && (
+                <span className={`cefr-badge cefr-${w.cefrLevel.toLowerCase()}`}>{w.cefrLevel}</span>
+              )}
             </div>
           )}
 
@@ -89,7 +97,7 @@ export default function WordCard({ word: w, lang, onLangChange }: WordCardProps)
           )}
         </div>
 
-        {w.image && (
+        {w.image ? (
           <div className="card-top-right">
             <img
               src={resolveAssetPath(w.image)}
@@ -97,6 +105,27 @@ export default function WordCard({ word: w, lang, onLangChange }: WordCardProps)
               className="card-mnemonic-image"
               loading="lazy"
             />
+            {onListenClick && (
+              <button
+                className="youglish-btn"
+                onClick={() => onListenClick(w.word)}
+                aria-label={`Listen to ${w.word}`}
+              >
+                <span className="youglish-btn-icon">&#9654;&#xFE0E;</span>
+                Watch in context
+              </button>
+            )}
+          </div>
+        ) : onListenClick && (
+          <div className="card-top-right card-top-right--no-image">
+            <button
+              className="youglish-btn"
+              onClick={() => onListenClick(w.word)}
+              aria-label={`Listen to ${w.word}`}
+            >
+              <span className="youglish-btn-icon">&#9654;&#xFE0E;</span>
+              Watch in context
+            </button>
           </div>
         )}
       </div>

@@ -26,10 +26,18 @@ export interface Collocation {
   phrase?: string
 }
 
+export interface WordAudio {
+  us?: string
+  uk?: string
+  au?: string
+}
+
 export interface Word {
   word: string
   pronunciation?: string
+  audio?: WordAudio
   partOfSpeech?: string[]
+  cefrLevel?: string
   forms?: string | null
   image?: string
   definitions?: Definition[]

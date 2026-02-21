@@ -143,7 +143,12 @@ cmd_set_field() {
   local tmp
   tmp="$(mktemp "${DATA_FILE}.XXXXXX")"
 
-  if jq --argjson i "$idx" --arg f "$field" --arg v "$value" '.[$i][$f] = $v' "$DATA_FILE" > "$tmp"; then
+  local jq_flag="--arg"
+  if echo "$value" | jq -e '.' >/dev/null 2>&1; then
+    jq_flag="--argjson"
+  fi
+
+  if jq --argjson i "$idx" --arg f "$field" $jq_flag v "$value" '.[$i][$f] = $v' "$DATA_FILE" > "$tmp"; then
     mv "$tmp" "$DATA_FILE"
     echo "Set \"$field\" on \"$word\""
   else

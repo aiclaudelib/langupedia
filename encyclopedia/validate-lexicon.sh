@@ -77,7 +77,7 @@ validate_project() {
   # --- Check 2: Neutral field consistency ---
   echo "=== Neutral Field Consistency ==="
 
-  neutral_fields=("word" "pronunciation" "partOfSpeech" "forms")
+  neutral_fields=("word" "pronunciation" "partOfSpeech" "forms" "audio" "cefrLevel")
 
   for lang in "${langs[@]:1}"; do
     file="$DATA_DIR/words.${lang}.json"

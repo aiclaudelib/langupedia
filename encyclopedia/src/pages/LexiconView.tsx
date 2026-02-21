@@ -12,6 +12,7 @@ import WordCard from '../components/WordCard'
 import HamburgerButton from '../components/HamburgerButton'
 import ScrollTopButton from '../components/ScrollTopButton'
 import ProjectFormModal from '../components/ProjectFormModal'
+import YouglishModal from '../components/YouglishModal'
 import { isStaticMode } from '../lib/dataProvider'
 
 const DEFAULT_LANG = 'ru'
@@ -32,6 +33,7 @@ export default function LexiconView() {
   const [activeWord, setActiveWord] = useState<string | null>(null)
   const [showScrollTop, setShowScrollTop] = useState(false)
   const [showEditModal, setShowEditModal] = useState(false)
+  const [youglishWord, setYouglishWord] = useState<string | null>(null)
   const mainRef = useRef<HTMLElement>(null)
 
   const { data: project } = useQuery({
@@ -169,7 +171,7 @@ export default function LexiconView() {
               {i > 0 && (
                 <div className="card-divider">&#10087;</div>
               )}
-              <WordCard word={w} lang={lang} onLangChange={handleLangChange} />
+              <WordCard word={w} lang={lang} onLangChange={handleLangChange} onListenClick={setYouglishWord} />
             </div>
           ))}
         </section>
@@ -180,6 +182,10 @@ export default function LexiconView() {
       </main>
 
       <ScrollTopButton visible={showScrollTop} onClick={scrollToTop} />
+
+      {youglishWord && (
+        <YouglishModal word={youglishWord} onClose={() => setYouglishWord(null)} />
+      )}
 
       {!isStaticMode && showEditModal && project && (
         <ProjectFormModal

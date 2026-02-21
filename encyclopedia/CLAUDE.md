@@ -116,6 +116,23 @@ Use the CLI script with `--project` flag:
 ./generate-image-pollinations.sh --project tainted-grail "<word>" "<prompt>"
 ```
 
+## Pronunciation audio
+
+Words can have an `audio` field storing external CDN URLs for pronunciation playback:
+
+```typescript
+audio?: { us?: string; uk?: string; au?: string }
+```
+
+Audio URLs are fetched via `fetch-audio-urls.sh` (no local file downloads):
+```bash
+./fetch-audio-urls.sh "hello"      # Prints JSON: {"us":"https://...","uk":"https://..."}
+```
+
+The script queries Free Dictionary API (primary) and Wiktionary/Wikimedia Commons (fallback). URLs point to external CDNs (CloudFront, Wikimedia) — no `resolveAssetPath()` needed.
+
+The `audio` field is language-neutral (identical in `words.ru.json` and `words.en.json`), same as `image`.
+
 ## Testing
 
 Tests are in `tests/e2e/`. Playwright config uses `http://localhost:4173` as base URL and runs `yarn build && yarn preview` as web server. Tests cover both the dashboard and lexicon views.

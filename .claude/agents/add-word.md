@@ -55,6 +55,7 @@ Create two complete JSON objects for the requested word — one for the Russian 
 - `pronunciation` (string) — IPA-style pronunciation without slashes
 - `partOfSpeech` (array of strings) — e.g. ["noun"], ["verb", "noun"]
 - `forms` (object or null) — irregular forms, conjugations, or plural if notable; null if regular
+- `cefrLevel` (string) — CEFR difficulty level: "A1", "A2", "B1", "B2", "C1", "C2"
 - `definitions[].sense` (number) — sequential starting from 1
 - `definitions[].context` (string) — the part of speech this sense belongs to
 - `collocations` (array of strings) — common word combinations
@@ -73,6 +74,19 @@ Create two complete JSON objects for the requested word — one for the Russian 
 | `relatedForms[].description` | На русском | In English |
 | `wordHistory` | На русском | In English |
 | `contextStory` | На русском | In English |
+
+### CEFR Level Guidelines
+
+Assign the CEFR level based on when a typical English learner would encounter this word:
+
+- **A1** — Most basic survival vocabulary (hello, house, eat, big, go)
+- **A2** — Elementary everyday words (weather, restaurant, travel, important, explain)
+- **B1** — Intermediate words for personal/work topics (influence, generous, opportunity, adapt)
+- **B2** — Upper-intermediate for abstract/professional topics (encounter, emphasize, sustainable, constraint)
+- **C1** — Advanced vocabulary for nuanced expression (eloquent, meticulous, exacerbate, juxtapose, futile)
+- **C2** — Proficiency-level, rare or literary words (ephemeral, recalcitrant, obsequious, mellifluous, conflagration)
+
+When in doubt between two levels, choose the higher one — it's better to slightly overestimate difficulty.
 
 ### Context Story generation rules
 
@@ -128,6 +142,23 @@ If the script succeeds, it prints the relative image path (e.g. `data/projects/t
 ```
 
 If the script fails (API quota, network error, etc.), **skip this step silently** and continue — the word is still added, just without an image. Do NOT report the image generation failure to the user.
+
+### Step 5.5 — Fetch pronunciation audio URLs
+
+Run:
+
+```
+AUDIO_JSON=$(./encyclopedia/fetch-audio-urls.sh "<word>")
+```
+
+If the script succeeds (exit 0), set the `audio` field on both language files:
+
+```
+./encyclopedia/lexicon.sh --project $PROJECT --lang ru set-field "<word>" "audio" "$AUDIO_JSON"
+./encyclopedia/lexicon.sh --project $PROJECT --lang en set-field "<word>" "audio" "$AUDIO_JSON"
+```
+
+If the script fails (API unavailable, word not found), **skip this step silently** and continue — the word is still added without audio.
 
 ### Step 6 — Restart the dev server
 
