@@ -6,6 +6,8 @@ import type { Project } from '../types/project'
 import { queryKeys } from '../lib/queryKeys'
 import { fetchProject, fetchWords } from '../lib/dataProvider'
 import { slugify } from '../utils/slugify'
+import { wordToMarkdown } from '../utils/wordToMarkdown'
+import { downloadMarkdown } from '../utils/downloadMarkdown'
 import Sidebar from '../components/Sidebar'
 import Header from '../components/Header'
 import WordCard from '../components/WordCard'
@@ -111,6 +113,11 @@ export default function LexiconView() {
     setSidebarOpen(false)
   }, [])
 
+  const handleExportAll = useCallback(() => {
+    const md = words.map((w) => wordToMarkdown(w)).join('\n---\n\n')
+    downloadMarkdown(md, `${projectId}-${lang}.md`)
+  }, [words, projectId, lang])
+
   // Attach scroll handler
   const mainRefCallback = useCallback((node: HTMLElement | null) => {
     // Clean up old listener
@@ -163,6 +170,7 @@ export default function LexiconView() {
           subtitle={project?.subtitle}
           showBackLink
           onEdit={() => setShowEditModal(true)}
+          onExport={handleExportAll}
         />
 
         <section className="cards-container">

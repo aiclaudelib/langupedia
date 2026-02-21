@@ -317,7 +317,6 @@ body {
   display: flex;
   gap: 0;
   flex-shrink: 0;
-  margin-top: 4px;
 }
 
 .card-lang-btn {
@@ -791,10 +790,16 @@ body {
 }
 
 /* --- Header back link --- */
-.header-edit {
+.header-actions {
   position: absolute;
   top: 16px;
   right: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.header-edit {
   font-family: 'Inter', system-ui, sans-serif;
   font-size: 0.78rem;
   font-weight: 500;
@@ -810,6 +815,64 @@ body {
 .header-edit:hover {
   background: var(--accent);
   color: #fff;
+}
+
+.header-share {
+  position: relative;
+}
+
+.header-share-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+  padding: 0;
+}
+
+.header-share-btn:hover {
+  background: var(--accent-light);
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.header-dropdown {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  min-width: 180px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  z-index: 100;
+  padding: 4px 0;
+}
+
+.header-dropdown-item {
+  display: block;
+  width: 100%;
+  padding: 8px 14px;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  background: none;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.header-dropdown-item:hover {
+  background: var(--accent-light);
+  color: var(--accent);
 }
 
 .input-readonly {
@@ -1152,6 +1215,41 @@ body {
 
 .scroll-top:hover {
   transform: translateY(-2px);
+}
+
+/* --- Card header actions --- */
+.card-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+  margin-top: 4px;
+}
+
+.card-share {
+  position: relative;
+}
+
+.card-share-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+  padding: 0;
+  flex-shrink: 0;
+}
+
+.card-share-btn:hover {
+  background: var(--accent-light);
+  color: var(--accent);
+  border-color: var(--accent);
 }
 
 /* --- Responsive --- */

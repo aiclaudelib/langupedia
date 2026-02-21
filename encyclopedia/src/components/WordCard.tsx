@@ -1,7 +1,10 @@
+import { useState, useRef, useEffect } from 'react'
 import type { Word } from '../types/word'
 import { formatText } from '../utils/formatText'
 import { slugify } from '../utils/slugify'
 import { resolveAssetPath } from '../lib/assetPath'
+import { wordToMarkdown } from '../utils/wordToMarkdown'
+import { downloadMarkdown } from '../utils/downloadMarkdown'
 import WordHistory from './WordHistory'
 import ContextStory from './ContextStory'
 import PronunciationPlayer from './PronunciationPlayer'
@@ -20,25 +23,65 @@ function escapeHtml(text: string): string {
 }
 
 export default function WordCard({ word: w, lang, onLangChange, onListenClick }: WordCardProps) {
+  const [shareOpen, setShareOpen] = useState(false)
+  const shareRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    if (!shareOpen) return
+    const handleClick = (e: MouseEvent) => {
+      if (shareRef.current && !shareRef.current.contains(e.target as Node)) {
+        setShareOpen(false)
+      }
+    }
+    document.addEventListener('click', handleClick, true)
+    return () => document.removeEventListener('click', handleClick, true)
+  }, [shareOpen])
+
   return (
     <article className="word-card" id={`card-${slugify(w.word)}`} data-word={w.word}>
       <div className="card-top-section">
         <div className="card-top-left">
           <div className="card-header-row">
             <h2 className="card-word">{w.word}</h2>
-            <div className="card-lang-toggle">
-              <button
-                className={`card-lang-btn${lang === 'ru' ? ' active' : ''}`}
-                onClick={() => onLangChange('ru')}
-              >
-                RU
-              </button>
-              <button
-                className={`card-lang-btn${lang === 'en' ? ' active' : ''}`}
-                onClick={() => onLangChange('en')}
-              >
-                EN
-              </button>
+            <div className="card-header-actions">
+              <div className="card-share" ref={shareRef}>
+                <button
+                  className="card-share-btn"
+                  onClick={() => setShareOpen((v) => !v)}
+                  aria-label={`Share ${w.word}`}
+                  title="Share"
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" />
+                    <polyline points="16 6 12 2 8 6" />
+                    <line x1="12" y1="2" x2="12" y2="15" />
+                  </svg>
+                </button>
+                {shareOpen && (
+                  <div className="header-dropdown">
+                    <button
+                      className="header-dropdown-item"
+                      onClick={() => { downloadMarkdown(wordToMarkdown(w), `${w.word}.md`); setShareOpen(false) }}
+                    >
+                      Download Markdown
+                    </button>
+                  </div>
+                )}
+              </div>
+              <div className="card-lang-toggle">
+                <button
+                  className={`card-lang-btn${lang === 'ru' ? ' active' : ''}`}
+                  onClick={() => onLangChange('ru')}
+                >
+                  RU
+                </button>
+                <button
+                  className={`card-lang-btn${lang === 'en' ? ' active' : ''}`}
+                  onClick={() => onLangChange('en')}
+                >
+                  EN
+                </button>
+              </div>
             </div>
           </div>
 
