@@ -1419,6 +1419,98 @@
     }
   },
   {
+    "word": "fend for oneself",
+    "pronunciation": "fɛnd fɔːr wʌnˈsɛlf",
+    "partOfSpeech": [
+      "verb phrase"
+    ],
+    "forms": "fends for oneself; fended for oneself; fending for oneself",
+    "cefrLevel": "B2",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb phrase",
+        "text": "to look after and provide for oneself without help from others; to manage independently: *when her parents left for a month, she had to fend for herself for the first time.*",
+        "examples": [
+          "*At sixteen he was thrown out and forced to fend for himself on the streets.*",
+          "*The orphaned cubs would have to fend for themselves through the harsh winter.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb phrase",
+        "text": "to cope alone in a difficult or unfamiliar situation without support: *the new employee was left to fend for herself with no training whatsoever.*",
+        "examples": [
+          "*After the guide disappeared, the tourists had to fend for themselves in the jungle.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"You're twelve now — old enough to fend for yourself,\" his mother said, handing him the house keys.*",
+      "*The kingdom collapsed, and every village was left to fend for itself against the approaching darkness.*",
+      "*She had always fended for herself — trusting others was a luxury she couldn't afford.*"
+    ],
+    "usageNote": "**Fend for oneself** implies forced self-reliance — the person isn't choosing independence but has been left with no alternative. The reflexive pronoun changes with the subject: *fend for myself / yourself / himself / herself / themselves / ourselves*. Frequently paired with **left** or **forced**: *left to fend for themselves*, *forced to fend for himself*.",
+    "comparisons": [
+      {
+        "word": "take care of oneself",
+        "description": "neutral — simply 'look after oneself,' without the dramatic undertone of abandonment."
+      },
+      {
+        "word": "get by",
+        "description": "to manage at a minimal level, scrape through — emphasizes bare sufficiency, not necessarily alone."
+      },
+      {
+        "word": "fend for oneself",
+        "description": "to cope alone when left without help — carries an undertone of being abandoned or cast adrift."
+      },
+      {
+        "word": "stand on one's own two feet",
+        "description": "to be independent and self-sufficient — a positive framing of maturity and dignity, without the note of being forsaken."
+      }
+    ],
+    "collocations": [
+      "left to fend for oneself",
+      "forced to fend for oneself",
+      "have to fend for oneself",
+      "able to fend for oneself",
+      "learn to fend for oneself",
+      "fend for oneself in the wild"
+    ],
+    "idioms": [
+      {
+        "phrase": "fend off",
+        "explanation": "to defend against or push away (an attack, unwanted attention): *she fended off the attacker with a stick.* A related expression using the same verb **fend**, but with a different meaning."
+      }
+    ],
+    "relatedForms": [
+      {
+        "word": "fend",
+        "partOfSpeech": "verb",
+        "description": "an archaic verb rarely used on its own today; it survives in the set phrases **fend for** and **fend off**."
+      },
+      {
+        "word": "fend off",
+        "partOfSpeech": "phrasal verb",
+        "description": "to repel, ward off, or parry — used for physical attacks and figuratively for unwanted attention or questions."
+      },
+      {
+        "word": "self-reliant",
+        "partOfSpeech": "adjective",
+        "description": "able to rely on oneself; independent — describes the quality of someone who can **fend for themselves**."
+      }
+    ],
+    "wordHistory": "The verb **fend** is a shortened form of **defend**, arising in Middle English (13th–14th century) through apheresis — the dropping of an initial syllable. Middle English *fenden* meant \"to protect, to guard.\" By the 16th century, **fend for** had acquired the sense of \"to provide for, to look after\" — literally \"to defend the interests of.\" The phrase **fend for oneself** became established as an idiom meaning \"to survive independently, without outside help.\" In parallel, **fend off** developed with the meaning \"to repel, to ward off.\" Curiously, the full form **defend** retained its noble, military tone, while the clipped **fend** became a word of everyday survival.",
+    "contextStory": "When the old master died, his apprentice — a fourteen-year-old boy — was left alone in the workshop. No one from the guild offered help: \"Let him learn to **fend for himself**,\" they said. He barely survived the first winter, living on stale bread and leather scraps, but by spring he was taking small commissions. Two years later, he could **fend for himself** so well that he began taking apprentices of his own. \"I will never leave you to **fend for yourselves**,\" he promised them. He knew the price of that loneliness.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-22"
+    },
+    "image": "/data/projects/tainted-grail/images/words/fend for oneself.jpg"
+  },
+  {
     "word": "fervent",
     "pronunciation": "ˈfɜːrvənt",
     "partOfSpeech": [
@@ -3165,6 +3257,99 @@
     "cefrLevel": "C1",
     "audio": {
       "us": "https://api.dictionaryapi.dev/media/pronunciations/en/tether-us.mp3"
+    }
+  },
+  {
+    "word": "trifled with",
+    "pronunciation": "ˈtraɪfəld wɪð",
+    "partOfSpeech": [
+      "phrasal verb"
+    ],
+    "forms": "trifles with, trifled with, trifling with",
+    "cefrLevel": "C1",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "phrasal verb",
+        "text": "to treat someone or their feelings carelessly and without seriousness; to toy with someone's emotions or affections in a dismissive way: *he trifled with her affections and then vanished without a word.*",
+        "examples": [
+          "*She warned him not to trifle with her patience — it had limits.*",
+          "*The young nobleman trifled with every heart at court, never committing to anyone.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "phrasal verb",
+        "text": "to treat something dangerous or significant without proper respect; to underestimate a threat or serious matter: *fate is not to be trifled with.*",
+        "examples": [
+          "*The ancient curse was not something to be trifled with — those who ignored it paid dearly.*",
+          "*\"Do not trifle with forces you don't understand,\" the old mage cautioned.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"I am not a woman to be trifled with,\" she said, drawing her blade.*",
+      "*He had trifled with dark magic once before, and the scars still burned on cold nights.*",
+      "*The villagers knew better than to trifle with the forest spirits — every offering was left on time.*"
+    ],
+    "usageNote": "Most commonly found in the phrase **not to be trifled with**, which serves as a warning that someone or something is dangerous and should be taken seriously. In the sense of playing with emotions, **trifle with someone's feelings/affections** has a somewhat literary, old-fashioned ring but remains current in fiction and dramatic contexts. The base verb **trifle** is rarely used without a preposition in modern English.",
+    "comparisons": [
+      {
+        "word": "toy with",
+        "description": "a close synonym meaning to play with casually. However, **toy with** more often applies to objects or ideas (*toy with the idea*), while **trifle with** tends toward people and dangerous things."
+      },
+      {
+        "word": "mess with",
+        "description": "the informal equivalent: *don't mess with me* = *don't trifle with me*. **Mess with** is rougher and more contemporary; **trifle with** is more literary."
+      },
+      {
+        "word": "meddle with",
+        "description": "to interfere uninvited. The emphasis is on intrusion, not frivolity. **Trifle with** stresses disrespectful carelessness; **meddle with** stresses unwanted involvement."
+      }
+    ],
+    "collocations": [
+      "not to be trifled with",
+      "trifle with someone's feelings",
+      "trifle with someone's affections",
+      "trifle with fate",
+      "trifle with danger",
+      "trifle with forces",
+      "trifle with someone's patience"
+    ],
+    "idioms": [
+      {
+        "phrase": "not a man/woman to be trifled with",
+        "explanation": "a person who is dangerous, formidable, or serious — someone you should not underestimate or provoke."
+      }
+    ],
+    "relatedForms": [
+      {
+        "word": "trifle",
+        "partOfSpeech": "noun",
+        "description": "a thing of little value or importance; a mere nothing. Also a layered English dessert of sponge cake, cream, and fruit."
+      },
+      {
+        "word": "trifle",
+        "partOfSpeech": "verb",
+        "description": "to act or speak without seriousness; to idle or waste time. The base verb from which the phrasal verb derives."
+      },
+      {
+        "word": "trifling",
+        "partOfSpeech": "adjective",
+        "description": "unimportant, trivial, not worth considering: *a trifling matter.*"
+      }
+    ],
+    "wordHistory": "The verb **trifle** entered Middle English as *triflen* — \"to mock, deceive, talk nonsense.\" It derives from Old French *trufle* / *truffe* — \"deception, mockery, nonsense\" (related to Italian *truffa* — \"fraud\"). The original sense of \"talking idly, speaking trifles\" gradually shifted to \"treating without seriousness.\" The construction **trifle with** became established in the 16th–17th centuries meaning \"to toy with someone's feelings, to treat carelessly.\" Shakespeare used *trifle* as a noun meaning \"a trivial thing, an illusion\" (*These are but trifles*). The formula **not to be trifled with** solidified as a stock warning by the 18th century and remains a potent signal of danger in English to this day.",
+    "contextStory": "The old knight looked at the youth who had dared to challenge him and smirked. He had seen dozens of boys who **trifled with** danger without understanding the cost. \"Boy, you have **trifled with** the wrong man,\" he said, rising slowly from his chair. The scars on his arms spoke louder than any words. The hall fell silent — everyone knew this was a man not to be **trifled with**. The youth swallowed hard and stepped back. The lesson was learned without a single blow.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-22"
+    },
+    "image": "/data/projects/tainted-grail/images/words/trifled with.jpg",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/trifle-us.mp3"
     }
   },
   {

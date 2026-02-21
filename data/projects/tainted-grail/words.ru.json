@@ -1419,6 +1419,98 @@
     }
   },
   {
+    "word": "fend for oneself",
+    "pronunciation": "fɛnd fɔːr wʌnˈsɛlf",
+    "partOfSpeech": [
+      "verb phrase"
+    ],
+    "forms": "fends for oneself; fended for oneself; fending for oneself",
+    "cefrLevel": "B2",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb phrase",
+        "text": "заботиться о себе самостоятельно, обходиться без посторонней помощи; самому обеспечивать свои нужды: *when her parents left for a month, she had to fend for herself for the first time* — когда родители уехали на месяц, ей впервые пришлось заботиться о себе самой.",
+        "examples": [
+          "*At sixteen he was thrown out and forced to fend for himself on the streets.* — В шестнадцать его выгнали, и ему пришлось выживать самостоятельно на улице.",
+          "*The orphaned cubs would have to fend for themselves through the harsh winter.* — Осиротевшим детёнышам предстояло выживать самим суровой зимой."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb phrase",
+        "text": "(в более широком контексте) справляться самому в трудной или незнакомой ситуации без поддержки: *the new employee was left to fend for herself with no training whatsoever* — новую сотрудницу бросили выкручиваться самой без какого-либо обучения.",
+        "examples": [
+          "*After the guide disappeared, the tourists had to fend for themselves in the jungle.* — Когда проводник исчез, туристам пришлось справляться самим в джунглях."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"You're twelve now — old enough to fend for yourself,\" his mother said, handing him the house keys.* — «Тебе двенадцать — достаточно взрослый, чтобы позаботиться о себе», — сказала мать, протягивая ему ключи от дома.",
+      "*The kingdom collapsed, and every village was left to fend for itself against the approaching darkness.* — Королевство рухнуло, и каждой деревне пришлось защищаться от наступающей тьмы самостоятельно.",
+      "*She had always fended for herself — trusting others was a luxury she couldn't afford.* — Она всегда полагалась только на себя — доверять другим было роскошью, которую она не могла себе позволить."
+    ],
+    "usageNote": "Фраза **fend for oneself** подразумевает вынужденную самостоятельность — человек не просто предпочитает справляться сам, а поставлен в условия, где помощи ждать неоткуда. Местоимение меняется в зависимости от подлежащего: *fend for myself / yourself / himself / herself / themselves / ourselves*. Часто используется с глаголами **leave** и **force**: *left to fend for themselves*, *forced to fend for himself*.",
+    "comparisons": [
+      {
+        "word": "take care of oneself",
+        "description": "нейтральное выражение — просто «заботиться о себе», без драматического подтекста вынужденности."
+      },
+      {
+        "word": "get by",
+        "description": "перебиваться, сводить концы с концами — акцент на минимальном уровне выживания, не обязательно в одиночку."
+      },
+      {
+        "word": "fend for oneself",
+        "description": "справляться самому в ситуации, когда тебя оставили без помощи — есть оттенок брошенности и вынужденной стойкости."
+      },
+      {
+        "word": "stand on one's own two feet",
+        "description": "быть самостоятельным, независимым — позитивный оттенок зрелости и достоинства, без ноты покинутости."
+      }
+    ],
+    "collocations": [
+      "left to fend for oneself",
+      "forced to fend for oneself",
+      "have to fend for oneself",
+      "able to fend for oneself",
+      "learn to fend for oneself",
+      "fend for oneself in the wild"
+    ],
+    "idioms": [
+      {
+        "phrase": "fend off",
+        "explanation": "отбивать, отражать (атаку, нежелательное внимание): *she fended off the attacker with a stick* — она отбилась от нападавшего палкой. Родственное выражение с тем же глаголом **fend**, но другим значением."
+      }
+    ],
+    "relatedForms": [
+      {
+        "word": "fend",
+        "partOfSpeech": "verb",
+        "description": "архаичный глагол, сегодня почти не используется отдельно; сохранился в устойчивых фразах **fend for** и **fend off**."
+      },
+      {
+        "word": "fend off",
+        "partOfSpeech": "phrasal verb",
+        "description": "отбивать, отражать, парировать — используется для физических атак и переносно для нежелательного внимания или вопросов."
+      },
+      {
+        "word": "self-reliant",
+        "partOfSpeech": "adjective",
+        "description": "самостоятельный, полагающийся на себя — прилагательное, описывающее качество человека, который умеет **fend for himself**."
+      }
+    ],
+    "wordHistory": "Глагол **fend** — сокращённая форма **defend** (защищать), возникшая в среднеанглийском периоде (XIII–XIV век) путём афереза — отпадения начального слога. Среднеанглийское *fenden* значило «защищать, оборонять». К XVI веку **fend for** приобрело значение «обеспечивать, заботиться» — буквально «защищать интересы кого-либо». Фраза **fend for oneself** закрепилась как идиома со значением «выживать самостоятельно, без чужой помощи». Параллельно развилась фраза **fend off** — «отражать, отбивать». Любопытно, что полная форма **defend** сохранила благородный, военный оттенок, а укороченная **fend** стала словом повседневного выживания.",
+    "contextStory": "Когда старый мастер умер, его ученик — четырнадцатилетний мальчишка — остался один в мастерской. Никто из гильдии не протянул руку: «Пусть учится **fend for himself**», — сказали они. Первую зиму он едва пережил, питаясь чёрствым хлебом и обрезками кожи, но к весне уже брал мелкие заказы. Через два года он **fend for himself** так уверенно, что начал брать собственных учеников. «Я никогда не оставлю вас **fend for yourselves**», — пообещал он им. Он знал цену этого одиночества.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-22"
+    },
+    "image": "/data/projects/tainted-grail/images/words/fend for oneself.jpg"
+  },
+  {
     "word": "fervent",
     "pronunciation": "ˈfɜːrvənt",
     "partOfSpeech": [
@@ -3165,6 +3257,99 @@
     "cefrLevel": "C1",
     "audio": {
       "us": "https://api.dictionaryapi.dev/media/pronunciations/en/tether-us.mp3"
+    }
+  },
+  {
+    "word": "trifled with",
+    "pronunciation": "ˈtraɪfəld wɪð",
+    "partOfSpeech": [
+      "phrasal verb"
+    ],
+    "forms": "trifles with, trifled with, trifling with",
+    "cefrLevel": "C1",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "phrasal verb",
+        "text": "обращаться с кем-либо или чем-либо легкомысленно, несерьёзно; играть чувствами, пренебрегать значимостью: *he trifled with her affections and then vanished without a word* — он играл её чувствами, а потом исчез без единого слова.",
+        "examples": [
+          "*She warned him not to trifle with her patience — it had limits.* — Она предупредила его, чтобы он не испытывал её терпение — у него есть пределы.",
+          "*The young nobleman trifled with every heart at court, never committing to anyone.* — Молодой дворянин играл с каждым сердцем при дворе, не привязываясь ни к кому."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "phrasal verb",
+        "text": "относиться к чему-то опасному или серьёзному без должного уважения; недооценивать угрозу: *fate is not to be trifled with* — с судьбой нельзя шутить.",
+        "examples": [
+          "*The ancient curse was not something to be trifled with — those who ignored it paid dearly.* — С древним проклятием нельзя было шутить — те, кто его игнорировал, платили дорого.",
+          "*\"Do not trifle with forces you don't understand,\" the old mage cautioned.* — «Не шути с силами, которых ты не понимаешь», — предостерёг старый маг."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"I am not a woman to be trifled with,\" she said, drawing her blade.* — «Я не та женщина, с которой можно шутить», — сказала она, обнажая клинок.",
+      "*He had trifled with dark magic once before, and the scars still burned on cold nights.* — Он уже однажды шутил с тёмной магией, и шрамы до сих пор горели в холодные ночи.",
+      "*The villagers knew better than to trifle with the forest spirits — every offering was left on time.* — Сельчане знали, что с лесными духами лучше не шутить — каждое подношение оставлялось вовремя."
+    ],
+    "usageNote": "Чаще всего встречается в конструкции **not to be trifled with** — «с этим/ним/ней шутки плохи». Эта формула подчёркивает опасность или серьёзность объекта. В значении «играть чувствами» конструкция **trifle with someone's feelings/affections** звучит несколько книжно и старомодно, но по-прежнему используется в литературе и драматическом контексте.",
+    "comparisons": [
+      {
+        "word": "toy with",
+        "description": "близкий синоним — играть, забавляться. Но **toy with** чаще о предметах или идеях (*toy with the idea*), а **trifle with** — о людях и опасных вещах."
+      },
+      {
+        "word": "mess with",
+        "description": "разговорный аналог: *don't mess with me* = *don't trifle with me*. **Mess with** — грубее и современнее, **trifle with** — литературнее."
+      },
+      {
+        "word": "meddle with",
+        "description": "вмешиваться, лезть не в своё дело. Акцент на вторжении, а не на легкомысленности. **Trifle with** подчёркивает пренебрежение, **meddle with** — непрошеное вмешательство."
+      }
+    ],
+    "collocations": [
+      "not to be trifled with",
+      "trifle with someone's feelings",
+      "trifle with someone's affections",
+      "trifle with fate",
+      "trifle with danger",
+      "trifle with forces",
+      "trifle with someone's patience"
+    ],
+    "idioms": [
+      {
+        "phrase": "not a man/woman to be trifled with",
+        "explanation": "человек, с которым шутки плохи; опасный, серьёзный противник, которого не стоит недооценивать."
+      }
+    ],
+    "relatedForms": [
+      {
+        "word": "trifle",
+        "partOfSpeech": "noun",
+        "description": "мелочь, пустяк, безделица. Также — английский десерт из бисквита, крема и фруктов."
+      },
+      {
+        "word": "trifle",
+        "partOfSpeech": "verb",
+        "description": "обращаться несерьёзно, бездельничать. Базовый глагол, от которого образован фразовый."
+      },
+      {
+        "word": "trifling",
+        "partOfSpeech": "adjective",
+        "description": "пустяковый, ничтожный, не стоящий внимания: *a trifling matter* — пустяковое дело."
+      }
+    ],
+    "wordHistory": "Глагол **trifle** появился в среднеанглийском как *triflen* — «насмехаться, обманывать, говорить вздор». Восходит к старофранцузскому *trufle* / *truffe* — «обман, насмешка, вздор» (родственно итальянскому *truffa* — «мошенничество»). Первоначальное значение — «говорить пустяки, нести чушь» — постепенно сместилось к «относиться без серьёзности». Конструкция **trifle with** закрепилась в XVI–XVII веках в значении «играть чувствами, обращаться легкомысленно». Шекспир использовал *trifle* как существительное в значении «пустяк, иллюзия» (*These are but trifles* — «Это лишь пустяки»). Формула **not to be trifled with** стала устойчивым предупреждением к XVIII веку и до сих пор звучит в английском как знак опасности.",
+    "contextStory": "Старый рыцарь посмотрел на юнца, который осмелился бросить ему вызов, и усмехнулся. Он видел десятки таких мальчишек, которые **trifled with** опасностью, не понимая цены. «Мальчик, ты **trifled with** не тем человеком», — произнёс он, медленно поднимаясь из кресла. Шрамы на его руках говорили красноречивее любых слов. Зал затих — все знали, что с этим человеком **trifled with** никто и никогда безнаказанно. Юнец сглотнул и отступил на шаг. Урок был усвоен без единого удара.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-22"
+    },
+    "image": "/data/projects/tainted-grail/images/words/trifled with.jpg",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/trifle-us.mp3"
     }
   },
   {
