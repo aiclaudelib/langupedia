@@ -1,7 +1,7 @@
 ---
 name: generate-context-story
 description: Generates a context story for an existing word in the lexicon and saves it to both JSON data files. Use when the user asks to generate, create, or add a context story for a word.
-argument-hint: "<word>"
+argument-hint: "<project-id> <word>"
 allowed-tools: Bash, Read
 context: fork
 agent: general-purpose
@@ -9,7 +9,11 @@ agent: general-purpose
 
 # Generate Context Story for a Word
 
-Generate a vivid context story for the word `$ARGUMENTS` and save it to both language files.
+Generate a vivid context story for the word specified in `$ARGUMENTS` and save it to both language files.
+
+`$ARGUMENTS` format: `<project-id> <word>` (e.g. `tainted-grail abhor`).
+
+Parse the first token as `PROJECT` and the rest as `WORD`.
 
 ## Workflow
 
@@ -17,10 +21,10 @@ Generate a vivid context story for the word `$ARGUMENTS` and save it to both lan
 
 ```bash
 cd /Users/dkuznetsov/Work/English/encyclopedia
-./lexicon.sh --lang en get "$ARGUMENTS"
+./lexicon.sh --project $PROJECT --lang en get "$WORD"
 ```
 
-If the word is not found, respond: **"Слово «$ARGUMENTS» не найдено в лексиконе."** and stop.
+If the word is not found, respond: **"Слово «$WORD» не найдено в лексиконе."** and stop.
 
 From the output, note:
 - `word` — the word itself
@@ -45,8 +49,8 @@ Guidelines:
 
 ```bash
 cd /Users/dkuznetsov/Work/English/encyclopedia
-./lexicon.sh --lang en set-field "$ARGUMENTS" contextStory "<english story>"
-./lexicon.sh --lang ru set-field "$ARGUMENTS" contextStory "<russian story>"
+./lexicon.sh --project $PROJECT --lang en set-field "$WORD" contextStory "<english story>"
+./lexicon.sh --project $PROJECT --lang ru set-field "$WORD" contextStory "<russian story>"
 ```
 
 ### Step 4 — Restart the dev server
@@ -58,6 +62,6 @@ npx pm2 delete lexicon 2>/dev/null; npx pm2 start ecosystem.config.cjs
 
 ### Step 5 — Report
 
-Respond in Russian: **"Context story для «$ARGUMENTS» сгенерирован и сохранён."**
+Respond in Russian: **"Context story для «$WORD» сгенерирован и сохранён."**
 
 Nothing else. Keep the response short.

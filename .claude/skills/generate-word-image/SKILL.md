@@ -1,7 +1,7 @@
 ---
 name: generate-word-image
 description: Generates a mnemonic/associative image for an existing word in the lexicon and links it to both JSON data files. Use when the user asks to generate, create, or add an image/picture/illustration for a word.
-argument-hint: "<word>"
+argument-hint: "<project-id> <word>"
 allowed-tools: Bash, Read
 context: fork
 agent: general-purpose
@@ -9,7 +9,11 @@ agent: general-purpose
 
 # Generate Mnemonic Image for a Word
 
-Generate an associative image for the word `$ARGUMENTS` and link it to the lexicon JSON files.
+Generate an associative image for the word specified in `$ARGUMENTS` and link it to the lexicon JSON files.
+
+`$ARGUMENTS` format: `<project-id> <word>` (e.g. `tainted-grail abhor`).
+
+Parse the first token as `PROJECT` and the rest as `WORD`.
 
 ## Workflow
 
@@ -17,10 +21,10 @@ Generate an associative image for the word `$ARGUMENTS` and link it to the lexic
 
 ```bash
 cd /Users/dkuznetsov/Work/English/encyclopedia
-./lexicon.sh --lang en get "$ARGUMENTS"
+./lexicon.sh --project $PROJECT --lang en get "$WORD"
 ```
 
-If the word is not found, respond: **"Слово «$ARGUMENTS» не найдено в лексиконе."** and stop.
+If the word is not found, respond: **"Слово «$WORD» не найдено в лексиконе."** and stop.
 
 From the output, note:
 - `partOfSpeech` — the word type(s)
@@ -72,10 +76,10 @@ Pass the complete prompt to the script:
 
 ```bash
 cd /Users/dkuznetsov/Work/English/encyclopedia
-./generate-image-pollinations.sh "$ARGUMENTS" "<your crafted prompt>"
+./generate-image-pollinations.sh --project $PROJECT "$WORD" "<your crafted prompt>"
 ```
 
-The script prints the relative image path on success (e.g. `images/words/abhor.jpg`).
+The script prints the relative image path on success (e.g. `data/projects/tainted-grail/images/words/abhor.jpg`).
 
 If it fails, respond in Russian with the error and stop.
 
@@ -83,8 +87,8 @@ If it fails, respond in Russian with the error and stop.
 
 ```bash
 cd /Users/dkuznetsov/Work/English/encyclopedia
-./lexicon.sh --lang en set-field "$ARGUMENTS" "image" "<path from step 3>"
-./lexicon.sh --lang ru set-field "$ARGUMENTS" "image" "<path from step 3>"
+./lexicon.sh --project $PROJECT --lang en set-field "$WORD" "image" "<path from step 3>"
+./lexicon.sh --project $PROJECT --lang ru set-field "$WORD" "image" "<path from step 3>"
 ```
 
 ### Step 5 — Restart the dev server
@@ -96,6 +100,6 @@ npx pm2 delete lexicon 2>/dev/null; npx pm2 start ecosystem.config.cjs
 
 ### Step 6 — Report
 
-Respond in Russian: **"Картинка для $ARGUMENTS сгенерирована и привязана."**
+Respond in Russian: **"Картинка для $WORD сгенерирована и привязана."**
 
 Nothing else. Keep the response short.

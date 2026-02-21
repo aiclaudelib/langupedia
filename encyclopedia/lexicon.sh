@@ -3,20 +3,35 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+PROJECT=""
 LANG_CODE="ru"
+
+# Parse --project before --lang
+if [[ "${1:-}" == "--project" ]]; then
+  PROJECT="${2:?Error: --project requires a project id (e.g. tainted-grail)}"
+  shift 2
+fi
+
 if [[ "${1:-}" == "--lang" ]]; then
   LANG_CODE="${2:?Error: --lang requires a language code (e.g. ru, en)}"
   shift 2
 fi
-DATA_FILE="$SCRIPT_DIR/public/data/words.${LANG_CODE}.json"
+
+if [[ -z "$PROJECT" ]]; then
+  echo "Error: --project <id> is required (e.g. --project tainted-grail)" >&2
+  exit 1
+fi
+
+DATA_FILE="$SCRIPT_DIR/public/data/projects/${PROJECT}/words.${LANG_CODE}.json"
 
 usage() {
   cat <<'EOF'
-Usage: lexicon.sh [--lang <code>] <command> [args]
+Usage: lexicon.sh --project <id> [--lang <code>] <command> [args]
 
 Options:
+  --project <id>  Project to operate on (required)
   --lang <code>   Language file to use (default: ru)
-                  Reads public/data/words.<code>.json
+                  Reads public/data/projects/<id>/words.<code>.json
 
 Commands:
   last [N]      Show last N entries (default: 2)

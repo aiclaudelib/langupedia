@@ -1,6 +1,7 @@
 import type { Word } from '../types/word'
 import { formatText } from '../utils/formatText'
 import { slugify } from '../utils/slugify'
+import { resolveAssetPath } from '../lib/assetPath'
 import WordHistory from './WordHistory'
 import ContextStory from './ContextStory'
 
@@ -91,7 +92,7 @@ export default function WordCard({ word: w, lang, onLangChange }: WordCardProps)
         {w.image && (
           <div className="card-top-right">
             <img
-              src={w.image}
+              src={resolveAssetPath(w.image)}
               alt={`Mnemonic illustration for ${w.word}`}
               className="card-mnemonic-image"
               loading="lazy"

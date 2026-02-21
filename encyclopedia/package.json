@@ -10,14 +10,19 @@
     "pm2": "pm2 start ecosystem.config.cjs --only lexicon",
     "pm2:restart": "pm2 restart lexicon",
     "pm2:stop": "pm2 stop lexicon",
-    "test": "playwright test"
+    "test": "playwright test",
+    "generate-index": "node scripts/generate-index.mjs",
+    "build:ghpages": "node scripts/generate-index.mjs && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/English/ tsc -b && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/English/ vite build && cp dist/index.html dist/404.html"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.90.21",
+    "@tanstack/react-router": "^1.161.3",
     "react": "^19",
     "react-dom": "^19"
   },
   "devDependencies": {
     "@playwright/test": "^1.50",
+    "@types/node": "^25.3.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@vitejs/plugin-react": "^4",

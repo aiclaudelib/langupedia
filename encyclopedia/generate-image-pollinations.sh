@@ -9,8 +9,14 @@ if [[ ! -f "$CONFIG_FILE" ]]; then
   exit 1
 fi
 
+PROJECT=""
+if [[ "${1:-}" == "--project" ]]; then
+  PROJECT="${2:?Error: --project requires a project id (e.g. tainted-grail)}"
+  shift 2
+fi
+
 if [[ $# -lt 2 ]]; then
-  echo "Usage: $0 <word> \"<image prompt>\"" >&2
+  echo "Usage: $0 [--project <id>] <word> \"<image prompt>\"" >&2
   exit 1
 fi
 
@@ -30,7 +36,14 @@ fi
 # URL-encode the prompt
 ENCODED_PROMPT=$(python3 -c "import urllib.parse, sys; print(urllib.parse.quote(sys.stdin.read()))" <<< "$IMAGE_PROMPT")
 
-OUTPUT_DIR="$SCRIPT_DIR/public/images/words"
+if [[ -n "$PROJECT" ]]; then
+  OUTPUT_DIR="$SCRIPT_DIR/public/data/projects/${PROJECT}/images/words"
+  RELATIVE_PATH="/data/projects/${PROJECT}/images/words/${WORD}.jpg"
+else
+  OUTPUT_DIR="$SCRIPT_DIR/public/images/words"
+  RELATIVE_PATH="images/words/${WORD}.jpg"
+fi
+
 mkdir -p "$OUTPUT_DIR"
 OUTPUT_FILE="$OUTPUT_DIR/${WORD}.jpg"
 
@@ -50,4 +63,4 @@ if [[ ! -s "$OUTPUT_FILE" ]]; then
   exit 1
 fi
 
-echo "images/words/${WORD}.jpg"
+echo "$RELATIVE_PATH"

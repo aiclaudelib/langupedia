@@ -1,5 +1,6 @@
 import { useMemo } from 'react'
 import type { Word } from '../types/word'
+import { slugify } from '../utils/slugify'
 
 interface SidebarProps {
   words: Word[]
@@ -63,6 +64,7 @@ export default function Sidebar({
               {groups[letter].map((w) => (
                 <a
                   key={w.word}
+                  href={`#${slugify(w.word)}`}
                   className={`word-list-item${activeWord === w.word ? ' active' : ''}`}
                   data-word={w.word}
                   onClick={(e) => {

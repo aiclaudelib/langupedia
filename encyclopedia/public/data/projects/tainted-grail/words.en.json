@@ -70,7 +70,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/abhor.jpg",
+    "image": "/data/projects/tainted-grail/images/words/abhor.jpg",
     "contextStory": "The old librarian **abhorred** noise — not merely disliked it, but recoiled from it as if sound itself were poison. When the new city council proposed turning half her library into a gaming lounge, she stood before them trembling with quiet fury. \"I **abhor** this plan,\" she said, her voice barely above a whisper yet sharp enough to silence the room. The council members shifted uncomfortably. They had expected protest, not this white-knuckled dignity. She returned to her library that evening, sat among her beloved shelves, and wrote a letter so devastating in its eloquence that the proposal was dead within a week — because nature **abhors** a vacuum, and she had filled every inch of that debate with righteous, unyielding conviction."
   },
   {
@@ -140,7 +140,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/absolution.jpg",
+    "image": "/data/projects/tainted-grail/images/words/absolution.jpg",
     "contextStory": "The old knight crawled through the chapel doors, his armor streaked with blood that was not his own. He had burned the village on the king's orders, and now he sought **absolution** from the very god whose children he had slaughtered. The priest looked at him with hollow eyes and whispered, \"**Absolution** is not mine to give — it belongs to the dead.\" The knight wept, understanding at last that no prayer, no penance, no ritual could grant him **absolution** for what he had done. Some sins untie themselves only in the grave."
   },
   {
@@ -189,7 +189,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/bathed.jpg",
+    "image": "/data/projects/tainted-grail/images/words/bathed.jpg",
     "contextStory": "The abandoned temple was **bathed** in pale moonlight, its crumbling pillars casting long shadows across the stone floor. She stepped inside and found the altar **bathed** in something else — a warm, pulsing glow that had no source. It felt alive, sacred, as if the air itself had **bathed** the ruins in forgotten magic. She knelt, and for the first time in years, the weight in her chest dissolved."
   },
   {
@@ -242,7 +242,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/behest.jpg",
+    "image": "/data/projects/tainted-grail/images/words/behest.jpg",
     "contextStory": "The general marched his army into the valley at the **behest** of a king who sat safely behind castle walls. Three thousand soldiers died that day — all at the **behest** of a man who had never held a sword. When the general returned, broken and hollow, he swore he would never again act at the **behest** of another. The crown could find a new dog to obey its commands."
   },
   {
@@ -307,7 +307,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/bestow.jpg",
+    "image": "/data/projects/tainted-grail/images/words/bestow.jpg",
     "contextStory": "The goddess descended from the mountain and chose to **bestow** her gift upon the smallest child in the village — not the warrior, not the elder. \"I **bestow** this flame upon you,\" she said, pressing a spark of light into the girl's hands. The village elders protested: why **bestow** such power on someone so young? But the goddess only smiled. She knew that the greatest gifts must be placed where they will grow, not where they will rust."
   },
   {
@@ -379,7 +379,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/brittle.jpg",
+    "image": "/data/projects/tainted-grail/images/words/brittle.jpg",
     "contextStory": "After the funeral, she held herself together with a **brittle** composure that everyone mistook for strength. Her voice was **brittle** when she thanked the mourners — thin and sharp, like glass about to crack. At home, alone, she picked up their wedding photo and felt how **brittle** her whole world had become: one touch, one memory, and everything would shatter into dust. She set the photo down gently, afraid of her own hands."
   },
   {
@@ -443,7 +443,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/captive.jpg",
+    "image": "/data/projects/tainted-grail/images/words/captive.jpg",
     "contextStory": "The dragon did not kill the princess — it kept her **captive** in a tower of black stone, feeding her stories instead of food. Over time, she became a willing **captive**, enchanted by tales of worlds beyond the sky. When the knight finally arrived to free her, she refused to leave. \"You do not understand,\" she whispered. \"I am not his **captive**. He is mine — the last dragon alive, and I am the only one he trusts.\""
   },
   {
@@ -491,8 +491,88 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/clobber.jpg",
+    "image": "/data/projects/tainted-grail/images/words/clobber.jpg",
     "contextStory": "The heavyweight champion promised to **clobber** anyone who dared step into the ring. In the first round, he **clobbered** his opponent so hard the crowd went silent — it felt less like sport and more like destruction. After the fight, a reporter asked if he felt guilty. \"Guilty?\" he laughed. \"He signed up to get **clobbered**. I just delivered what he ordered.\""
+  },
+  {
+    "word": "cloying",
+    "pronunciation": "ˈklɔɪ.ɪŋ",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "excessively sweet to the point of being sickening or nauseating (of taste, smell): *the cloying sweetness of cheap perfume filled the room.*",
+        "examples": [
+          "*The dessert was so cloying that I couldn't finish it.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "excessively sentimental, affectionate, or flattering in a way that feels suffocating or insincere: *his cloying affection made her want to scream.*",
+        "examples": [
+          "*The film's cloying sentimentality ruined what could have been a powerful story.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*The air in the abandoned temple was thick with a cloying incense that clung to skin and clothes.*",
+      "*\"Stop your cloying flattery — I know you want something from me.\"*",
+      "*After three days of cloying heat and rotting flowers, the village smelled like a perfumed grave.*"
+    ],
+    "usageNote": "**Cloying** is always negative. It's not merely \"sweet\" — it's sweetness that has crossed a threshold and become repulsive. It applies to taste, smell, and metaphorically to excessive tenderness, sentimentality, or flattery. The core idea: something that might have been pleasant in small doses has become unbearable through excess.",
+    "comparisons": [
+      {
+        "word": "Sweet",
+        "description": "neutral or positive — simply sweet."
+      },
+      {
+        "word": "Saccharine",
+        "description": "artificially, insincerely sweet; emphasis on falseness."
+      },
+      {
+        "word": "Cloying",
+        "description": "sweetness that has become excessive and provokes physical or emotional revulsion. Emphasis on oversaturation."
+      },
+      {
+        "word": "Sickly",
+        "description": "close to cloying in meaning but less literary, more often about physical taste/smell."
+      }
+    ],
+    "collocations": [
+      "cloying sweetness",
+      "cloying scent",
+      "cloying sentimentality",
+      "cloying perfume",
+      "cloying affection",
+      "cloying flattery"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "cloy",
+        "partOfSpeech": "verb",
+        "description": "to sicken or disgust with an excess of sweetness or richness: *too much praise cloys.*"
+      },
+      {
+        "word": "cloyingly",
+        "partOfSpeech": "adverb",
+        "description": "in an excessively sweet or sentimental manner: *cloyingly sentimental.*"
+      }
+    ],
+    "wordHistory": "The verb **cloy** comes from Middle English *acloyen* — \"to obstruct, to block,\" from Old French *encloyer* — \"to drive in a nail,\" from Late Latin *inclavare* (from *clavus* — \"nail\"). The original image was literally to plug up, to stuff to the point of refusal. By the 16th century the meaning had narrowed to \"to sicken with excess sweetness.\" Shakespeare used **cloy** in exactly this way: *\"They are as sick that surfeit with too much as they that starve with nothing\"* (The Merchant of Venice). The participle **cloying** became an independent adjective — one of the most precise words in English for that moment when the pleasant becomes unbearable.",
+    "contextStory": "The pastry chef unveiled his masterpiece — a seven-layer cake drowning in glaze so thick it stuck to your fingers. The first bite drew gasps of delight. The second brought hesitation. By the third, the **cloying** sweetness coated every surface of the mouth like liquid honey you couldn't breathe through. Guests smiled politely, but plates went back full. One critic later wrote, \"His talent is as **cloying** as his cakes — impressive for the first thirty seconds, then you're desperate for fresh air.\" The chef never understood why **cloying** in a review wasn't a compliment.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/cloying.jpg"
   },
   {
     "word": "dabble in",
@@ -558,7 +638,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/dabble in.jpg",
+    "image": "/data/projects/tainted-grail/images/words/dabble in.jpg",
     "contextStory": "The old witch warned her: \"Do not **dabble in** necromancy, child. It is not a hobby.\" But the apprentice was young and fearless — she **dabbled in** forbidden spells the way others dabble in painting, just a little, just for fun. By winter, the dead were whispering her name. She had only **dabbled in** the dark arts, she told herself. But the darkness does not care how shallow you dip your hands — it pulls you under all the same."
   },
   {
@@ -643,7 +723,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/discretion.jpg",
+    "image": "/data/projects/tainted-grail/images/words/discretion.jpg",
     "contextStory": "The spymaster hired her not for her skill with a blade, but for her **discretion**. In a court drowning in gossip, she moved like a shadow — never repeating what she heard, never asking what she should not know. \"I leave the method to your **discretion**,\" the queen told her one night, sliding a name across the table. She nodded. **Discretion** had kept her alive for twenty years. It would keep her alive tonight, too."
   },
   {
@@ -708,7 +788,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/dispense.jpg",
+    "image": "/data/projects/tainted-grail/images/words/dispense.jpg",
     "contextStory": "The village healer sat beneath the old oak, ready to **dispense** remedies to the sick who lined up at dawn. She **dispensed** herbs and tinctures with steady hands, asking nothing in return. But when the lord's soldiers came demanding she **dispense** with her potions and leave, she refused. \"You can burn my hut,\" she said quietly, \"but you cannot stop people from needing medicine.\""
   },
   {
@@ -768,7 +848,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/endeavor.jpg",
+    "image": "/data/projects/tainted-grail/images/words/endeavor.jpg",
     "contextStory": "Building the bridge across the ravine was a foolish **endeavor** — everyone said so. The engineer ignored them and threw herself into the **endeavor** with a fury that bordered on obsession, sleeping three hours a night, redrawing plans by candlelight. When the first cart crossed safely, the village fell silent. \"It was a worthy **endeavor**,\" the mayor finally admitted. She did not smile. She was already sketching the next one."
   },
   {
@@ -827,7 +907,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/fodder.jpg",
+    "image": "/data/projects/tainted-grail/images/words/fodder.jpg",
     "contextStory": "The general looked at the fresh recruits and saw only **fodder** — boys barely old enough to shave, shipped to the front as cannon **fodder** for a war they did not understand. \"Sir, they have no training,\" the lieutenant protested. The general shrugged. \"They do not need training. They need to hold the line for twenty minutes.\" The lieutenant said nothing. He had once been **fodder** too — the only difference was that he had survived."
   },
   {
@@ -902,7 +982,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/forsake.jpg",
+    "image": "/data/projects/tainted-grail/images/words/forsake.jpg",
     "contextStory": "She begged him not to **forsake** her, but he turned his back and walked into the rain. The village had already **forsaken** its faith in him — doors shut, lanterns extinguished one by one. Standing alone in the square, she understood what it meant to be truly **forsaken**: not just left behind, but erased from someone's heart. Years later, he would regret the night he chose to **forsake** the only person who believed in him."
   },
   {
@@ -955,7 +1035,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/husk.jpg",
+    "image": "/data/projects/tainted-grail/images/words/husk.jpg",
     "contextStory": "After the plague passed, the survivors found only **husks** — of buildings, of crops, of people. Old Thomas sat in his chair, a brittle **husk** of the man who once carried oxen on his shoulders. His granddaughter peeled corn in silence, dropping each **husk** into the fire, watching them curl and blacken. The whole town felt like a **husk**: the shape remained, but everything living inside had been hollowed out."
   },
   {
@@ -1008,7 +1088,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/impending.jpg",
+    "image": "/data/projects/tainted-grail/images/words/impending.jpg",
     "contextStory": "The sky turned a sickly yellow, and everyone felt the **impending** disaster in their bones. The mayor ignored the warnings of **impending** floods, insisting the dam would hold through anything. By midnight, with water already lapping at doorsteps, the sense of **impending** doom was no longer a feeling — it was a fact. Those who had prepared for the **impending** catastrophe fled to the hills; the rest could only pray."
   },
   {
@@ -1093,7 +1173,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/kindle.jpg",
+    "image": "/data/projects/tainted-grail/images/words/kindle.jpg",
     "contextStory": "The old teacher **kindled** something in her that no one else had bothered to try — curiosity. She stayed after class, reading by the fire he had **kindled** in the schoolroom stove, devouring books on astronomy and physics. That spark, once **kindled**, never died. Decades later, standing before a lecture hall at Cambridge, she still remembered the man who **kindled** the flame that lit her entire life."
   },
   {
@@ -1144,7 +1224,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/lucrative.jpg",
+    "image": "/data/projects/tainted-grail/images/words/lucrative.jpg",
     "contextStory": "The smuggling route through the mountain pass was incredibly **lucrative** — one shipment could feed a family for a year. Marco knew the trade was dangerous, but nothing else in this dying town was half as **lucrative**. When the authorities finally shut down the pass, the men who had grown rich on this **lucrative** operation found they had no other skills, no savings, nothing. Easy money from a **lucrative** scheme had made them lazy, and now the mountains gave them nothing but silence."
   },
   {
@@ -1209,7 +1289,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/maudlin.jpg",
+    "image": "/data/projects/tainted-grail/images/words/maudlin.jpg",
     "contextStory": "By the third bottle, Uncle Victor turned **maudlin**, sobbing about a woman he had not seen in forty years. \"You always get **maudlin** at Christmas,\" his sister snapped, but he was beyond hearing. The children watched in uncomfortable silence as his **maudlin** monologue spiralled into incoherence. Nobody felt sorry for him — there was something repulsive about his **maudlin** self-pity, a grief performed for an audience that never asked for the show."
   },
   {
@@ -1259,7 +1339,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/mill about (around).jpg",
+    "image": "/data/projects/tainted-grail/images/words/mill about (around).jpg",
     "contextStory": "Hundreds of displaced families **milled about** the train station, clutching suitcases and children. No trains had come in three days, yet people kept **milling around**, afraid to leave in case one finally arrived. Guards **milled about** too, just as confused as everyone else, their rifles useless against the chaos of waiting. The station had become a world of its own — people **milling about** in slow, purposeless circles, going nowhere."
   },
   {
@@ -1337,7 +1417,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/mired in.jpg",
+    "image": "/data/projects/tainted-grail/images/words/mired in.jpg",
     "contextStory": "The company was **mired in** lawsuits, each one spawning two more like a hydra. For years, the founders had been **mired in** debt so deep they had forgotten what solvency felt like. Every attempt to restructure got **mired in** bureaucracy — forms, committees, approvals that led to more forms. They had built something brilliant once, but now they were **mired in** the wreckage of their own success."
   },
   {
@@ -1399,7 +1479,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/munch (on).jpg",
+    "image": "/data/projects/tainted-grail/images/words/munch (on).jpg",
     "contextStory": "The detective **munched on** a cold sandwich while studying the crime scene photos — crumbs falling onto evidence bags. His partner found it infuriating: \"How can you **munch** at a time like this?\" But **munching** was how he thought; the steady rhythm of chewing unlocked something in his brain. He **munched on** the last bite, wiped his hands on his coat, and pointed at the photograph. \"There. The window was open from the inside.\""
   },
   {
@@ -1457,7 +1537,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/ordained.jpg",
+    "image": "/data/projects/tainted-grail/images/words/ordained.jpg",
     "contextStory": "His mother had always believed he was **ordained** for greatness — chosen by God before birth. When he was **ordained** as a priest at twenty-three, she wept with joy, convinced that destiny had been fulfilled. But the young **ordained** minister felt no divine fire, only doubt. Perhaps what his mother saw as **ordained** fate was simply her own fierce will, shaping a life that was never asked to be shaped."
   },
   {
@@ -1517,7 +1597,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/penitence.jpg",
+    "image": "/data/projects/tainted-grail/images/words/penitence.jpg",
     "contextStory": "The judge searched the defendant's face for **penitence** and found none — only a cold, calculating stare. \"Show some **penitence**,\" his lawyer had begged before the hearing, but the man did not know how to fake what he did not feel. The victim's family wanted **penitence**; the public wanted punishment. In the end, the court gave him thirty years, hoping that time in a cell might teach the **penitence** that no verdict ever could."
   },
   {
@@ -1569,7 +1649,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/precarious.jpg",
+    "image": "/data/projects/tainted-grail/images/words/precarious.jpg",
     "contextStory": "The rope bridge swayed in the wind, each step more **precarious** than the last. Elena gripped the fraying cables and forced herself not to look down at the river churning two hundred feet below. Her **precarious** balance was shattered when a plank snapped beneath her boot — she lunged forward, catching the next rope just in time. On the other side, the villagers watched in silence, knowing that their own survival was just as **precarious**: one more flood, one more failed harvest, and everything would collapse."
   },
   {
@@ -1643,7 +1723,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/rend.jpg",
+    "image": "/data/projects/tainted-grail/images/words/rend.jpg",
     "contextStory": "The dragon's claws **rent** the knight's shield as if it were parchment, sending shards of iron spinning through the smoke. A second blow **rent** his breastplate open from shoulder to hip, and blood bloomed across the steel. The knight staggered but did not fall. \"You can **rend** my armor,\" he gasped, raising his broken sword, \"but you will not **rend** my will.\" The dragon hesitated — it had never seen prey refuse to die."
   },
   {
@@ -1684,7 +1764,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/runt.jpg",
+    "image": "/data/projects/tainted-grail/images/words/runt.jpg",
     "contextStory": "They called him the **runt** of the litter — the smallest boy in a family of warriors, too scrawny to lift his father's sword. His brothers laughed when the **runt** announced he would enter the tournament. But on the final day, it was the **runt** who stood last in the arena, bloodied and grinning, while champions twice his size lay groaning in the dust. \"Size,\" he told the stunned crowd, \"is just the story other people tell about you.\""
   },
   {
@@ -1747,7 +1827,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/slingshot.jpg",
+    "image": "/data/projects/tainted-grail/images/words/slingshot.jpg",
     "contextStory": "Marcus carved his first **slingshot** from a forked oak branch when he was seven, and by ten he could knock a pinecone off a fence at forty paces. When the raiders came to the village, the men grabbed swords and spears — but it was Marcus and his **slingshot** that dropped the enemy scout before he could signal the others. The stone struck true, and the boy stood shaking in the aftermath. He never looked at his **slingshot** the same way again: it was no longer a toy."
   },
   {
@@ -1795,7 +1875,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/staunch.jpg",
+    "image": "/data/projects/tainted-grail/images/words/staunch.jpg",
     "contextStory": "When the conspiracy was exposed, every ally fled — except Lord Aldric, the king's most **staunch** supporter. He stood before the tribunal and spoke without flinching, his **staunch** loyalty unshaken even as the mob howled for blood. Later, in the dungeon, the king wept quietly. \"I had a hundred friends in the sunlight,\" he whispered. \"Only one proved **staunch** in the dark.\" Aldric said nothing. He simply sat beside his king and waited for dawn."
   },
   {
@@ -1860,7 +1940,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/tether.jpg",
+    "image": "/data/projects/tainted-grail/images/words/tether.jpg",
     "contextStory": "The astronaut drifted outside the station, connected only by a thin **tether** that coiled in the void like a silver thread. When the micrometeorite struck, the **tether** snapped — and suddenly there was nothing between her and infinity. She tumbled in silence, watching the station shrink. Inside, her crewmate scrambled to fire the rescue drone, hands trembling. \"Hold on,\" he whispered to no one. But there was nothing to hold on to: every **tether** — physical, emotional, gravitational — was gone."
   },
   {
@@ -1919,7 +1999,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/vanquish.jpg",
+    "image": "/data/projects/tainted-grail/images/words/vanquish.jpg",
     "contextStory": "She had **vanquished** every opponent in the arena — swordsmen, spearwielders, even a mounted knight — and the crowd roared her name like a prayer. But the one enemy she could not **vanquish** waited at home: the silence of an empty house, the chair where her daughter used to sit. Victory after victory, and yet the grief remained undefeated. \"You can **vanquish** armies,\" the old healer told her gently, \"but sorrow is not a foe you fight. It is a tide you learn to breathe through.\""
   },
   {
@@ -2006,7 +2086,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/venture.jpg",
+    "image": "/data/projects/tainted-grail/images/words/venture.jpg",
     "contextStory": "The merchant's first **venture** — a cargo of spices shipped across the Narrow Sea — sank in a storm, taking every coin he had. His second **venture**, a partnership with a Northland fur trader, barely broke even. But he refused to stop. On his third **venture**, he loaded a ship with something no one else dared to carry: books. They sold for ten times their weight in silver. \"Every **venture** teaches you,\" he told his son. \"The ones that fail teach you the most.\""
   },
   {
@@ -2067,7 +2147,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/wench.jpg",
+    "image": "/data/projects/tainted-grail/images/words/wench.jpg",
     "contextStory": "The duke swaggered into the tavern and snapped his fingers. \"**Wench**\\! Bring wine for the table.\" The woman behind the bar didn't move. \"The name is Marta,\" she said coldly. \"And the last man who called me **wench** left this tavern without his front teeth.\" The duke's guards reached for their swords, but Marta's regulars — dockworkers, blacksmiths, retired soldiers — rose from their benches as one. The duke reconsidered. No **wench** she — this was a woman who owned every room she entered."
   },
   {
@@ -2128,7 +2208,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/whelp.jpg",
+    "image": "/data/projects/tainted-grail/images/words/whelp.jpg",
     "contextStory": "\"You dare challenge me, **whelp**?\" the warlord snarled, drawing a blade as long as the boy was tall. The **whelp** — fifteen, sunburned, shaking — raised his father's rusted sword and said nothing. The crowd expected slaughter. Instead, the boy moved like water: ducking, spinning, striking once beneath the warlord's guard. The giant crumpled. Silence. Then the crowd erupted. The **whelp** stood over the fallen legend, tears streaming down his face, and whispered, \"That was for my village.\""
   },
   {
@@ -2171,7 +2251,7 @@
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
     },
-    "image": "images/words/yew.jpg",
+    "image": "/data/projects/tainted-grail/images/words/yew.jpg",
     "contextStory": "The bowyer ran his hand along the **yew** stave, feeling for imperfections in the grain. \"This **yew** is three hundred years old,\" he murmured. \"It grew in a churchyard, fed by the dead.\" He bent the wood slowly, testing its spring — perfect elasticity, the kind only **yew** could give. By morning, the stave would be a longbow capable of punching through plate armor at two hundred yards. The tree had spent centuries growing in silence among graves. Now it would send men to join them."
   }
 ]

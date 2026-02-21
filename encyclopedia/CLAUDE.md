@@ -1,14 +1,15 @@
-# Lexicon of the Tainted Grail
+# Lexicon
 
-Single-page React app — personal English vocabulary encyclopedia with bilingual support (RU/EN).
+Multi-project React app — personal English vocabulary encyclopedia with bilingual support (RU/EN).
 
 ## Tech stack
 
 - React 19 + TypeScript 5.7 (strict mode)
-- Vite 6 (dev server + build)
+- Vite 6 (dev server + build + API middleware)
+- TanStack Router (code-based routing, 3 routes)
+- TanStack Query (data fetching)
 - Playwright (e2e tests)
 - PM2 (process manager)
-- No router, no state management library — plain React state
 
 ## Commands
 
@@ -25,34 +26,68 @@ yarn pm2:stop         # Stop PM2 process
 
 ```
 src/
-  App.tsx             # Root component — state, scroll logic, layout
+  main.tsx            # Entry point (QueryClient + RouterProvider)
+  router.tsx          # TanStack Router config (3 routes)
   App.css             # All styles (single file)
-  main.tsx            # Entry point
+  pages/
+    Dashboard.tsx     # Project list + create new project
+    LexiconView.tsx   # Word cards view (moved from App.tsx)
+    NotFound.tsx      # 404 page
   components/
-    Header.tsx        # Title + subtitle
+    Header.tsx        # Title + subtitle + back link
     Sidebar.tsx       # Word list navigation + search
-    WordCard.tsx      # Single word entry card (with per-card lang toggle)
+    WordCard.tsx      # Single word entry card
     WordHistory.tsx   # Collapsible etymology section
+    ContextStory.tsx  # Collapsible context story section
+    ProjectCard.tsx   # Dashboard project card
+    ProjectFormModal.tsx   # Create / edit project form
     HamburgerButton.tsx
     ScrollTopButton.tsx
   types/
     word.ts           # Word, Definition, Comparison, Idiom, etc.
+    project.ts        # Project interface
+  lib/
+    queryKeys.ts      # TanStack Query key factories
+  server/
+    api.ts            # API request handler (Node.js)
+    vite-plugin.ts    # Vite plugin mounting API middleware
   utils/
     formatText.ts     # Markdown-like formatting (bold, italic)
     slugify.ts        # Word → URL-safe id
 public/
   data/
-    words.ru.json     # Russian definitions
-    words.en.json     # English definitions
-lexicon.sh            # CLI tool: add/get/list/count words (uses jq)
-validate-lexicon.sh   # JSON schema validation
+    projects/
+      <project-id>/
+        project.json      # { name, title, subtitle, createdAt }
+        words.ru.json     # Russian definitions
+        words.en.json     # English definitions
+        images/words/     # Mnemonic images
 ```
+
+## Routes
+
+| Path | Page |
+|------|------|
+| `/` | Dashboard — project list |
+| `/projects/$projectId` | LexiconView — word cards |
+| catch-all | NotFound (404) |
+
+## API endpoints (Vite middleware)
+
+| Method | Endpoint | Action |
+|--------|----------|--------|
+| GET | `/api/projects` | List all projects |
+| POST | `/api/projects` | Create new project |
+| GET | `/api/projects/:id` | Get project metadata |
+| PUT | `/api/projects/:id` | Update project metadata |
+| DELETE | `/api/projects/:id` | Delete project |
+| GET | `/api/projects/:id/words?lang=xx` | Get words for project |
 
 ## Key conventions
 
-- Language state is global — switching on any card changes all cards
-- Language preference is persisted in `localStorage` (key: `lexicon-lang`)
-- Word data is loaded via `fetch()` from `public/data/words.{lang}.json`
+- Language state is global per project — switching on any card changes all cards
+- Language preference is persisted in `localStorage` (key: `lexicon-lang-{projectId}`)
+- Word data is fetched via API: `/api/projects/{id}/words?lang={lang}`
 - Words are sorted alphabetically on load
 - Sidebar tracks active word via scroll position
 - All styles live in `App.css` — no CSS modules, no CSS-in-JS
@@ -60,14 +95,27 @@ validate-lexicon.sh   # JSON schema validation
 
 ## Adding words
 
-Use the CLI script:
+Use the CLI script with `--project` flag:
 ```bash
-./lexicon.sh add < word.json              # Add to RU (default)
-./lexicon.sh --lang en add < word.json    # Add to EN
-./lexicon.sh list                          # List all words
-./lexicon.sh get "abhor"                   # Get single word
+./lexicon.sh --project tainted-grail add < word.json              # Add to RU (default)
+./lexicon.sh --project tainted-grail --lang en add < word.json    # Add to EN
+./lexicon.sh --project tainted-grail list                          # List all words
+./lexicon.sh --project tainted-grail get "abhor"                   # Get single word
+```
+
+## Validation
+
+```bash
+./validate-lexicon.sh --project tainted-grail    # Validate single project
+./validate-lexicon.sh                             # Validate all projects
+```
+
+## Image generation
+
+```bash
+./generate-image-pollinations.sh --project tainted-grail "<word>" "<prompt>"
 ```
 
 ## Testing
 
-Tests are in `tests/e2e/`. Playwright config uses `http://localhost:4173` as base URL and runs `yarn build && yarn preview` as web server.
+Tests are in `tests/e2e/`. Playwright config uses `http://localhost:4173` as base URL and runs `yarn build && yarn preview` as web server. Tests cover both the dashboard and lexicon views.
