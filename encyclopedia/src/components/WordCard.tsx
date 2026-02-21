@@ -62,8 +62,8 @@ export default function WordCard({ word: w, lang, onLangChange }: WordCardProps)
           {w.definitions && w.definitions.length > 0 && (
             <>
               <h3 className="section-heading">Definitions</h3>
-              {w.definitions.map((def) => (
-                <div key={def.sense} className="definition-item">
+              {w.definitions.map((def, i) => (
+                <div key={i} className="definition-item">
                   <span className="def-number">{def.sense}.</span>
                   {def.context && (
                     <span className="def-context">[{escapeHtml(def.context)}]</span>
@@ -188,8 +188,8 @@ export default function WordCard({ word: w, lang, onLangChange }: WordCardProps)
         <>
           <h3 className="section-heading">Related Forms</h3>
           <div className="related-forms-list">
-            {w.relatedForms.map((rf) => (
-              <div key={rf.word} className="related-form-item">
+            {w.relatedForms.map((rf, i) => (
+              <div key={i} className="related-form-item">
                 <span className="related-form-word">{rf.word}</span>
                 {rf.partOfSpeech && (
                   <span className="related-form-pos">({rf.partOfSpeech})</span>

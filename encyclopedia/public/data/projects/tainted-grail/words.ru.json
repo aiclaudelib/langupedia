@@ -193,6 +193,91 @@
     "contextStory": "Заброшенный храм был **bathed** в бледном лунном свете, его обветшалые колонны отбрасывали длинные тени на каменный пол. Она вошла внутрь и увидела алтарь, **bathed** в чём-то ином — тёплом, пульсирующем сиянии без видимого источника. Оно казалось живым, священным, словно сам воздух **bathed** руины в забытой магии. Она опустилась на колени, и впервые за долгие годы тяжесть в груди растворилась."
   },
   {
+    "word": "beastly",
+    "pronunciation": "ˈbiːstli",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "очень неприятный, отвратительный, мерзкий (часто о погоде, поведении, ситуации): *what beastly weather we're having* — какая мерзкая у нас погода.",
+        "examples": [
+          "*He was beastly to her all evening, mocking her accent and ignoring her questions.* — Он вёл себя с ней отвратительно весь вечер, высмеивая её акцент и игнорируя вопросы."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "звериный, зверский; напоминающий зверя по жестокости или дикости: *the beastly howl echoed through the ruins* — звериный вой разнёсся по руинам.",
+        "examples": [
+          "*His beastly rage turned him into something barely human.* — Его звериная ярость превратила его в нечто едва человеческое."
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "adverb",
+        "text": "(брит. разг., устар.) чрезвычайно, ужасно (усиливает негативное качество): *it's beastly cold tonight* — сегодня ужасно холодно.",
+        "examples": [
+          "*The road was beastly difficult to follow in the dark.* — Дорога была чертовски трудной для ночного пути."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"Don't be so beastly to your sister — she's only trying to help.\"* — «Не будь так гадок с сестрой — она просто пытается помочь».",
+      "*A beastly stench rose from the swamp, thick enough to make the horses refuse to go further.* — Звериная вонь поднималась с болота, настолько густая, что лошади отказывались идти дальше.",
+      "*The creature's beastly features — fangs, claws, matted fur — concealed a surprisingly gentle soul.* — Звериный облик существа — клыки, когти, свалявшаяся шерсть — скрывал на удивление нежную душу."
+    ],
+    "usageNote": "В британском английском **beastly** часто используется как мягкое, почти старомодное усиление: *beastly weather*, *beastly cold*, *beastly rude*. Звучит скорее как ворчание джентльмена, чем грубость. В фэнтези-контексте слово возвращается к буквальному значению — \"подобный зверю\" — и приобретает по-настоящему зловещий оттенок.",
+    "comparisons": [
+      {
+        "word": "Beastly",
+        "description": "эмоционально-оценочное: \"мерзкий, отвратительный\" (брит.) или буквальное \"звериный\". В фэнтези — часто буквальное."
+      },
+      {
+        "word": "Bestial",
+        "description": "книжное и более сильное: \"зверский, скотский\", подчёркивает полную утрату человечности. Всегда серьёзно, никогда не шутливо."
+      },
+      {
+        "word": "Brutish",
+        "description": "грубый, тупой, как у животного — акцент на отсутствии интеллекта и утончённости."
+      }
+    ],
+    "collocations": [
+      "beastly weather",
+      "beastly cold",
+      "beastly behavior",
+      "beastly creature",
+      "beastly howl",
+      "don't be beastly"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "beast",
+        "partOfSpeech": "noun",
+        "description": "зверь, чудовище; основа, от которой образовано **beastly**."
+      },
+      {
+        "word": "beastliness",
+        "partOfSpeech": "noun",
+        "description": "мерзость, гадость; качество того, что является beastly."
+      }
+    ],
+    "wordHistory": "От среднеанглийского *bestely*, образованного от *beste* (\"зверь\") + суффикс *-ly*. Само *beste* пришло из старофранцузского *beste*, восходящего к латинскому *bēstia* (\"зверь, дикое животное\"). В буквальном смысле — \"звероподобный\". Переносное значение \"неприятный, отвратительный\" закрепилось к XVI–XVII веку и стало особенно популярным в викторианской Англии как вежливая форма неодобрения: сказать *beastly* было допустимо там, где прямое ругательство — нет. В фэнтези слово вернулось к своим корням: **beastly** снова описывает то, что буквально напоминает зверя.",
+    "contextStory": "Старый егерь встретил нас на пороге и покачал головой: «**Beastly** ночь для охоты — туман, дождь, и что-то воет в лесу.» Мы всё равно пошли. К полуночи стало ясно, что старик не преувеличивал: **beastly** вой раздавался всё ближе, и лошади дрожали, прижимая уши. Когда из тумана выступило нечто с жёлтыми глазами и **beastly** оскалом, егерь спокойно поднял арбалет. Один щелчок — и тварь рухнула. «Говорил же, — буркнул он. — **Beastly** ночь.»",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/beastly.jpg"
+  },
+  {
     "word": "behest",
     "pronunciation": "bəˈhest",
     "partOfSpeech": [
@@ -727,6 +812,84 @@
     "contextStory": "Шпионский мастер нанял её не за владение клинком, а за её **discretion**. При дворе, тонущем в сплетнях, она двигалась как тень — никогда не повторяя услышанного, никогда не спрашивая лишнего. «Способ оставляю на ваш **discretion**», — сказала ей королева однажды ночью, передвинув имя через стол. Она кивнула. **Discretion** хранила ей жизнь двадцать лет. Сохранит и этой ночью."
   },
   {
+    "word": "disfigurement",
+    "pronunciation": "dɪsˈfɪɡ.jər.mənt",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "forms": "plural: **disfigurements**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "обезображивание; уродование — процесс или результат нанесения повреждений, которые портят внешний вид (лица, тела, объекта): *the disfigurement was so severe that even his mother could not recognize him* — обезображивание было столь сильным, что даже мать не смогла его узнать.",
+        "examples": [
+          "*Acid attacks cause permanent disfigurement.* — Кислотные атаки вызывают необратимое обезображивание.",
+          "*She bore the disfigurement with quiet dignity.* — Она несла своё уродство с тихим достоинством."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "noun",
+        "text": "дефект внешности; шрам, отметина или увечье, портящее облик: *a deep disfigurement ran from his brow to his jaw* — глубокий шрам тянулся от его лба до подбородка.",
+        "examples": [
+          "*The fire left disfigurements across her hands and arms.* — Пожар оставил рубцы на её руках и предплечьях."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*The knight removed his helm, revealing the disfigurement he had hidden for years — a mass of scar tissue where his left eye had been.* — Рыцарь снял шлем, обнажив уродство, которое скрывал годами — массу рубцовой ткани там, где когда-то был его левый глаз.",
+      "*In medieval times, disfigurement was often seen as a mark of divine punishment.* — В Средние века обезображивание часто воспринималось как знак божественной кары.",
+      "*The curse brought not death, but something worse — a slow disfigurement that twisted the body into something barely human.* — Проклятие несло не смерть, а нечто худшее — медленное уродование, превращающее тело в нечто едва человеческое."
+    ],
+    "usageNote": "**Disfigurement** — слово с сильной эмоциональной нагрузкой. В отличие от нейтрального *scar* (шрам) или *blemish* (изъян), оно подразумевает серьёзное, часто необратимое повреждение, меняющее облик человека. В юридическом контексте *disfigurement* — термин для описания телесных повреждений, влияющих на внешность (компенсация за disfigurement). В фэнтези часто связано с проклятиями, магией или битвами.",
+    "comparisons": [
+      {
+        "word": "scar",
+        "description": "шрам — конкретный след от раны. Может быть маленьким и незаметным. **Disfigurement** — результат значительно более серьёзный."
+      },
+      {
+        "word": "deformity",
+        "description": "деформация — отклонение от нормальной формы, часто врождённое. **Disfigurement** обычно подразумевает приобретённое повреждение."
+      },
+      {
+        "word": "mutilation",
+        "description": "увечье, членовредительство — акцент на умышленном нанесении вреда. **Disfigurement** фокусируется на результате — изменённой внешности."
+      }
+    ],
+    "collocations": [
+      "permanent disfigurement",
+      "facial disfigurement",
+      "severe disfigurement",
+      "physical disfigurement",
+      "cause disfigurement",
+      "suffer disfigurement",
+      "hide a disfigurement"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "disfigure",
+        "partOfSpeech": "verb",
+        "description": "обезображивать, уродовать: *the explosion disfigured half his face* — взрыв обезобразил половину его лица."
+      },
+      {
+        "word": "disfigured",
+        "partOfSpeech": "adjective",
+        "description": "обезображенный, изуродованный: *a disfigured beggar sat at the gate* — изуродованный нищий сидел у ворот."
+      }
+    ],
+    "wordHistory": "От старофранцузского *desfigurer* — \"лишать облика, портить внешность\", где *des-* (от лат. *dis-* — \"отделение, лишение\") + *figure* (от лат. *figūra* — \"форма, облик\"). Буквально: \"лишить фигуры/формы\". Латинское *figūra* восходит к праиндоевропейскому *dʰeyǵʰ-* — \"лепить, формировать\" (тот же корень дал *dough* — \"тесто\" и *fiction* — \"вымысел, вылепленное из слов\"). Суффикс *-ment* (от лат. *-mentum*) превращает глагол в существительное, обозначающее результат или процесс. В английский язык глагол *disfigure* вошёл в XIV веке, а существительное *disfigurement* закрепилось к XVI веку.",
+    "contextStory": "Она нашла зеркало в заброшенной башне — первое зеркало за три года. Медленно подняла его. **Disfigurement** был хуже, чем она помнила: проклятие разъело кожу от виска до подбородка, обнажив серебристую кость. В деревне дети кричали, увидев её **disfigurement**, матери захлопывали ставни. Но старый лекарь, сам несущий **disfigurement** от давней войны, не отвёл взгляда. «Я вижу не шрамы, — сказал он. — Я вижу человека, который выжил». Она разбила зеркало. Больше оно ей было не нужно.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/disfigurement.jpg"
+  },
+  {
     "word": "dispense",
     "pronunciation": "dəˈspens",
     "partOfSpeech": [
@@ -984,6 +1147,101 @@
     },
     "image": "/data/projects/tainted-grail/images/words/forsake.jpg",
     "contextStory": "Она умоляла его не бросать её, но он повернулся и ушёл в дождь — решил **forsake** всё, что их связывало. Деревня уже **forsaken** веру в него: двери захлопнулись, фонари погасли один за другим. Стоя одна на площади, она поняла, что значит быть **forsaken** — не просто оставленной, а стёртой из чьего-то сердца. Спустя годы он пожалеет о той ночи, когда решил **forsake** единственного человека, который в него верил."
+  },
+  {
+    "word": "fret",
+    "pronunciation": "fret",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "forms": "past tense: **fretted**; past participle: **fretted**; present participle: **fretting**; third person: **frets**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb",
+        "text": "тревожиться, беспокоиться, изводить себя переживаниями — обычно по поводу чего-то, что нельзя контролировать: *she fretted over every small detail of the journey* — она изводилась из-за каждой мелочи в путешествии.",
+        "examples": [
+          "*Don't fret — we'll find a way out of this.* — Не волнуйся — мы найдём выход.",
+          "*He sat by the window, fretting about the storm that was coming.* — Он сидел у окна, тревожась о надвигающейся буре."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb",
+        "text": "разъедать, изнашивать, протирать трением или коррозией: *the river fretted the stone into smooth curves* — река разъела камень, превратив его в гладкие изгибы.",
+        "examples": [
+          "*Rust had fretted the iron chains until they were paper-thin.* — Ржавчина разъела железные цепи, пока те не стали тонкими как бумага."
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "noun",
+        "text": "состояние тревоги, беспокойства; нервозность: *she was in a terrible fret about the missing child* — она была в ужасной тревоге из-за пропавшего ребёнка.",
+        "examples": []
+      },
+      {
+        "sense": 4,
+        "context": "noun",
+        "text": "лад (порожек) на грифе гитары или другого струнного инструмента: *press the string just behind the third fret* — прижми струну прямо за третьим ладом.",
+        "examples": []
+      }
+    ],
+    "mainExamples": [
+      "*\"Don't fret, child. The knight will return before the snow melts.\"* — «Не тревожься, дитя. Рыцарь вернётся до того, как растает снег».",
+      "*She fretted through the night, pacing the floor until dawn crept through the shutters.* — Она промучилась всю ночь, расхаживая по комнате, пока рассвет не пробрался сквозь ставни.",
+      "*Years of salt wind had fretted the castle walls, leaving them pitted and scarred.* — Годы солёного ветра разъели стены замка, оставив их изъеденными и рубцеватыми."
+    ],
+    "usageNote": "В значении «тревожиться» **fret** передаёт навязчивое, бесполезное беспокойство — не острый страх, а нудное, изматывающее переживание. Часто используется в повелительном наклонении как утешение: *don't fret*. В значении «разъедать» — литературное и поэтическое, встречается в описаниях природы и времени.",
+    "comparisons": [
+      {
+        "word": "worry",
+        "description": "нейтральное и самое частое слово для беспокойства. **Fret** эмоциональнее и подразумевает видимое волнение."
+      },
+      {
+        "word": "brood",
+        "description": "мрачно размышлять, погружаться в тёмные мысли. **Brood** — тише и глубже; **fret** — суетливее и нервознее."
+      },
+      {
+        "word": "agonize",
+        "description": "мучительно переживать, обычно перед важным решением. Сильнее, чем **fret**."
+      }
+    ],
+    "collocations": [
+      "fret about/over something",
+      "fret and worry",
+      "don't fret",
+      "fret away",
+      "fret oneself",
+      "in a fret"
+    ],
+    "idioms": [
+      {
+        "phrase": "fret and fume",
+        "explanation": "нервничать и злиться одновременно; кипятиться от бессилия."
+      }
+    ],
+    "relatedForms": [
+      {
+        "word": "fretful",
+        "partOfSpeech": "adjective",
+        "description": "беспокойный, раздражительный, капризный — особенно о детях или больных."
+      },
+      {
+        "word": "fretfully",
+        "partOfSpeech": "adverb",
+        "description": "тревожно, капризно, раздражённо."
+      }
+    ],
+    "wordHistory": "Древнеанглийское *fretan* — \"пожирать, поедать\", от прото-германского *fra-etaną* (буквально «съедать полностью»): приставка *fra-* (\"полностью\") + *etaną* (\"есть\"). Родственно немецкому *fressen* (\"жрать\" — о животных). Изначально слово означало физическое разъедание — так ржавчина «пожирает» металл, река «поедает» берег. К XIV веку появилось переносное значение: тревога «разъедает» человека изнутри. Так буквальный образ поедания стал метафорой эмоционального самоистязания. Значение «лад на грифе» — из другого корня: старофранцузское *frete* (\"перемычка, обруч\").",
+    "contextStory": "Старая травница заметила, как девочка теребит подол платья — верный знак. «Хватит **fret**, — сказала она мягко. — Твой брат справится.» Но девочка продолжала **fret**, кусая губы и вглядываясь в туман за окном. К полудню тревога разъела её терпение, как вода разъедает камень. Она накинула плащ и выбежала в бурю. Нашла брата через час — он мирно спал под перевёрнутой лодкой. «Я же говорила — не стоит **fret**», — усмехнулась травница, когда они вернулись, мокрые и счастливые.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/fret.jpg"
   },
   {
     "word": "husk",
@@ -1291,6 +1549,98 @@
     },
     "image": "/data/projects/tainted-grail/images/words/maudlin.jpg",
     "contextStory": "К третьей бутылке дядя Виктор стал **maudlin** — разрыдался из-за женщины, которую не видел сорок лет. «Ты всегда становишься **maudlin** на Рождество», — отрезала его сестра, но он уже не слышал. Дети в неловком молчании наблюдали, как его **maudlin** монолог скатывался в бессвязность. Никто ему не сочувствовал — было что-то отталкивающее в его **maudlin** жалости к себе, горе напоказ для зрителей, которые не просили этого спектакля."
+  },
+  {
+    "word": "mauled",
+    "pronunciation": "mɔːld",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "forms": "base: **maul**; past tense: **mauled**; present participle: **mauling**; third person: **mauls**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb (past tense / past participle)",
+        "text": "жестоко терзать, рвать когтями и зубами (о животном, нападающем на человека или другое существо): *the traveler was mauled by a bear and barely survived* — путник был растерзан медведем и едва выжил.",
+        "examples": [
+          "*The wolf mauled the sheep before the shepherd could intervene.* — Волк растерзал овцу прежде, чем пастух успел вмешаться.",
+          "*She was mauled so badly that the healers doubted she would walk again.* — Её так жестоко покалечило, что целители сомневались, сможет ли она снова ходить."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb (past tense / past participle)",
+        "text": "(перен.) жёстко раскритиковать, разнести; нанести сокрушительное поражение: *their army was mauled in the ambush* — их армия была разгромлена в засаде.",
+        "examples": [
+          "*The critics mauled his debut novel, calling it pretentious and hollow.* — Критики разнесли его дебютный роман, назвав его претенциозным и пустым."
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "adjective",
+        "text": "растерзанный, изувеченный; несущий на себе следы жестокого нападения: *his mauled body told the story of a desperate fight* — его растерзанное тело рассказывало историю отчаянной схватки.",
+        "examples": []
+      }
+    ],
+    "mainExamples": [
+      "*He dragged himself back to camp, mauled and bleeding, but alive.* — Он дотащился до лагеря, растерзанный и истекающий кровью, но живой.",
+      "*The knight's shield was mauled beyond recognition after the dragon's assault.* — Щит рыцаря был изуродован до неузнаваемости после атаки дракона.",
+      "*\"I've been mauled by worse things than you,\" she spat, raising her broken blade.* — «Меня терзали твари пострашнее тебя», — выплюнула она, поднимая сломанный клинок."
+    ],
+    "usageNote": "**Mauled** подразумевает не просто удар или рану, а продолжительное, жестокое нападение с разрыванием плоти — когтями, зубами, грубой силой. Слово несёт в себе образ животной свирепости. В переносном смысле сохраняет тот же оттенок: критика или поражение, после которого мало что остаётся целым. Часто используется в пассивном залоге: *was mauled by*.",
+    "comparisons": [
+      {
+        "word": "mauled",
+        "description": "жестоко растерзан когтями/зубами; подразумевает длительную и зверскую атаку."
+      },
+      {
+        "word": "scratched",
+        "description": "поцарапан — лёгкое повреждение, часто поверхностное."
+      },
+      {
+        "word": "savaged",
+        "description": "близкий синоним mauled, но с ещё большим акцентом на дикости и неистовости нападения."
+      },
+      {
+        "word": "mangled",
+        "description": "искалечен, изуродован до неузнаваемости — акцент на результате, а не на процессе атаки."
+      }
+    ],
+    "collocations": [
+      "mauled by a bear",
+      "mauled to death",
+      "badly mauled",
+      "mauled beyond recognition",
+      "mauled survivor"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "maul",
+        "partOfSpeech": "verb",
+        "description": "базовая форма: терзать, рвать когтями."
+      },
+      {
+        "word": "maul",
+        "partOfSpeech": "noun",
+        "description": "тяжёлый молот-кувалда для колки дров или забивания кольев."
+      },
+      {
+        "word": "mauling",
+        "partOfSpeech": "noun",
+        "description": "нападение с терзанием; жестокая трёпка (в т.ч. переносно — разгромное поражение)."
+      }
+    ],
+    "wordHistory": "Глагол **maul** восходит к среднеанглийскому *mallen* — \"бить тяжёлым молотом\", от старофранцузского *mail* — \"молот\", из латинского *malleus* — \"молот\" (отсюда же **malleable** — \"ковкий\", и **mallet** — \"деревянный молоток\"). Изначально слово описывало удары тяжёлым орудием, но к XVI веку значение сместилось в сторону животной атаки — терзания когтями и зубами. Интересно, что исходный смысл \"молот\" сохранился в существительном **maul** (кувалда), а глагол полностью ушёл в мир зверей и насилия. Форма **mauled** как причастие прошедшего времени стала самостоятельным описательным словом — \"растерзанный\".",
+    "contextStory": "Охотник выполз из оврага на четвереньках — **mauled** так, что друзья не сразу его узнали. Левая рука висела плетью, на спине — глубокие борозды от когтей. «Медведица, — прохрипел он. — Я наступил на её детёныша.» Целитель осмотрел **mauled** тело и покачал головой: рёбра сломаны, мышцы на плече разорваны до кости. «Видал я людей, **mauled** хуже тебя, — соврал он, доставая бинты. — Все выжили.» Охотник улыбнулся разбитыми губами. Он знал, что целитель врёт, но принял ложь как лекарство.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/mauled.jpg"
   },
   {
     "word": "mill about (around)",
@@ -1653,6 +2003,91 @@
     "contextStory": "Верёвочный мост раскачивался на ветру, и каждый шаг был всё более **precarious**. Елена вцепилась в истёршиеся тросы и заставила себя не смотреть вниз, где бурлила река в двухстах футах под ногами. Её **precarious** равновесие рухнуло, когда доска треснула под ботинком — она рванулась вперёд и в последний миг схватилась за следующий канат. На другом берегу жители молча наблюдали, зная, что их собственное выживание столь же **precarious**: ещё одно наводнение, ещё один неурожай — и всё рухнет."
   },
   {
+    "word": "putrid",
+    "pronunciation": "ˈpjuːtrɪd",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "гниющий, разлагающийся; издающий отвратительный запах гниения: *the putrid carcass of a deer lay across the trail* — гниющая туша оленя лежала поперёк тропы.",
+        "examples": [
+          "*A putrid stench rose from the swamp, thick enough to make their eyes water.* — Из болота поднимался гнилостный смрад, настолько густой, что от него слезились глаза."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "(перен.) отвратительный, мерзкий; вызывающий глубокое отвращение (о поведении, морали, качестве чего-либо): *a putrid display of cowardice* — омерзительное проявление трусости.",
+        "examples": [
+          "*The lord's putrid greed had bled his people dry.* — Омерзительная жадность лорда обескровила его народ."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*The wound had gone putrid — black at the edges, leaking something that was not blood.* — Рана загнила — почернела по краям, из неё сочилось нечто, не похожее на кровь.",
+      "*\"Don't eat that,\" she warned. \"The meat's gone putrid.\"* — «Не ешь это, — предупредила она. — Мясо протухло».",
+      "*A putrid fog hung over the battlefield, carrying the smell of three days' dead.* — Гнилостный туман висел над полем битвы, неся запах трёхдневных мертвецов."
+    ],
+    "usageNote": "**Putrid** — одно из самых физически неприятных слов в английском языке. Оно не просто описывает запах, а вызывает почти рефлекторное отвращение. В переносном смысле работает как сильное эмоциональное усиление: *putrid corruption* звучит куда злее, чем просто *terrible corruption*. В британском разговорном языке иногда используется как синоним *awful*: *the weather was putrid*.",
+    "comparisons": [
+      {
+        "word": "Rotten",
+        "description": "более общее слово; может быть и слегка испорченным (*a rotten apple*), и полностью разложившимся. Нейтральнее."
+      },
+      {
+        "word": "Putrid",
+        "description": "крайняя стадия гниения; акцент на омерзительном запахе и зрелище. Вызывает более сильную физическую реакцию."
+      },
+      {
+        "word": "Fetid",
+        "description": "описывает только запах (не внешний вид), но запах крайне неприятный. Более книжное слово."
+      },
+      {
+        "word": "Rancid",
+        "description": "используется преимущественно о жирах и маслах, которые испортились и прогоркли."
+      }
+    ],
+    "collocations": [
+      "putrid smell",
+      "putrid flesh",
+      "putrid stench",
+      "gone putrid",
+      "putrid corpse",
+      "putrid water"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "putrefy",
+        "partOfSpeech": "verb",
+        "description": "гнить, разлагаться; подвергаться гниению"
+      },
+      {
+        "word": "putrefaction",
+        "partOfSpeech": "noun",
+        "description": "гниение, разложение; процесс гнилостного распада"
+      },
+      {
+        "word": "putrescence",
+        "partOfSpeech": "noun",
+        "description": "гнилостное состояние; процесс загнивания"
+      }
+    ],
+    "wordHistory": "От латинского *putridus* — \"гнилой, разложившийся\", от глагола *putrēre* — \"гнить\", от *puter* / *putris* — \"гнилой\". Латинский корень *pu-* связан с праиндоевропейским *puH-* — \"гнить, вонять\", от которого также произошли греческое *pýon* (\"гной\", отсюда медицинский термин **pus**), санскритское *pūyati* (\"воняет, гниёт\") и литовское *pūti* (\"гнить\"). В английский пришло через старофранцузское *putride* в XIV веке. Родственные слова рассыпаны по всему языку медицины: **suppurate** (нагнаиваться), **pus** (гной), **purulent** (гнойный) — все от того же древнего корня.",
+    "contextStory": "Разведчик отодвинул полог шатра и тут же отшатнулся: внутри лежали запасы провианта, но от них шёл **putrid** смрад — мясо сгнило за три дня жары. «Всё **putrid**, — выдавил он, зажимая нос рукавом. — Ни одного мешка не спасти». Командир побледнел: без еды войско не дойдёт до крепости. Он заглянул сам и увидел, как по **putrid** мясу ползут белые черви. «Значит, идём натощак, — сказал он ровным голосом. — Голод хотя бы не воняет».",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/putrid.jpg"
+  },
+  {
     "word": "rend",
     "pronunciation": "rend",
     "partOfSpeech": [
@@ -1768,6 +2203,146 @@
     "contextStory": "Его называли **runt** — самый мелкий мальчишка в семье воинов, слишком щуплый, чтобы поднять отцовский меч. Братья хохотали, когда **runt** заявил, что выйдет на турнир. Но в последний день именно **runt** стоял последним на арене — окровавленный и ухмыляющийся, — пока чемпионы вдвое крупнее него стонали в пыли. «Размер, — сказал он ошеломлённой толпе, — это просто история, которую о тебе рассказывают другие.»"
   },
   {
+    "word": "ruse",
+    "pronunciation": "ro͞oz",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "forms": "plural: **ruses**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "хитрость, уловка — действие или план, призванный обмануть кого-либо; стратагема: *the Trojan Horse was the most famous ruse in history* — Троянский конь был самой знаменитой уловкой в истории.",
+        "examples": [
+          "*It was all a ruse to lure the guards away from the gate.* — Всё это было уловкой, чтобы выманить стражу от ворот.",
+          "*She saw through his ruse immediately — the fake tears fooled no one.* — Она мгновенно раскусила его уловку — фальшивые слёзы никого не обманули."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*The merchant's offer of peace was nothing but a ruse — his soldiers were already inside the walls.* — Предложение купца о мире было лишь уловкой — его солдаты уже были внутри стен.",
+      "*\"A clever ruse,\" the queen admitted, \"but you underestimate how many spies I have.\"* — «Хитроумная уловка, — признала королева, — но ты недооцениваешь, сколько у меня шпионов».",
+      "*He faked his own death as a ruse to escape the bounty hunters.* — Он инсценировал собственную смерть как уловку, чтобы сбежать от охотников за головами."
+    ],
+    "usageNote": "**Ruse** подразумевает сознательный обман, но без грубости — это скорее изящная хитрость, чем подлое враньё. Слово часто встречается в военном и стратегическом контексте: *ruse de guerre* (военная хитрость) — устоявшийся франко-английский термин. В фэнтези и исторической прозе **ruse** — излюбленное слово для описания коварных планов.",
+    "comparisons": [
+      {
+        "word": "Trick",
+        "description": "самое общее и нейтральное слово — от детской шалости до серьёзного обмана."
+      },
+      {
+        "word": "Ruse",
+        "description": "более книжное и изящное; подразумевает продуманный план, стратегию, а не простую шутку."
+      },
+      {
+        "word": "Ploy",
+        "description": "тактический ход, часто с оттенком хитрости, но может быть и просто ловким манёвром без обмана."
+      },
+      {
+        "word": "Stratagem",
+        "description": "самое формальное — военная или политическая хитрость, почти синоним **ruse**, но звучит ещё более книжно."
+      }
+    ],
+    "collocations": [
+      "a clever ruse",
+      "an elaborate ruse",
+      "a ruse to lure",
+      "see through a ruse",
+      "fall for a ruse",
+      "ruse de guerre"
+    ],
+    "idioms": [],
+    "relatedForms": [],
+    "wordHistory": "Заимствовано в XV веке из старофранцузского *ruse* — \"обходной путь, уловка\", от глагола *ruser* — \"отступать, уклоняться, петлять\". Первоначально это был охотничий термин: так называли манёвр зверя, который петляет, чтобы сбить гончих со следа. Старофранцузский *ruser*, вероятно, восходит к латинскому *recūsāre* — \"отвергать, отказываться\" (от *re-* + *causa* — \"причина, дело\"). Таким образом, в этимологии **ruse** — не нападение, а уклонение: хитрость того, кто не бьёт в лоб, а уходит обходным путём.",
+    "contextStory": "Стражники обнаружили в лесу брошенный лагерь с дымящимися кострами — и бросились в погоню. Через час, запыхавшись, они поняли: это был **ruse**. Пока они мчались за призраком, настоящий отряд вошёл в крепость через канализацию. Капитан стражи, узнав о **ruse**, швырнул шлем об стену и выругался на трёх языках. «Гениальный **ruse**, — процедил он сквозь зубы. — Я бы сам гордился такой уловкой, если бы не был её жертвой.»",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/ruse.jpg"
+  },
+  {
+    "word": "skirt the edges",
+    "pronunciation": "skɜːrt ðə ˈedʒɪz",
+    "partOfSpeech": [
+      "verb phrase"
+    ],
+    "forms": "present simple: **skirts the edges**; past simple: **skirted the edges**; present participle: **skirting the edges**; past participle: **skirted the edges**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb phrase",
+        "text": "идти вдоль края или границы чего-либо, огибать по периметру, не углубляясь внутрь: *they skirted the edges of the forest, wary of what lurked within* — они шли вдоль опушки леса, опасаясь того, что таилось внутри.",
+        "examples": [
+          "*The army skirted the edges of the marshland rather than risk a crossing.* — Армия обогнула болотистую местность по краю, не рискуя переправляться.",
+          "*She skirted the edges of the crowd, searching for a familiar face.* — Она пробиралась по краю толпы, выискивая знакомое лицо."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb phrase",
+        "text": "(перен.) приближаться к чему-либо опасному или запретному, не вступая в это полностью; балансировать на грани: *he skirted the edges of madness after losing everything* — он балансировал на грани безумия, потеряв всё.",
+        "examples": [
+          "*Their conversation skirted the edges of treason, though neither dared speak it plainly.* — Их разговор балансировал на грани измены, хотя ни один не решился сказать прямо.",
+          "*For years she skirted the edges of the criminal underworld, never quite crossing the line.* — Годами она кружила на границе преступного мира, так и не переступив черту."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*They skirted the edges of the Wyrdness, where the land twisted and trees grew upside down.* — Они шли вдоль границы Порчи, где земля искривлялась, а деревья росли вверх ногами.",
+      "*The patrol skirted the edges of enemy territory, gathering intelligence without provoking a fight.* — Патруль двигался вдоль границы вражеской территории, собирая разведданные и не провоцируя столкновение.",
+      "*He had always skirted the edges of polite society — welcome enough at the tavern, but never at the lord's table.* — Он всегда держался на обочине приличного общества — желанный гость в таверне, но не за господским столом."
+    ],
+    "usageNote": "Выражение подчёркивает осторожное движение по периферии — будь то буквально (вдоль леса, вокруг болота) или метафорически (на грани закона, безумия, запретной темы). Ключевой смысл: человек сознательно избегает центра — либо из осторожности, либо из страха. Часто встречается в фэнтези при описании путешествий через опасные земли.",
+    "comparisons": [
+      {
+        "word": "skirt",
+        "description": "глагол сам по себе уже значит «огибать, обходить». **Skirt the edges** усиливает образ — подчёркивает именно движение вдоль самой кромки."
+      },
+      {
+        "word": "border on",
+        "description": "«граничить с чем-то» — описывает состояние, а не движение. *His behavior bordered on insanity* — статичная оценка, без образа осторожного обхода."
+      },
+      {
+        "word": "tiptoe around",
+        "description": "«ходить на цыпочках вокруг» — чаще о темах и разговорах, с акцентом на деликатность. **Skirt the edges** — о пространстве и границах."
+      }
+    ],
+    "collocations": [
+      "skirt the edges of the forest",
+      "skirt the edges of madness",
+      "skirt the edges of danger",
+      "skirt the edges of the law",
+      "skirt the edges of the battlefield",
+      "skirt the edges of the Wyrdness"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "skirt",
+        "partOfSpeech": "verb",
+        "description": "огибать, обходить; базовый глагол, из которого образовано выражение."
+      },
+      {
+        "word": "on the edge",
+        "partOfSpeech": "adverbial phrase",
+        "description": "на грани; близко по смыслу к переносному значению **skirt the edges**."
+      }
+    ],
+    "wordHistory": "Глагол **skirt** в значении «огибать, проходить вдоль края» появился в среднеанглийском из древнескандинавского *skyrta* (родственного существительному *skirt* — «юбка, подол»). Исходный образ — подол одежды, скользящий по краю чего-либо. Существительное **edge** — из древнеанглийского *ecg* (\"лезвие, острая кромка\"), родственного немецкому *Ecke* (\"угол\") и латинскому *acies* (\"острие\"). Сочетание **skirt the edges** закрепилось как устойчивое выражение, объединяющее два образа: скользящее движение подола и опасную остроту кромки.",
+    "contextStory": "Разведчик расстелил карту и ткнул пальцем в красную зону: «Мы **skirt the edges** — по опушке, не глубже ста шагов от деревьев». Капитан нахмурился. Предыдущий отряд тоже пытался **skirt the edges** проклятого леса, но к утру от них остались только пустые сапоги. «А если тварь охотится именно на тех, кто **skirting the edges**? — тихо спросил лучник. — Может, безопаснее идти напрямик?» Повисла тишина. Ни один вариант не гарантировал возвращения. Капитан свернул карту: «По краю. Хотя бы будет куда бежать.»",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/skirt the edges.jpg"
+  },
+  {
     "word": "slingshot",
     "pronunciation": "ˈsliNGˌSHät",
     "partOfSpeech": [
@@ -1877,6 +2452,91 @@
     },
     "image": "/data/projects/tainted-grail/images/words/staunch.jpg",
     "contextStory": "Когда заговор раскрылся, все союзники разбежались — все, кроме лорда Олдрика, самого **staunch** сторонника короля. Он встал перед трибуналом и говорил не дрогнув — его **staunch** верность не пошатнулась даже когда толпа жаждала крови. Позже, в темнице, король тихо плакал. «У меня была сотня друзей при свете дня, — прошептал он. — Лишь один оказался **staunch** во тьме.» Олдрик ничего не сказал. Он просто сел рядом с королём и стал ждать рассвета."
+  },
+  {
+    "word": "susceptible",
+    "pronunciation": "səˈseptəbəl",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "восприимчивый, подверженный (чему-л. нежелательному — болезни, влиянию, искушению); легко поддающийся воздействию: *children are particularly susceptible to the disease* — дети особенно восприимчивы к этой болезни.",
+        "examples": [
+          "*The old fortress, weakened by years of neglect, was susceptible to even the lightest siege.* — Старая крепость, ослабленная годами запустения, была уязвима даже для самой лёгкой осады.",
+          "*He knew she was susceptible to flattery and used it ruthlessly.* — Он знал, что она падка на лесть, и пользовался этим безжалостно."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "(формальн.) допускающий, поддающийся (чему-л. — обработке, интерпретации, изменению); используется в конструкции **susceptible of**: *the text is susceptible of multiple interpretations* — текст допускает множество толкований.",
+        "examples": [
+          "*The law is susceptible of a broader reading than the court allowed.* — Закон допускает более широкое толкование, чем то, которое дал суд."
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "adjective",
+        "text": "впечатлительный, чувствительный; легко поддающийся эмоциям: *a susceptible young heart, quick to love and quicker to break* — впечатлительное юное сердце, быстрое влюбляться и ещё быстрее — разбиваться.",
+        "examples": []
+      }
+    ],
+    "mainExamples": [
+      "*Without the Grail's protection, the land grew susceptible to the creeping corruption of the Wyrdness.* — Без защиты Грааля земля стала восприимчива к ползучей порче Странности.",
+      "*\"We are all susceptible to fear,\" the knight whispered, \"but only cowards let it rule them.\"* — «Мы все подвержены страху, — прошептал рыцарь, — но лишь трусы позволяют ему собой управлять».",
+      "*The weakened villagers were susceptible to every plague that swept through the marshlands.* — Ослабленные селяне были восприимчивы к каждой чуме, прокатывавшейся по болотам."
+    ],
+    "usageNote": "Чаще всего встречается с предлогом **to**: *susceptible to infection / influence / damage*. В формальном регистре возможен предлог **of** (= \"допускающий\"): *susceptible of proof*. Важно: слово почти всегда подразумевает **уязвимость**, а не просто \"восприимчивость\" в нейтральном смысле — если вы susceptible to something, это обычно плохо для вас.",
+    "comparisons": [
+      {
+        "word": "vulnerable",
+        "description": "подчёркивает незащищённость, открытость для удара или вреда. Более широкое слово: можно быть vulnerable физически, эмоционально, стратегически."
+      },
+      {
+        "word": "prone",
+        "description": "указывает на склонность, тенденцию (часто к чему-то нежелательному): *prone to errors*. Менее формально, чем susceptible."
+      },
+      {
+        "word": "susceptible",
+        "description": "акцентирует именно восприимчивость к внешнему воздействию — болезни, влиянию, искушению. Часто используется в медицинском и научном контексте."
+      }
+    ],
+    "collocations": [
+      "susceptible to infection",
+      "susceptible to disease",
+      "susceptible to influence",
+      "susceptible to damage",
+      "particularly susceptible",
+      "highly susceptible",
+      "susceptible to temptation",
+      "susceptible to flattery"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "susceptibility",
+        "partOfSpeech": "noun",
+        "description": "восприимчивость, подверженность: *his susceptibility to cold weather* — его подверженность холодной погоде."
+      },
+      {
+        "word": "susceptibilities",
+        "partOfSpeech": "noun (plural)",
+        "description": "(формальн.) чувства, чувствительность; то, что легко задеть: *we must respect their susceptibilities* — мы должны уважать их чувства."
+      }
+    ],
+    "wordHistory": "От позднелатинского *susceptibilis* — \"способный принимать, допускающий\", от глагола *suscipere* — \"поднимать, подхватывать, принимать на себя\" (sus- \"снизу вверх\" + capere \"брать\"). Тот же корень *capere* дал английские **capture**, **capable**, **accept**, **receive**. В английский слово вошло в начале XVII века через французский. Первоначально означало просто \"способный воспринять\" (нейтрально), но постепенно сместилось в сторону уязвимости — \"слишком способный воспринять\", \"не имеющий защиты от воздействия\".",
+    "contextStory": "Деревенский лекарь знал: после голодной зимы люди становятся **susceptible** ко всему — от простуды до чумы. Он предупреждал старосту, но тот лишь отмахивался. Когда первый торговец с юга привёз не только ткани, но и лихорадку, **susceptible** жители слегли за считанные дни. Лекарь метался между домами, понимая: он и сам давно **susceptible** — измотанный, недоспавший, он лечил других, пока болезнь тихо пускала корни в его собственном теле. На пятое утро он не смог встать.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/susceptible.jpg"
   },
   {
     "word": "tether",
@@ -2088,6 +2748,79 @@
     },
     "image": "/data/projects/tainted-grail/images/words/venture.jpg",
     "contextStory": "Первый **venture** купца — груз специй через Узкое Море — утонул в шторме, забрав каждую монету. Второй **venture**, партнёрство с северным торговцем мехами, едва вышел в ноль. Но он не сдался. В третий **venture** он загрузил корабль тем, что никто другой не решался везти: книгами. Их продали в десять раз дороже их веса в серебре. «Каждый **venture** тебя учит, — сказал он сыну. — Те, что проваливаются, учат больше всего.»"
+  },
+  {
+    "word": "weasel out",
+    "pronunciation": "ˈwiːzəl aʊt",
+    "partOfSpeech": [
+      "phrasal verb"
+    ],
+    "forms": "past simple: **weaseled out**; past participle: **weaseled out**; present participle: **weaseling out**; third person: **weasels out**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "phrasal verb",
+        "text": "уклониться от обязательства, ответственности или обещания хитростью, уловками или трусливым манёвром; увильнуть, выкрутиться: *He tried to weasel out of paying his share of the bill* — Он попытался увильнуть от оплаты своей части счёта.",
+        "examples": [
+          "*Don't try to weasel out of our deal — you gave me your word.* — Не пытайся выкрутиться из нашей сделки — ты дал мне слово.",
+          "*She always weasels out of the hard tasks, leaving the rest of us to do the work.* — Она всегда увиливает от сложных задач, оставляя остальным всю работу."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"You can't weasel out of this one, Roland. The oath is sealed in blood.\"* — «Ты не выкрутишься из этого, Роланд. Клятва скреплена кровью».",
+      "*He weaseled out of every commitment he'd ever made, and people had stopped trusting him long ago.* — Он увиливал от каждого данного им обязательства, и люди давно перестали ему доверять.",
+      "*The merchant tried to weasel out of the contract by claiming he never signed it.* — Торговец попытался увильнуть от контракта, утверждая, что никогда его не подписывал."
+    ],
+    "usageNote": "Выражение имеет отчётливо негативную окраску — подразумевает трусость, нечестность и мелочность. Образ основан на поведении ласки (weasel), которая известна своей способностью проскальзывать в узкие щели и ускользать. Часто используется с предлогом **of**: *weasel out of something*. Может также встречаться без **out** в значении \"юлить, хитрить\": *stop weaseling and give me a straight answer*.",
+    "comparisons": [
+      {
+        "word": "back out",
+        "description": "отказаться от обязательства, но без подтекста хитрости — скорее просто передумать: *He backed out of the deal at the last minute*."
+      },
+      {
+        "word": "worm out of",
+        "description": "очень близкий синоним, также с зоологической метафорой (червь); подразумевает медленное, извивающееся увиливание."
+      },
+      {
+        "word": "shirk",
+        "description": "уклоняться от обязанностей (особенно работы), но без акцента на хитрости — скорее из лени: *He shirked his duties*."
+      },
+      {
+        "word": "wriggle out of",
+        "description": "выкрутиться, вывернуться — подчёркивает физическую метафору извивания, ловкого ускользания."
+      }
+    ],
+    "collocations": [
+      "weasel out of a deal",
+      "weasel out of a promise",
+      "weasel out of responsibility",
+      "weasel out of paying",
+      "try to weasel out",
+      "always weaseling out"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "weasel",
+        "partOfSpeech": "noun",
+        "description": "ласка (животное); а также хитрый, скользкий, ненадёжный человек."
+      },
+      {
+        "word": "weasel words",
+        "partOfSpeech": "noun",
+        "description": "уклончивые, двусмысленные слова, призванные ввести в заблуждение или снять ответственность."
+      }
+    ],
+    "wordHistory": "Выражение появилось в американском английском в середине XX века, образовано от существительного **weasel** (ласка) — мелкого хищника семейства куньих, известного своей юркостью и способностью проникать в невероятно узкие пространства. Древнеанглийское *wesle* восходит к протогерманскому *wisulō*, возможно связанному с латинским *virus* (\"слизь, яд\") — через идею чего-то скользкого. Метафорическое использование **weasel** в значении \"хитрец, пройдоха\" появилось ещё в XV веке. Теодор Рузвельт популяризировал термин **weasel words** в 1916 году, а фразовый глагол **weasel out** закрепился к 1950-м годам как яркое обозначение трусливого уклонения от обязательств.",
+    "contextStory": "Барон стоял перед рыцарями Круглого стола и клялся повести армию на защиту деревень. Но когда пришло время выступать, он попытался **weasel out**, сославшись на внезапную болезнь. «Странная болезнь, — процедил сэр Гавейн, — которая поражает только накануне битвы.» Барон попробовал **weasel out** ещё раз, заявив, что его клятва была дана «условно». Зал загудел от гнева. Никому не удавалось **weasel out** из клятвы, данной перед Круглым столом, — и барон не стал исключением: его лишили титула до заката.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/weasel out.jpg"
   },
   {
     "word": "wench",

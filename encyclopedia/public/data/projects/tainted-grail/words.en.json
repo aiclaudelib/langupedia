@@ -193,6 +193,91 @@
     "contextStory": "The abandoned temple was **bathed** in pale moonlight, its crumbling pillars casting long shadows across the stone floor. She stepped inside and found the altar **bathed** in something else — a warm, pulsing glow that had no source. It felt alive, sacred, as if the air itself had **bathed** the ruins in forgotten magic. She knelt, and for the first time in years, the weight in her chest dissolved."
   },
   {
+    "word": "beastly",
+    "pronunciation": "ˈbiːstli",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "very unpleasant, disagreeable, nasty (often about weather, behavior, or situations): *what beastly weather we're having.*",
+        "examples": [
+          "*He was beastly to her all evening, mocking her accent and ignoring her questions.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "resembling or befitting a beast; savage, feral: *the beastly howl echoed through the ruins.*",
+        "examples": [
+          "*His beastly rage turned him into something barely human.*"
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "adverb",
+        "text": "(British informal, dated) extremely, dreadfully (intensifying a negative quality): *it's beastly cold tonight.*",
+        "examples": [
+          "*The road was beastly difficult to follow in the dark.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"Don't be so beastly to your sister — she's only trying to help.\"*",
+      "*A beastly stench rose from the swamp, thick enough to make the horses refuse to go further.*",
+      "*The creature's beastly features — fangs, claws, matted fur — concealed a surprisingly gentle soul.*"
+    ],
+    "usageNote": "In British English, **beastly** is often used as a mild, almost old-fashioned intensifier: *beastly weather*, *beastly cold*, *beastly rude*. It sounds more like a gentleman's grumble than actual profanity. In fantasy contexts, the word returns to its literal meaning — \"beast-like\" — and takes on a genuinely sinister edge.",
+    "comparisons": [
+      {
+        "word": "Beastly",
+        "description": "emotionally evaluative: \"nasty, disagreeable\" (British) or literal \"beast-like.\" In fantasy — often literal."
+      },
+      {
+        "word": "Bestial",
+        "description": "literary and stronger: \"brutal, savage, subhuman,\" emphasizing a complete loss of humanity. Always serious, never playful."
+      },
+      {
+        "word": "Brutish",
+        "description": "coarse, dull, animal-like — emphasis on the absence of intelligence and refinement."
+      }
+    ],
+    "collocations": [
+      "beastly weather",
+      "beastly cold",
+      "beastly behavior",
+      "beastly creature",
+      "beastly howl",
+      "don't be beastly"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "beast",
+        "partOfSpeech": "noun",
+        "description": "an animal, especially a large or dangerous one; the base word from which **beastly** is derived."
+      },
+      {
+        "word": "beastliness",
+        "partOfSpeech": "noun",
+        "description": "the quality of being beastly; nastiness, savagery."
+      }
+    ],
+    "wordHistory": "From Middle English *bestely*, formed from *beste* (\"beast\") + the suffix *-ly*. The word *beste* came from Old French *beste*, going back to Latin *bēstia* (\"beast, wild animal\"). Literally — \"beast-like.\" The figurative meaning \"unpleasant, disagreeable\" became established by the 16th–17th century and grew especially popular in Victorian England as a polite form of disapproval: saying *beastly* was acceptable where outright profanity was not. In fantasy, the word has returned to its roots: **beastly** once again describes what literally resembles a beast.",
+    "contextStory": "The old gamekeeper met us at the doorstep and shook his head. \"**Beastly** night for a hunt — fog, rain, and something howling in the woods.\" We went anyway. By midnight it was clear the old man hadn't exaggerated: a **beastly** howl kept growing closer, and the horses trembled with their ears pinned flat. When something with yellow eyes and a **beastly** snarl stepped out of the fog, the gamekeeper calmly raised his crossbow. One click — and the creature dropped. \"Told you,\" he muttered. \"**Beastly** night.\"",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/beastly.jpg"
+  },
+  {
     "word": "behest",
     "pronunciation": "bəˈhest",
     "partOfSpeech": [
@@ -727,6 +812,84 @@
     "contextStory": "The spymaster hired her not for her skill with a blade, but for her **discretion**. In a court drowning in gossip, she moved like a shadow — never repeating what she heard, never asking what she should not know. \"I leave the method to your **discretion**,\" the queen told her one night, sliding a name across the table. She nodded. **Discretion** had kept her alive for twenty years. It would keep her alive tonight, too."
   },
   {
+    "word": "disfigurement",
+    "pronunciation": "dɪsˈfɪɡ.jər.mənt",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "forms": "plural: **disfigurements**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "the process or result of inflicting damage that spoils the appearance of a person, body part, or object: *the disfigurement was so severe that even his mother could not recognize him.*",
+        "examples": [
+          "*Acid attacks cause permanent disfigurement.*",
+          "*She bore the disfigurement with quiet dignity.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "noun",
+        "text": "a specific defect, scar, or mark that mars someone's appearance: *a deep disfigurement ran from his brow to his jaw.*",
+        "examples": [
+          "*The fire left disfigurements across her hands and arms.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*The knight removed his helm, revealing the disfigurement he had hidden for years — a mass of scar tissue where his left eye had been.*",
+      "*In medieval times, disfigurement was often seen as a mark of divine punishment.*",
+      "*The curse brought not death, but something worse — a slow disfigurement that twisted the body into something barely human.*"
+    ],
+    "usageNote": "**Disfigurement** carries a strong emotional weight. Unlike the neutral *scar* or minor *blemish*, it implies serious, often irreversible damage that fundamentally alters a person's appearance. In legal contexts, *disfigurement* is a formal term for bodily injury affecting appearance (compensation for disfigurement). In fantasy, it is frequently associated with curses, dark magic, or battle wounds.",
+    "comparisons": [
+      {
+        "word": "scar",
+        "description": "a specific mark left by a wound. Can be small and inconspicuous. **Disfigurement** implies far more severe damage."
+      },
+      {
+        "word": "deformity",
+        "description": "a deviation from normal shape, often congenital. **Disfigurement** usually implies acquired damage."
+      },
+      {
+        "word": "mutilation",
+        "description": "emphasizes the deliberate act of inflicting harm. **Disfigurement** focuses on the result — the altered appearance."
+      }
+    ],
+    "collocations": [
+      "permanent disfigurement",
+      "facial disfigurement",
+      "severe disfigurement",
+      "physical disfigurement",
+      "cause disfigurement",
+      "suffer disfigurement",
+      "hide a disfigurement"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "disfigure",
+        "partOfSpeech": "verb",
+        "description": "to spoil the appearance of; to mar or deform: *the explosion disfigured half his face.*"
+      },
+      {
+        "word": "disfigured",
+        "partOfSpeech": "adjective",
+        "description": "having one's appearance spoiled or marred: *a disfigured beggar sat at the gate.*"
+      }
+    ],
+    "wordHistory": "From Old French *desfigurer* — \"to strip of form, to spoil the appearance,\" where *des-* (from Latin *dis-* — \"apart, away\") + *figure* (from Latin *figūra* — \"form, shape\"). Literally: \"to deprive of figure/form.\" Latin *figūra* traces back to Proto-Indo-European *dʰeyǵʰ-* — \"to mold, to shape\" (the same root gave us *dough* and *fiction* — \"something molded from words\"). The suffix *-ment* (from Latin *-mentum*) turns the verb into a noun denoting a result or process. The verb *disfigure* entered English in the 14th century, and the noun *disfigurement* became established by the 16th century.",
+    "contextStory": "She found a mirror in the abandoned tower — the first mirror in three years. Slowly, she raised it. The **disfigurement** was worse than she remembered: the curse had eaten through skin from temple to chin, exposing silvery bone beneath. In the village, children screamed at her **disfigurement**, and mothers slammed their shutters. But the old healer, who bore his own **disfigurement** from a long-ago war, did not look away. \"I don't see scars,\" he said. \"I see someone who survived.\" She smashed the mirror. She didn't need it anymore.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/disfigurement.jpg"
+  },
+  {
     "word": "dispense",
     "pronunciation": "dəˈspens",
     "partOfSpeech": [
@@ -984,6 +1147,101 @@
     },
     "image": "/data/projects/tainted-grail/images/words/forsake.jpg",
     "contextStory": "She begged him not to **forsake** her, but he turned his back and walked into the rain. The village had already **forsaken** its faith in him — doors shut, lanterns extinguished one by one. Standing alone in the square, she understood what it meant to be truly **forsaken**: not just left behind, but erased from someone's heart. Years later, he would regret the night he chose to **forsake** the only person who believed in him."
+  },
+  {
+    "word": "fret",
+    "pronunciation": "fret",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "forms": "past tense: **fretted**; past participle: **fretted**; present participle: **fretting**; third person: **frets**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb",
+        "text": "to worry or be anxious about something, especially something one cannot control; to be in a state of restless unease: *she fretted over every small detail of the journey.*",
+        "examples": [
+          "*Don't fret — we'll find a way out of this.*",
+          "*He sat by the window, fretting about the storm that was coming.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb",
+        "text": "to eat away, corrode, or wear through by friction or erosion: *the river fretted the stone into smooth curves.*",
+        "examples": [
+          "*Rust had fretted the iron chains until they were paper-thin.*"
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "noun",
+        "text": "a state of anxiety or worry; nervousness: *she was in a terrible fret about the missing child.*",
+        "examples": []
+      },
+      {
+        "sense": 4,
+        "context": "noun",
+        "text": "a ridge on the fingerboard of a guitar or other stringed instrument: *press the string just behind the third fret.*",
+        "examples": []
+      }
+    ],
+    "mainExamples": [
+      "*\"Don't fret, child. The knight will return before the snow melts.\"*",
+      "*She fretted through the night, pacing the floor until dawn crept through the shutters.*",
+      "*Years of salt wind had fretted the castle walls, leaving them pitted and scarred.*"
+    ],
+    "usageNote": "In the sense of worrying, **fret** conveys obsessive, futile anxiety — not sharp fear, but a nagging, exhausting kind of worry. Often used in the imperative as reassurance: *don't fret*. In the sense of eroding or wearing away, it is literary and poetic, found in descriptions of nature and the passage of time.",
+    "comparisons": [
+      {
+        "word": "worry",
+        "description": "the most neutral and common word for anxiety. **Fret** is more emotional and implies visible agitation."
+      },
+      {
+        "word": "brood",
+        "description": "to dwell on dark thoughts in gloomy silence. **Brood** is quieter and deeper; **fret** is more restless and nervous."
+      },
+      {
+        "word": "agonize",
+        "description": "to suffer intense anxiety, usually before a major decision. Stronger than **fret**."
+      }
+    ],
+    "collocations": [
+      "fret about/over something",
+      "fret and worry",
+      "don't fret",
+      "fret away",
+      "fret oneself",
+      "in a fret"
+    ],
+    "idioms": [
+      {
+        "phrase": "fret and fume",
+        "explanation": "to be anxious and angry at the same time; to stew with helpless frustration."
+      }
+    ],
+    "relatedForms": [
+      {
+        "word": "fretful",
+        "partOfSpeech": "adjective",
+        "description": "anxious, irritable, whiny — especially of children or the sick."
+      },
+      {
+        "word": "fretfully",
+        "partOfSpeech": "adverb",
+        "description": "in an anxious, irritable, or peevish manner."
+      }
+    ],
+    "wordHistory": "Old English *fretan* — \"to devour, to eat up,\" from Proto-Germanic *fra-etaną* (literally \"to eat completely\"): prefix *fra-* (\"completely\") + *etaną* (\"to eat\"). Related to German *fressen* (\"to devour\" — used of animals). Originally the word meant physical eating away — as rust devours metal, a river eats a riverbank. By the 14th century, the figurative sense emerged: anxiety \"eats away\" at a person from within. Thus the literal image of devouring became a metaphor for emotional self-torment. The musical sense (fret on a fingerboard) comes from a different root: Old French *frete* (\"band, ferrule\").",
+    "contextStory": "The old herbalist noticed the girl pulling at the hem of her dress — a telltale sign. \"Stop **fretting**,\" she said gently. \"Your brother can handle himself.\" But the girl continued to **fret**, biting her lip and staring into the fog beyond the window. By noon, the worry had eaten through her patience the way water eats through stone. She threw on a cloak and ran into the storm. Found him an hour later — sound asleep under an overturned boat. \"Told you not to **fret**,\" the herbalist smirked when they returned, soaked and grinning.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/fret.jpg"
   },
   {
     "word": "husk",
@@ -1291,6 +1549,98 @@
     },
     "image": "/data/projects/tainted-grail/images/words/maudlin.jpg",
     "contextStory": "By the third bottle, Uncle Victor turned **maudlin**, sobbing about a woman he had not seen in forty years. \"You always get **maudlin** at Christmas,\" his sister snapped, but he was beyond hearing. The children watched in uncomfortable silence as his **maudlin** monologue spiralled into incoherence. Nobody felt sorry for him — there was something repulsive about his **maudlin** self-pity, a grief performed for an audience that never asked for the show."
+  },
+  {
+    "word": "mauled",
+    "pronunciation": "mɔːld",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "forms": "base: **maul**; past tense: **mauled**; present participle: **mauling**; third person: **mauls**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb (past tense / past participle)",
+        "text": "to be savagely attacked and torn by an animal's claws and teeth: *the traveler was mauled by a bear and barely survived.*",
+        "examples": [
+          "*The wolf mauled the sheep before the shepherd could intervene.*",
+          "*She was mauled so badly that the healers doubted she would walk again.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb (past tense / past participle)",
+        "text": "(figurative) to criticize harshly or defeat decisively: *their army was mauled in the ambush.*",
+        "examples": [
+          "*The critics mauled his debut novel, calling it pretentious and hollow.*"
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "adjective",
+        "text": "bearing the marks of a savage attack; mangled and torn: *his mauled body told the story of a desperate fight.*",
+        "examples": []
+      }
+    ],
+    "mainExamples": [
+      "*He dragged himself back to camp, mauled and bleeding, but alive.*",
+      "*The knight's shield was mauled beyond recognition after the dragon's assault.*",
+      "*\"I've been mauled by worse things than you,\" she spat, raising her broken blade.*"
+    ],
+    "usageNote": "**Mauled** implies not just a single blow or wound, but a prolonged, savage attack involving tearing of flesh — by claws, teeth, or brute force. The word carries an image of animal ferocity. In figurative use, it retains the same tone: criticism or defeat so thorough that little is left intact. Often appears in passive voice: *was mauled by*.",
+    "comparisons": [
+      {
+        "word": "mauled",
+        "description": "savagely torn by claws/teeth; implies a prolonged, brutal attack."
+      },
+      {
+        "word": "scratched",
+        "description": "lightly damaged on the surface — minor, often superficial."
+      },
+      {
+        "word": "savaged",
+        "description": "close synonym of mauled, but with even more emphasis on wildness and ferocity."
+      },
+      {
+        "word": "mangled",
+        "description": "disfigured beyond recognition — focuses on the result rather than the process of the attack."
+      }
+    ],
+    "collocations": [
+      "mauled by a bear",
+      "mauled to death",
+      "badly mauled",
+      "mauled beyond recognition",
+      "mauled survivor"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "maul",
+        "partOfSpeech": "verb",
+        "description": "the base form: to savage, to tear with claws and teeth."
+      },
+      {
+        "word": "maul",
+        "partOfSpeech": "noun",
+        "description": "a heavy hammer used for splitting wood or driving stakes."
+      },
+      {
+        "word": "mauling",
+        "partOfSpeech": "noun",
+        "description": "an act of savage attack; also used figuratively for a crushing defeat."
+      }
+    ],
+    "wordHistory": "The verb **maul** comes from Middle English *mallen* — \"to strike with a heavy hammer,\" from Old French *mail* — \"hammer,\" from Latin *malleus* — \"hammer\" (which also gives us **malleable** and **mallet**). Originally the word described blows from a heavy tool, but by the 16th century the meaning shifted toward animal attacks — savaging with claws and teeth. Interestingly, the original \"hammer\" sense survives in the noun **maul** (a heavy splitting hammer), while the verb migrated entirely into the world of beasts and violence. The past participle **mauled** became a standalone descriptive word meaning \"savaged, torn apart.\"",
+    "contextStory": "The hunter crawled out of the ravine on all fours — so badly **mauled** that his friends barely recognized him. His left arm hung limp, deep furrows carved across his back. \"She-bear,\" he rasped. \"I stepped on her cub.\" The healer examined the **mauled** body and shook his head: ribs cracked, shoulder muscles torn to the bone. \"I've seen men **mauled** worse than you,\" he lied, reaching for the bandages. \"They all pulled through.\" The hunter smiled through split lips. He knew the healer was lying, but he accepted the lie like medicine.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/mauled.jpg"
   },
   {
     "word": "mill about (around)",
@@ -1653,6 +2003,91 @@
     "contextStory": "The rope bridge swayed in the wind, each step more **precarious** than the last. Elena gripped the fraying cables and forced herself not to look down at the river churning two hundred feet below. Her **precarious** balance was shattered when a plank snapped beneath her boot — she lunged forward, catching the next rope just in time. On the other side, the villagers watched in silence, knowing that their own survival was just as **precarious**: one more flood, one more failed harvest, and everything would collapse."
   },
   {
+    "word": "putrid",
+    "pronunciation": "ˈpjuːtrɪd",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "decaying and rotting; producing a disgustingly foul smell of decomposition: *the putrid carcass of a deer lay across the trail.*",
+        "examples": [
+          "*A putrid stench rose from the swamp, thick enough to make their eyes water.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "(figurative) thoroughly repulsive or morally abhorrent; of extremely poor quality: *a putrid display of cowardice.*",
+        "examples": [
+          "*The lord's putrid greed had bled his people dry.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*The wound had gone putrid — black at the edges, leaking something that was not blood.*",
+      "*\"Don't eat that,\" she warned. \"The meat's gone putrid.\"*",
+      "*A putrid fog hung over the battlefield, carrying the smell of three days' dead.*"
+    ],
+    "usageNote": "**Putrid** is one of the most viscerally unpleasant words in English. It doesn't merely describe a bad smell — it evokes a near-reflexive disgust. In figurative use, it works as a powerful emotional intensifier: *putrid corruption* hits far harder than *terrible corruption*. In informal British English, it is sometimes used as a synonym for *awful*: *the weather was putrid*.",
+    "comparisons": [
+      {
+        "word": "Rotten",
+        "description": "more general; can range from slightly spoiled (*a rotten apple*) to fully decomposed. More neutral in tone."
+      },
+      {
+        "word": "Putrid",
+        "description": "the extreme end of decay; emphasizes the revolting smell and sight. Triggers a stronger physical reaction."
+      },
+      {
+        "word": "Fetid",
+        "description": "describes only the smell (not the appearance), but an extremely unpleasant one. More literary."
+      },
+      {
+        "word": "Rancid",
+        "description": "used predominantly for fats and oils that have gone off and turned acrid."
+      }
+    ],
+    "collocations": [
+      "putrid smell",
+      "putrid flesh",
+      "putrid stench",
+      "gone putrid",
+      "putrid corpse",
+      "putrid water"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "putrefy",
+        "partOfSpeech": "verb",
+        "description": "to decay and rot; to undergo putrefaction"
+      },
+      {
+        "word": "putrefaction",
+        "partOfSpeech": "noun",
+        "description": "the process of decay and decomposition of organic matter"
+      },
+      {
+        "word": "putrescence",
+        "partOfSpeech": "noun",
+        "description": "the state or process of rotting; the quality of being putrescent"
+      }
+    ],
+    "wordHistory": "From Latin *putridus* — \"rotten, decayed,\" from the verb *putrēre* — \"to rot,\" from *puter* / *putris* — \"rotten.\" The Latin root *pu-* traces back to Proto-Indo-European *puH-* — \"to rot, to stink,\" which also gave rise to Greek *pýon* (\"pus\"), Sanskrit *pūyati* (\"stinks, rots\"), and Lithuanian *pūti* (\"to rot\"). Entered English through Old French *putride* in the 14th century. Related words are scattered across medical terminology: **suppurate** (to form pus), **pus**, **purulent** (containing pus) — all from the same ancient root.",
+    "contextStory": "The scout pushed aside the tent flap and immediately recoiled: the provisions inside had turned **putrid** in three days of relentless heat. \"It's all **putrid**,\" he gagged, pulling his sleeve over his nose. \"Not a single sack worth saving.\" The commander went pale — without food, the army would never reach the fortress. He looked inside and saw white maggots crawling through the **putrid** meat. \"Then we march hungry,\" he said evenly. \"At least hunger doesn't stink.\"",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/putrid.jpg"
+  },
+  {
     "word": "rend",
     "pronunciation": "rend",
     "partOfSpeech": [
@@ -1768,6 +2203,146 @@
     "contextStory": "They called him the **runt** of the litter — the smallest boy in a family of warriors, too scrawny to lift his father's sword. His brothers laughed when the **runt** announced he would enter the tournament. But on the final day, it was the **runt** who stood last in the arena, bloodied and grinning, while champions twice his size lay groaning in the dust. \"Size,\" he told the stunned crowd, \"is just the story other people tell about you.\""
   },
   {
+    "word": "ruse",
+    "pronunciation": "ro͞oz",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "forms": "plural: **ruses**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "a trick or stratagem intended to deceive someone; a cunning plan designed to mislead: *the Trojan Horse was the most famous ruse in history.*",
+        "examples": [
+          "*It was all a ruse to lure the guards away from the gate.*",
+          "*She saw through his ruse immediately — the fake tears fooled no one.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*The merchant's offer of peace was nothing but a ruse — his soldiers were already inside the walls.*",
+      "*\"A clever ruse,\" the queen admitted, \"but you underestimate how many spies I have.\"*",
+      "*He faked his own death as a ruse to escape the bounty hunters.*"
+    ],
+    "usageNote": "**Ruse** implies deliberate deception but carries a sense of elegance rather than crudeness — it suggests a crafty stratagem rather than a bald-faced lie. The word is common in military and strategic contexts: *ruse de guerre* (a wartime stratagem) is an established Anglo-French term. In fantasy and historical fiction, **ruse** is a favorite word for describing cunning schemes.",
+    "comparisons": [
+      {
+        "word": "Trick",
+        "description": "the most general and neutral term — from a child's prank to a serious deception."
+      },
+      {
+        "word": "Ruse",
+        "description": "more literary and elegant; implies a well-thought-out plan or strategy, not a simple joke."
+      },
+      {
+        "word": "Ploy",
+        "description": "a tactical move, often with a hint of cunning, but can also be a clever maneuver without outright deception."
+      },
+      {
+        "word": "Stratagem",
+        "description": "the most formal — a military or political trick, nearly synonymous with **ruse** but even more bookish."
+      }
+    ],
+    "collocations": [
+      "a clever ruse",
+      "an elaborate ruse",
+      "a ruse to lure",
+      "see through a ruse",
+      "fall for a ruse",
+      "ruse de guerre"
+    ],
+    "idioms": [],
+    "relatedForms": [],
+    "wordHistory": "Borrowed in the 15th century from Old French *ruse* — \"detour, trick,\" from the verb *ruser* — \"to retreat, dodge, double back.\" Originally a hunting term: it described the maneuver of an animal zigzagging to throw hounds off its scent. Old French *ruser* probably derives from Latin *recūsāre* — \"to reject, refuse\" (from *re-* + *causa* — \"reason, case\"). Thus, at its etymological root, a **ruse** is not an attack but an evasion: the cunning of one who does not strike head-on but takes a roundabout path.",
+    "contextStory": "The guards discovered an abandoned camp in the forest with still-smoking fires — and charged after the fleeing enemy. An hour later, gasping for breath, they realized it was a **ruse**. While they chased phantoms, the real strike force had slipped into the fortress through the sewers. The captain of the guard, upon learning of the **ruse**, hurled his helmet against the wall and cursed in three languages. \"A brilliant **ruse**,\" he hissed through clenched teeth. \"I'd be proud of it myself, if I weren't its victim.\"",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/ruse.jpg"
+  },
+  {
+    "word": "skirt the edges",
+    "pronunciation": "skɜːrt ðə ˈedʒɪz",
+    "partOfSpeech": [
+      "verb phrase"
+    ],
+    "forms": "present simple: **skirts the edges**; past simple: **skirted the edges**; present participle: **skirting the edges**; past participle: **skirted the edges**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "verb phrase",
+        "text": "to move along the border or perimeter of something, staying near the edge without going into the interior: *they skirted the edges of the forest, wary of what lurked within.*",
+        "examples": [
+          "*The army skirted the edges of the marshland rather than risk a crossing.*",
+          "*She skirted the edges of the crowd, searching for a familiar face.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb phrase",
+        "text": "to approach something dangerous or forbidden without fully entering into it; to flirt with a boundary: *he skirted the edges of madness after losing everything.*",
+        "examples": [
+          "*Their conversation skirted the edges of treason, though neither dared speak it plainly.*",
+          "*For years she skirted the edges of the criminal underworld, never quite crossing the line.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*They skirted the edges of the Wyrdness, where the land twisted and trees grew upside down.*",
+      "*The patrol skirted the edges of enemy territory, gathering intelligence without provoking a fight.*",
+      "*He had always skirted the edges of polite society — welcome enough at the tavern, but never at the lord's table.*"
+    ],
+    "usageNote": "The phrase emphasizes cautious movement along a periphery — whether literal (along a forest, around a marsh) or figurative (on the verge of insanity, illegality, a forbidden topic). The key idea: someone deliberately avoids the center, either out of caution or fear. Common in fantasy when describing journeys through dangerous lands.",
+    "comparisons": [
+      {
+        "word": "skirt",
+        "description": "the base verb already means \"to go around, to bypass.\" **Skirt the edges** intensifies the image — it emphasizes movement along the very rim."
+      },
+      {
+        "word": "border on",
+        "description": "\"to be close to\" — describes a state, not movement. *His behavior bordered on insanity* is a static assessment, without the image of cautious skirting."
+      },
+      {
+        "word": "tiptoe around",
+        "description": "more often about topics and conversations, with emphasis on delicacy. **Skirt the edges** is about space and boundaries."
+      }
+    ],
+    "collocations": [
+      "skirt the edges of the forest",
+      "skirt the edges of madness",
+      "skirt the edges of danger",
+      "skirt the edges of the law",
+      "skirt the edges of the battlefield",
+      "skirt the edges of the Wyrdness"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "skirt",
+        "partOfSpeech": "verb",
+        "description": "to go around or along the edge of; the base verb from which the phrase is formed."
+      },
+      {
+        "word": "on the edge",
+        "partOfSpeech": "adverbial phrase",
+        "description": "at the brink; close in meaning to the figurative sense of **skirt the edges**."
+      }
+    ],
+    "wordHistory": "The verb **skirt** in the sense of \"to go around the edge of\" emerged in Middle English from Old Norse *skyrta* (related to the noun *skirt* — \"a garment's hem\"). The original image is of a hem brushing along the edge of something. The noun **edge** comes from Old English *ecg* (\"blade, sharp rim\"), related to German *Ecke* (\"corner\") and Latin *acies* (\"cutting edge\"). The combination **skirt the edges** solidified as a set phrase, uniting two images: the gliding motion of a hem and the dangerous sharpness of a rim.",
+    "contextStory": "The scout spread the map and jabbed a finger at the red zone: \"We **skirt the edges** — along the tree line, no deeper than a hundred paces.\" The captain frowned. The last squad had also tried to **skirt the edges** of the cursed forest, and by morning only their empty boots remained. \"What if the creature hunts those **skirting the edges**?\" the archer asked quietly. \"Maybe it's safer to go straight through.\" Silence hung heavy. Neither option guaranteed a return. The captain rolled up the map: \"The edges. At least we'll have somewhere to run.\"",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/skirt the edges.jpg"
+  },
+  {
     "word": "slingshot",
     "pronunciation": "ˈsliNGˌSHät",
     "partOfSpeech": [
@@ -1877,6 +2452,91 @@
     },
     "image": "/data/projects/tainted-grail/images/words/staunch.jpg",
     "contextStory": "When the conspiracy was exposed, every ally fled — except Lord Aldric, the king's most **staunch** supporter. He stood before the tribunal and spoke without flinching, his **staunch** loyalty unshaken even as the mob howled for blood. Later, in the dungeon, the king wept quietly. \"I had a hundred friends in the sunlight,\" he whispered. \"Only one proved **staunch** in the dark.\" Aldric said nothing. He simply sat beside his king and waited for dawn."
+  },
+  {
+    "word": "susceptible",
+    "pronunciation": "səˈseptəbəl",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "forms": null,
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "adjective",
+        "text": "likely or liable to be influenced or harmed by a particular thing; easily affected: *children are particularly susceptible to the disease.*",
+        "examples": [
+          "*The old fortress, weakened by years of neglect, was susceptible to even the lightest siege.*",
+          "*He knew she was susceptible to flattery and used it ruthlessly.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "adjective",
+        "text": "(formal) capable or admitting of; open to a particular treatment or interpretation. Used with **of**: *the text is susceptible of multiple interpretations.*",
+        "examples": [
+          "*The law is susceptible of a broader reading than the court allowed.*"
+        ]
+      },
+      {
+        "sense": 3,
+        "context": "adjective",
+        "text": "easily moved to emotion; impressionable: *a susceptible young heart, quick to love and quicker to break.*",
+        "examples": []
+      }
+    ],
+    "mainExamples": [
+      "*Without the Grail's protection, the land grew susceptible to the creeping corruption of the Wyrdness.*",
+      "*\"We are all susceptible to fear,\" the knight whispered, \"but only cowards let it rule them.\"*",
+      "*The weakened villagers were susceptible to every plague that swept through the marshlands.*"
+    ],
+    "usageNote": "Most commonly followed by **to**: *susceptible to infection / influence / damage*. In formal registers, **of** is possible (meaning \"admitting of\"): *susceptible of proof*. The word nearly always implies **vulnerability** rather than neutral receptiveness — if you are susceptible to something, it is usually bad for you.",
+    "comparisons": [
+      {
+        "word": "vulnerable",
+        "description": "emphasizes being unprotected, exposed to attack or harm. A broader word: one can be vulnerable physically, emotionally, or strategically."
+      },
+      {
+        "word": "prone",
+        "description": "indicates a tendency or inclination (often toward something undesirable): *prone to errors*. Less formal than susceptible."
+      },
+      {
+        "word": "susceptible",
+        "description": "focuses specifically on receptiveness to external influence — disease, persuasion, temptation. Frequently used in medical and scientific contexts."
+      }
+    ],
+    "collocations": [
+      "susceptible to infection",
+      "susceptible to disease",
+      "susceptible to influence",
+      "susceptible to damage",
+      "particularly susceptible",
+      "highly susceptible",
+      "susceptible to temptation",
+      "susceptible to flattery"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "susceptibility",
+        "partOfSpeech": "noun",
+        "description": "the state or quality of being susceptible: *his susceptibility to cold weather made winter campaigns impossible.*"
+      },
+      {
+        "word": "susceptibilities",
+        "partOfSpeech": "noun (plural)",
+        "description": "(formal) a person's feelings, especially when easily offended: *we must respect their susceptibilities.*"
+      }
+    ],
+    "wordHistory": "From Late Latin *susceptibilis* — \"capable of receiving, admitting,\" from the verb *suscipere* — \"to take up, undertake, receive\" (sus- \"from below\" + capere \"to take\"). The same root *capere* gave English **capture**, **capable**, **accept**, and **receive**. The word entered English in the early 17th century through French. It originally meant simply \"capable of receiving\" (neutral), but gradually shifted toward vulnerability — \"too capable of receiving,\" \"lacking defense against influence.\"",
+    "contextStory": "The village healer knew it: after the starving winter, people became **susceptible** to everything — from common colds to plague. He warned the elder, but the old man waved him off. When the first southern trader brought not just cloth but fever, the **susceptible** villagers collapsed within days. The healer rushed between houses, knowing deep down that he too had grown **susceptible** — exhausted, sleepless, he healed others while the sickness quietly took root in his own body. On the fifth morning, he could not rise.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/susceptible.jpg"
   },
   {
     "word": "tether",
@@ -2088,6 +2748,79 @@
     },
     "image": "/data/projects/tainted-grail/images/words/venture.jpg",
     "contextStory": "The merchant's first **venture** — a cargo of spices shipped across the Narrow Sea — sank in a storm, taking every coin he had. His second **venture**, a partnership with a Northland fur trader, barely broke even. But he refused to stop. On his third **venture**, he loaded a ship with something no one else dared to carry: books. They sold for ten times their weight in silver. \"Every **venture** teaches you,\" he told his son. \"The ones that fail teach you the most.\""
+  },
+  {
+    "word": "weasel out",
+    "pronunciation": "ˈwiːzəl aʊt",
+    "partOfSpeech": [
+      "phrasal verb"
+    ],
+    "forms": "past simple: **weaseled out**; past participle: **weaseled out**; present participle: **weaseling out**; third person: **weasels out**",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "phrasal verb",
+        "text": "to escape or evade a duty, obligation, or promise through cunning, evasion, or cowardly maneuvering: *He tried to weasel out of paying his share of the bill.*",
+        "examples": [
+          "*Don't try to weasel out of our deal — you gave me your word.*",
+          "*She always weasels out of the hard tasks, leaving the rest of us to do the work.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*\"You can't weasel out of this one, Roland. The oath is sealed in blood.\"*",
+      "*He weaseled out of every commitment he'd ever made, and people had stopped trusting him long ago.*",
+      "*The merchant tried to weasel out of the contract by claiming he never signed it.*"
+    ],
+    "usageNote": "The expression carries a distinctly negative tone — implying cowardice, dishonesty, and pettiness. The image is based on the weasel's ability to squeeze through impossibly narrow spaces and slip away. Typically used with **of**: *weasel out of something*. Can also appear without **out** meaning \"to be evasive or crafty\": *stop weaseling and give me a straight answer*.",
+    "comparisons": [
+      {
+        "word": "back out",
+        "description": "to withdraw from a commitment, but without the implication of cunning — more like simply changing one's mind: *He backed out of the deal at the last minute*."
+      },
+      {
+        "word": "worm out of",
+        "description": "a very close synonym, also using an animal metaphor (worm); implies slow, squirming evasion."
+      },
+      {
+        "word": "shirk",
+        "description": "to avoid duties (especially work), but without emphasis on trickery — more out of laziness: *He shirked his duties*."
+      },
+      {
+        "word": "wriggle out of",
+        "description": "to escape a difficult situation — emphasizes the physical metaphor of squirming and slipping free."
+      }
+    ],
+    "collocations": [
+      "weasel out of a deal",
+      "weasel out of a promise",
+      "weasel out of responsibility",
+      "weasel out of paying",
+      "try to weasel out",
+      "always weaseling out"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "weasel",
+        "partOfSpeech": "noun",
+        "description": "a small, slender carnivorous mammal; also an untrustworthy, sneaky person."
+      },
+      {
+        "word": "weasel words",
+        "partOfSpeech": "noun",
+        "description": "deliberately vague or misleading words used to avoid commitment or responsibility."
+      }
+    ],
+    "wordHistory": "The expression emerged in American English in the mid-20th century, derived from the noun **weasel** — a small mustelid predator known for its agility and ability to squeeze through impossibly narrow spaces. Old English *wesle* traces back to Proto-Germanic *wisulō*, possibly related to Latin *virus* (\"slime, poison\") — through the idea of something slippery. The metaphorical use of **weasel** meaning \"a sly, untrustworthy person\" appeared as early as the 15th century. Theodore Roosevelt popularized the term **weasel words** in 1916, and the phrasal verb **weasel out** became established by the 1950s as a vivid label for cowardly evasion of obligations.",
+    "contextStory": "The baron stood before the Knights of the Round Table and swore to lead the army in defense of the villages. But when the time came to march, he tried to **weasel out**, claiming sudden illness. \"A strange illness,\" Sir Gawain muttered, \"that only strikes on the eve of battle.\" The baron attempted to **weasel out** once more, insisting his oath had been \"conditional.\" The hall rumbled with fury. No one had ever managed to **weasel out** of a vow made before the Round Table — and the baron was no exception: he was stripped of his title before sunset.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-21"
+    },
+    "image": "/data/projects/tainted-grail/images/words/weasel out.jpg"
   },
   {
     "word": "wench",
