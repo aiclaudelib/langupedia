@@ -1,6 +1,7 @@
-import { useState, useCallback, useRef, useEffect } from 'react'
+import { useState, useCallback, useRef, useEffect, useMemo } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { getRouteApi, useNavigate } from '@tanstack/react-router'
+import { useVirtualizer } from '@tanstack/react-virtual'
 import type { Word } from '../types/word'
 import type { Project } from '../types/project'
 import { queryKeys } from '../lib/queryKeys'
@@ -36,7 +37,7 @@ export default function LexiconView() {
   const [showScrollTop, setShowScrollTop] = useState(false)
   const [showEditModal, setShowEditModal] = useState(false)
   const [youglishWord, setYouglishWord] = useState<string | null>(null)
-  const mainRef = useRef<HTMLElement>(null)
+  const scrollContainerRef = useRef<HTMLElement>(null)
 
   const { data: project } = useQuery({
     queryKey: queryKeys.projects.detail(projectId),
@@ -53,29 +54,42 @@ export default function LexiconView() {
     },
   })
 
+  const virtualizer = useVirtualizer({
+    count: words.length,
+    getScrollElement: () => scrollContainerRef.current,
+    estimateSize: () => 500,
+    overscan: 3,
+  })
+
+  const wordIndexMap = useMemo(() => {
+    const map = new Map<string, number>()
+    words.forEach((w, i) => map.set(w.word, i))
+    return map
+  }, [words])
+
   const handleScroll = useCallback(() => {
-    const main = mainRef.current
-    if (!main) return
+    const el = scrollContainerRef.current
+    if (!el) return
 
-    setShowScrollTop(main.scrollTop > 400)
+    setShowScrollTop(el.scrollTop > 400)
 
-    const scrollPos = main.scrollTop + 100
-    const cards = document.querySelectorAll<HTMLElement>('.word-card')
+    const scrollPos = el.scrollTop + 100
+    const items = virtualizer.getVirtualItems()
     let active: string | null = null
-    for (let i = cards.length - 1; i >= 0; i--) {
-      if (cards[i].offsetTop <= scrollPos) {
-        active = cards[i].dataset.word || null
+    for (let i = items.length - 1; i >= 0; i--) {
+      if (items[i].start <= scrollPos) {
+        active = words[items[i].index]?.word ?? null
         break
       }
     }
-    setActiveWord(active)
     if (active) {
+      setActiveWord(active)
       const slug = slugify(active)
       if (window.location.hash !== `#${slug}`) {
         history.replaceState(null, '', `#${slug}`)
       }
     }
-  }, [])
+  }, [virtualizer, words])
 
   const handleLangChange = useCallback((newLang: string) => {
     if (newLang !== lang) {
@@ -90,19 +104,16 @@ export default function LexiconView() {
   }, [lang, storageKey, navigate])
 
   const scrollToCard = useCallback((word: string) => {
-    const main = mainRef.current
-    if (!main) return
-    const slug = slugify(word)
-    const el = document.getElementById(`card-${slug}`)
-    if (!el) return
-    const top = el.getBoundingClientRect().top + main.scrollTop - 20
-    main.scrollTo({ top, behavior: 'smooth' })
-    setSidebarOpen(false)
-    history.replaceState(null, '', `#${slug}`)
-  }, [])
+    const idx = wordIndexMap.get(word)
+    if (idx !== undefined) {
+      virtualizer.scrollToIndex(idx, { align: 'start' })
+      setSidebarOpen(false)
+      history.replaceState(null, '', `#${slugify(word)}`)
+    }
+  }, [wordIndexMap, virtualizer])
 
   const scrollToTop = useCallback(() => {
-    mainRef.current?.scrollTo({ top: 0, behavior: 'smooth' })
+    scrollContainerRef.current?.scrollTo({ top: 0 })
   }, [])
 
   const toggleSidebar = useCallback(() => {
@@ -118,19 +129,6 @@ export default function LexiconView() {
     downloadMarkdown(md, `${projectId}-${lang}.md`)
   }, [words, projectId, lang])
 
-  // Attach scroll handler
-  const mainRefCallback = useCallback((node: HTMLElement | null) => {
-    // Clean up old listener
-    const oldMain = mainRef.current
-    if (oldMain) {
-      oldMain.removeEventListener('scroll', handleScroll)
-    }
-    mainRef.current = node
-    if (node) {
-      node.addEventListener('scroll', handleScroll)
-    }
-  }, [handleScroll])
-
   const initialHashHandled = useRef(false)
 
   useEffect(() => {
@@ -138,14 +136,13 @@ export default function LexiconView() {
     initialHashHandled.current = true
     const hash = window.location.hash.slice(1)
     if (!hash) return
-    setTimeout(() => {
-      const el = document.getElementById(`card-${hash}`)
-      if (el && mainRef.current) {
-        const top = el.getBoundingClientRect().top + mainRef.current.scrollTop - 20
-        mainRef.current.scrollTo({ top, behavior: 'instant' })
-      }
-    }, 50)
-  }, [words])
+    const idx = words.findIndex(w => slugify(w.word) === hash)
+    if (idx >= 0) {
+      requestAnimationFrame(() => {
+        virtualizer.scrollToIndex(idx, { align: 'start' })
+      })
+    }
+  }, [words, virtualizer])
 
   return (
     <>
@@ -164,7 +161,7 @@ export default function LexiconView() {
         onClick={closeSidebar}
       />
 
-      <main className="main" ref={mainRefCallback}>
+      <main className="main" ref={scrollContainerRef} onScroll={handleScroll}>
         <Header
           title={project?.title}
           subtitle={project?.subtitle}
@@ -174,14 +171,28 @@ export default function LexiconView() {
         />
 
         <section className="cards-container">
-          {words.map((w, i) => (
-            <div key={w.word}>
-              {i > 0 && (
-                <div className="card-divider">&#10087;</div>
-              )}
-              <WordCard word={w} lang={lang} onLangChange={handleLangChange} onListenClick={setYouglishWord} />
-            </div>
-          ))}
+          <div style={{ height: virtualizer.getTotalSize(), position: 'relative' }}>
+            {virtualizer.getVirtualItems().map((vItem) => {
+              const w = words[vItem.index]
+              return (
+                <div
+                  key={w.word}
+                  data-index={vItem.index}
+                  ref={virtualizer.measureElement}
+                  style={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    width: '100%',
+                    transform: `translateY(${vItem.start}px)`,
+                  }}
+                >
+                  {vItem.index > 0 && <div className="card-divider">&#10087;</div>}
+                  <WordCard word={w} lang={lang} onLangChange={handleLangChange} onListenClick={setYouglishWord} />
+                </div>
+              )
+            })}
+          </div>
         </section>
 
         <footer className="footer">

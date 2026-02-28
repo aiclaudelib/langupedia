@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect, memo } from 'react'
 import type { Word } from '../types/word'
 import { formatText } from '../utils/formatText'
 import { slugify } from '../utils/slugify'
@@ -22,7 +22,7 @@ function escapeHtml(text: string): string {
   return div.innerHTML
 }
 
-export default function WordCard({ word: w, lang, onLangChange, onListenClick }: WordCardProps) {
+export default memo(function WordCard({ word: w, lang, onLangChange, onListenClick }: WordCardProps) {
   const [shareOpen, setShareOpen] = useState(false)
   const shareRef = useRef<HTMLDivElement>(null)
 
@@ -282,4 +282,4 @@ export default function WordCard({ word: w, lang, onLangChange, onListenClick }:
       {w.contextStory && <ContextStory text={w.contextStory} />}
     </article>
   )
-}
+})

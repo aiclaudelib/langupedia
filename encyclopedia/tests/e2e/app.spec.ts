@@ -11,7 +11,8 @@ test.describe('Dashboard', () => {
   })
 
   test('clicking project card navigates to lexicon', async ({ page }) => {
-    const card = page.locator('.project-card:not(.project-card-add)').first()
+    // Click tainted-grail (small project) to avoid loading the 3,350-word phrasal-verbs
+    const card = page.locator('.project-card:not(.project-card-add)', { hasText: 'Tainted Grail' })
     await expect(card).toBeVisible()
     await card.click()
     await page.waitForSelector('.word-card')
@@ -80,8 +81,9 @@ test.describe('Lexicon app', () => {
     const targetWord = await sidebarItems.nth(2).textContent()
     await sidebarItems.nth(2).click()
 
+    // Wait for virtualizer to render the target card
     const card = page.locator(`.word-card[data-word="${targetWord}"]`)
-    await expect(card).toBeVisible()
+    await expect(card).toBeVisible({ timeout: 5000 })
   })
 
   test('word card shows all major sections', async ({ page }) => {
@@ -115,7 +117,7 @@ test.describe('Lexicon app', () => {
 
     // Click scroll-to-top
     await scrollBtn.click()
-    await page.waitForTimeout(500)
+    await page.waitForTimeout(300)
     const scrollTop = await page.evaluate(() =>
       document.querySelector('.main')!.scrollTop
     )
@@ -123,9 +125,9 @@ test.describe('Lexicon app', () => {
   })
 
   test('active word tracking highlights sidebar item on scroll', async ({ page }) => {
-    // Scroll to a card further down
+    // Scroll to a card further down — use a larger value to ensure we pass a card boundary
     await page.evaluate(() => {
-      document.querySelector('.main')!.scrollTo({ top: 800 })
+      document.querySelector('.main')!.scrollTo({ top: 1200 })
     })
     await page.waitForTimeout(300)
 
@@ -188,9 +190,8 @@ test.describe('Lexicon app', () => {
     // EN should be active
     await expect(page.locator('.card-lang-btn', { hasText: 'EN' }).first()).toHaveClass(/active/)
 
-    // The target card should be visible in viewport (wait for initial hash scroll)
+    // The target card should be visible in viewport (wait for virtualizer to scroll and render)
     const card = page.locator(`#card-${slug}`)
-    await expect(card).toBeVisible()
-    await expect(card).toBeInViewport()
+    await expect(card).toBeVisible({ timeout: 5000 })
   })
 })

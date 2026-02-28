@@ -1,4 +1,5 @@
-import { useMemo } from 'react'
+import { useMemo, useRef, useEffect } from 'react'
+import { useVirtualizer } from '@tanstack/react-virtual'
 import type { Word } from '../types/word'
 import { slugify } from '../utils/slugify'
 
@@ -10,6 +11,10 @@ interface SidebarProps {
   onWordClick: (word: string) => void
   open: boolean
 }
+
+type FlatItem =
+  | { type: 'letter'; letter: string }
+  | { type: 'word'; word: Word }
 
 export default function Sidebar({
   words,
@@ -37,6 +42,34 @@ export default function Sidebar({
 
   const sortedLetters = useMemo(() => Object.keys(groups).sort(), [groups])
 
+  const flatList = useMemo(() => {
+    const items: FlatItem[] = []
+    sortedLetters.forEach(letter => {
+      items.push({ type: 'letter', letter })
+      groups[letter].forEach(w => items.push({ type: 'word', word: w }))
+    })
+    return items
+  }, [sortedLetters, groups])
+
+  const listRef = useRef<HTMLElement>(null)
+
+  const virtualizer = useVirtualizer({
+    count: flatList.length,
+    getScrollElement: () => listRef.current,
+    estimateSize: (i) => flatList[i].type === 'letter' ? 32 : 34,
+    overscan: 20,
+  })
+
+  useEffect(() => {
+    if (!activeWord) return
+    const idx = flatList.findIndex(
+      item => item.type === 'word' && item.word.word === activeWord
+    )
+    if (idx >= 0) {
+      virtualizer.scrollToIndex(idx, { align: 'center' })
+    }
+  }, [activeWord, flatList, virtualizer])
+
   return (
     <aside className={`sidebar${open ? ' open' : ''}`}>
       <div className="sidebar-header">
@@ -52,31 +85,45 @@ export default function Sidebar({
           />
         </div>
       </div>
-      <nav className="word-list">
-        {filteredWords.length === 0 ? (
+      <nav className="word-list" ref={listRef}>
+        {flatList.length === 0 ? (
           <div style={{ padding: 20, color: '#6b5344', textAlign: 'center', fontStyle: 'italic' }}>
             No words found
           </div>
         ) : (
-          sortedLetters.map((letter) => (
-            <div key={letter}>
-              <div className="word-list-letter">{letter}</div>
-              {groups[letter].map((w) => (
-                <a
-                  key={w.word}
-                  href={`#${slugify(w.word)}`}
-                  className={`word-list-item${activeWord === w.word ? ' active' : ''}`}
-                  data-word={w.word}
-                  onClick={(e) => {
-                    e.preventDefault()
-                    onWordClick(w.word)
+          <div style={{ height: virtualizer.getTotalSize(), position: 'relative' }}>
+            {virtualizer.getVirtualItems().map((vItem) => {
+              const item = flatList[vItem.index]
+              return (
+                <div
+                  key={vItem.key}
+                  style={{
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    width: '100%',
+                    transform: `translateY(${vItem.start}px)`,
                   }}
                 >
-                  {w.word}
-                </a>
-              ))}
-            </div>
-          ))
+                  {item.type === 'letter' ? (
+                    <div className="word-list-letter">{item.letter}</div>
+                  ) : (
+                    <a
+                      href={`#${slugify(item.word.word)}`}
+                      className={`word-list-item${activeWord === item.word.word ? ' active' : ''}`}
+                      data-word={item.word.word}
+                      onClick={(e) => {
+                        e.preventDefault()
+                        onWordClick(item.word.word)
+                      }}
+                    >
+                      {item.word.word}
+                    </a>
+                  )}
+                </div>
+              )
+            })}
+          </div>
         )}
       </nav>
     </aside>

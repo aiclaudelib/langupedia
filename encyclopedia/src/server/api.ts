@@ -121,7 +121,7 @@ export async function handleApiRequest(req: IncomingMessage, res: ServerResponse
       error(res, 'Not found', 404)
       return true
     }
-    const content = fs.readFileSync(filePath, 'utf-8')
+    const content = await fs.promises.readFile(filePath, 'utf-8')
     res.writeHead(200, { 'Content-Type': 'application/json' })
     res.end(content)
     return true
