@@ -5,7 +5,7 @@ import { dirname, resolve } from 'node:path'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '../..')
-const LEXICON_SH = resolve(ROOT, 'lexicon.sh')
+const LEXICON_SH = resolve(ROOT, 'scripts/lexicon.sh')
 const PORT = 4174
 
 const queue = []

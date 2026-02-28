@@ -2,6 +2,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$SCRIPT_DIR/.."
 
 PROJECT=""
 LANG_CODE="ru"
@@ -22,7 +23,7 @@ if [[ -z "$PROJECT" ]]; then
   exit 1
 fi
 
-DATA_FILE="$SCRIPT_DIR/public/data/projects/${PROJECT}/words.${LANG_CODE}.json"
+DATA_FILE="$PROJECT_ROOT/public/data/projects/${PROJECT}/words.${LANG_CODE}.json"
 
 usage() {
   cat <<'EOF'

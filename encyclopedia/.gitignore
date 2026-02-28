@@ -1,6 +1,5 @@
 node_modules/
 dist/
 .DS_Store
-.gemini.json
-.pollinations.json
+scripts/.pollinations.json
 public/data/projects/index.json

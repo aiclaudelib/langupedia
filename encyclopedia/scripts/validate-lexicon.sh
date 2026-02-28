@@ -2,7 +2,8 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PROJECTS_DIR="$SCRIPT_DIR/public/data/projects"
+PROJECT_ROOT="$SCRIPT_DIR/.."
+PROJECTS_DIR="$PROJECT_ROOT/public/data/projects"
 
 PROJECT=""
 if [[ "${1:-}" == "--project" ]]; then

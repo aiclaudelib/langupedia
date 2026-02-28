@@ -97,23 +97,23 @@ public/
 
 Use the CLI script with `--project` flag:
 ```bash
-./lexicon.sh --project tainted-grail add < word.json              # Add to RU (default)
-./lexicon.sh --project tainted-grail --lang en add < word.json    # Add to EN
-./lexicon.sh --project tainted-grail list                          # List all words
-./lexicon.sh --project tainted-grail get "abhor"                   # Get single word
+./scripts/lexicon.sh --project tainted-grail add < word.json              # Add to RU (default)
+./scripts/lexicon.sh --project tainted-grail --lang en add < word.json    # Add to EN
+./scripts/lexicon.sh --project tainted-grail list                          # List all words
+./scripts/lexicon.sh --project tainted-grail get "abhor"                   # Get single word
 ```
 
 ## Validation
 
 ```bash
-./validate-lexicon.sh --project tainted-grail    # Validate single project
-./validate-lexicon.sh                             # Validate all projects
+./scripts/validate-lexicon.sh --project tainted-grail    # Validate single project
+./scripts/validate-lexicon.sh                             # Validate all projects
 ```
 
 ## Image generation
 
 ```bash
-./generate-image-pollinations.sh --project tainted-grail "<word>" "<prompt>"
+./scripts/generate-image.sh --project tainted-grail "<word>" "<prompt>"
 ```
 
 ## Pronunciation audio
@@ -124,9 +124,9 @@ Words can have an `audio` field storing external CDN URLs for pronunciation play
 audio?: { us?: string; uk?: string; au?: string }
 ```
 
-Audio URLs are fetched via `fetch-audio-urls.sh` (no local file downloads):
+Audio URLs are fetched via `scripts/fetch-audio-urls.sh` (no local file downloads):
 ```bash
-./fetch-audio-urls.sh "hello"      # Prints JSON: {"us":"https://...","uk":"https://..."}
+./scripts/fetch-audio-urls.sh "hello"      # Prints JSON: {"us":"https://...","uk":"https://..."}
 ```
 
 The script queries Free Dictionary API (primary) and Wiktionary/Wikimedia Commons (fallback). URLs point to external CDNs (CloudFront, Wikimedia) — no `resolveAssetPath()` needed.

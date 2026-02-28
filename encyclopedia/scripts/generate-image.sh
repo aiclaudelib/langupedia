@@ -2,6 +2,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$SCRIPT_DIR/.."
 CONFIG_FILE="$SCRIPT_DIR/.pollinations.json"
 
 if [[ ! -f "$CONFIG_FILE" ]]; then
@@ -37,10 +38,10 @@ fi
 ENCODED_PROMPT=$(python3 -c "import urllib.parse, sys; print(urllib.parse.quote(sys.stdin.read()))" <<< "$IMAGE_PROMPT")
 
 if [[ -n "$PROJECT" ]]; then
-  OUTPUT_DIR="$SCRIPT_DIR/public/data/projects/${PROJECT}/images/words"
+  OUTPUT_DIR="$PROJECT_ROOT/public/data/projects/${PROJECT}/images/words"
   RELATIVE_PATH="/data/projects/${PROJECT}/images/words/${WORD}.jpg"
 else
-  OUTPUT_DIR="$SCRIPT_DIR/public/images/words"
+  OUTPUT_DIR="$PROJECT_ROOT/public/images/words"
   RELATIVE_PATH="images/words/${WORD}.jpg"
 fi
 
