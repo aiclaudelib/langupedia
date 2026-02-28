@@ -3585,6 +3585,92 @@
     "image": "/data/projects/tainted-grail/images/words/vestiges.jpg"
   },
   {
+    "word": "vibecoding",
+    "pronunciation": "ˈvaɪbˌkoʊdɪŋ",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "forms": "verb: **vibecodes**, **vibecoded**, **vibecoding**",
+    "cefrLevel": "C1",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "a style of software development using AI tools (especially large language models) where the developer guides by intention and feeling rather than writing code directly; coding by vibes: *he spent the weekend vibecoding a whole app without touching a single line manually.*",
+        "examples": [
+          "*Vibecoding is polarizing: some see it as the future of development, others as the death of craftsmanship.*",
+          "*She admitted she had been vibecoding the backend all week and couldn't explain how half of it worked.*"
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb",
+        "text": "(informal) to write code in the vibecoding style — trusting the AI, accepting its suggestions without deep scrutiny, moving fast and intuitively: *I just vibecoded the whole dashboard in an afternoon.*",
+        "examples": [
+          "*\"Just vibecode it,\" he told the intern. \"We can refactor later.\"*",
+          "*You can vibecode a prototype, but you still need to understand the code before shipping.*"
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*He opened the AI chat, typed \"build me a Spotify clone,\" and spent the next three hours vibecoding, barely reading the output.*",
+      "*Vibecoding lowers the barrier to building software, but raises the bar for debugging what you didn't write.*",
+      "*\"I can't believe this actually works,\" she laughed, staring at the screen — classic vibecoding moment.*"
+    ],
+    "usageNote": "**Vibecoding** was coined by Andrej Karpathy in February 2025 and spread rapidly across tech communities and media. The word blends *vibe* (atmosphere, feeling, intuition) and *coding* (programming). The core idea: the developer surfs the AI's suggestions, accepting them without always understanding them. Used both as a noun (*vibecoding as a practice*) and as a verb (*to vibecode*). Often carries an ironic undertone — implying speed gained at the cost of comprehension.",
+    "comparisons": [
+      {
+        "word": "pair programming",
+        "description": "two humans coding together in real time — both understand the code and share responsibility. Vibecoding replaces the second programmer with an AI, reducing mutual understanding."
+      },
+      {
+        "word": "prompt engineering",
+        "description": "the craft of precise AI instructions with deep understanding of model behavior. Vibecoding is the opposite: instructions are approximate, deliberately vague, driven by feel."
+      },
+      {
+        "word": "no-code / low-code",
+        "description": "tools that let people build software without traditional code at all. Vibecoding still works with code — it just delegates the writing of it to AI."
+      }
+    ],
+    "collocations": [
+      "vibecoding session",
+      "vibecoding a prototype",
+      "pure vibecoding",
+      "vibecoding workflow",
+      "vibecoding with AI",
+      "vibecode an app",
+      "vibecoding culture"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "vibecode",
+        "partOfSpeech": "verb",
+        "description": "the verb form: to write code in the vibecoding style (*I vibecoded the whole login system in an hour*)."
+      },
+      {
+        "word": "vibecoder",
+        "partOfSpeech": "noun",
+        "description": "one who practices vibecoding; a developer who relies on AI more than on their own understanding."
+      },
+      {
+        "word": "vibe",
+        "partOfSpeech": "noun",
+        "description": "the source word: mood, atmosphere, feeling — what sets direction without strict specification."
+      }
+    ],
+    "wordHistory": "A neologism coined by Andrej Karpathy (former Tesla AI director, OpenAI co-founder) in a post on X (formerly Twitter) on February 2, 2025. Karpathy described his approach: \"I'm not really coding, I'm vibecoding. I fully give in to the vibes, open Claude or Cursor, just ask for what I want.\" The word spread instantly, making headlines in major tech publications (Wired, The Verge, Ars Technica) within a week. Formed by blending the slang *vibe* (feeling, mood — popular since the 2010s) with *coding* (programming). The term captures a revolutionary shift in software development practice in the era of powerful language models.",
+    "contextStory": "Marcus typed \"build me a travel planning SaaS\" into the AI chat and leaned back. Two hours of **vibecoding** later, he had a working prototype — auth, database, payments, the whole thing. \"How does it work?\" his colleague asked. \"No idea,\" Marcus said, which was entirely true: this was **vibecoding** in its purest form, accepting every AI suggestion without question. When the first production bug arrived a week later, he opened the codebase and realized he couldn't follow a single line. **Vibecoding** had given him speed. Understanding was something he'd have to earn the hard way.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-27"
+    },
+    "image": "/data/projects/tainted-grail/images/words/vibecoding.jpg"
+  },
+  {
     "word": "weasel out",
     "pronunciation": "ˈwiːzəl aʊt",
     "partOfSpeech": [

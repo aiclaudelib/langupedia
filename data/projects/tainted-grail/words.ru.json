@@ -3585,6 +3585,92 @@
     "image": "/data/projects/tainted-grail/images/words/vestiges.jpg"
   },
   {
+    "word": "vibecoding",
+    "pronunciation": "ˈvaɪbˌkoʊdɪŋ",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "forms": "verb: **vibecodes**, **vibecoded**, **vibecoding**",
+    "cefrLevel": "C1",
+    "definitions": [
+      {
+        "sense": 1,
+        "context": "noun",
+        "text": "стиль написания кода с помощью ИИ-инструментов (особенно языковых моделей), при котором разработчик задаёт намерения и общее направление, не вникая глубоко в детали реализации; программирование «на волне»: *he spent the weekend vibecoding a whole app without touching a single line manually* — он провёл выходные, вайбкодя целое приложение, не написав ни строчки вручную.",
+        "examples": [
+          "*Vibecoding is polarizing: some see it as the future of development, others as the death of craftsmanship.* — Вайбкодинг вызывает споры: одни видят в нём будущее разработки, другие — гибель мастерства.",
+          "*She admitted she had been vibecoding the backend all week and couldn't explain how half of it worked.* — Она призналась, что всю неделю вайбкодила бэкенд и не могла объяснить, как работает его половина."
+        ]
+      },
+      {
+        "sense": 2,
+        "context": "verb",
+        "text": "(разг.) программировать в режиме вайбкодинга — доверяясь ИИ, принимая его предложения без глубокого разбора, двигаясь быстро и интуитивно: *I just vibecodeed the whole dashboard in an afternoon* — я вайбкодил весь дашборд за один день.",
+        "examples": [
+          "*\"Just vibecode it,\" he told the intern. \"We can refactor later.\"* — «Просто вайбкодь это», — сказал он стажёру. «Отрефакторим потом».",
+          "*You can vibecode a prototype, but you still need to understand the code before shipping.* — Можно вайбкодить прототип, но перед релизом всё равно нужно разбираться в коде."
+        ]
+      }
+    ],
+    "mainExamples": [
+      "*He opened the AI chat, typed \"build me a Spotify clone,\" and spent the next three hours vibecoding, barely reading the output.* — Он открыл чат с ИИ, написал «создай мне клон Spotify» и следующие три часа вайбкодил, почти не читая результат.",
+      "*Vibecoding lowers the barrier to building software, but raises the bar for debugging what you didn't write.* — Вайбкодинг снижает порог входа в разработку, но поднимает планку при отладке того, что ты не писал.",
+      "*\"I can't believe this actually works,\" she laughed, staring at the screen — classic vibecoding moment.* — «Не могу поверить, что это реально работает», — засмеялась она, уставившись в экран — классический момент вайбкодинга."
+    ],
+    "usageNote": "Термин **vibecoding** введён Андреем Карпатым в феврале 2025 года и быстро распространился в среде разработчиков и в медиа. Слово образовано от *vibe* (ощущение, волна, настрой) + *coding* (программирование). Ключевой смысл: разработчик «сёрфит» на волне ИИ, принимая предложения, не всегда понимая их. Используется и как существительное (*vibecoding as a skill*), и как глагол (*to vibecode*). Часто несёт иронический оттенок.",
+    "comparisons": [
+      {
+        "word": "pair programming",
+        "description": "совместное программирование двух людей в реальном времени — оба понимают код и несут ответственность. Вайбкодинг заменяет второго программиста ИИ-моделью, снижая уровень взаимопонимания."
+      },
+      {
+        "word": "prompt engineering",
+        "description": "искусство точных инструкций для ИИ с глубоким пониманием его поведения. Вайбкодинг — противоположность: инструкции приблизительные, намеренно расплывчатые."
+      },
+      {
+        "word": "no-code / low-code",
+        "description": "инструменты, позволяющие строить ПО вообще без традиционного кода. Вайбкодинг по-прежнему работает с кодом, но делегирует его написание ИИ."
+      }
+    ],
+    "collocations": [
+      "vibecoding session",
+      "vibecoding a prototype",
+      "pure vibecoding",
+      "vibecoding workflow",
+      "vibecoding with AI",
+      "vibecode an app",
+      "vibecoding culture"
+    ],
+    "idioms": [],
+    "relatedForms": [
+      {
+        "word": "vibecode",
+        "partOfSpeech": "verb",
+        "description": "глагольная форма: писать код в стиле вайбкодинга (*I vibecoded the whole login system in an hour*)."
+      },
+      {
+        "word": "vibecoder",
+        "partOfSpeech": "noun",
+        "description": "тот, кто практикует вайбкодинг; программист, полагающийся на ИИ больше, чем на собственные знания."
+      },
+      {
+        "word": "vibe",
+        "partOfSpeech": "noun",
+        "description": "исходное слово: настрой, волна, атмосфера — то, что задаёт направление без строгих спецификаций."
+      }
+    ],
+    "wordHistory": "Неологизм, предложенный Андреем Карпатым (бывший директор ИИ Tesla, один из основателей OpenAI) в посте в социальной сети X (бывший Twitter) 2 февраля 2025 года. Карпатый описал свой подход: «Я всё больше не пишу код, а вайбкожу. Полностью погружаюсь в вайб, открываю Claude или Cursor, просто прошу то, что хочу». Слово мгновенно распространилось: за неделю попало в заголовки крупных технологических изданий (Wired, The Verge, Ars Technica). Образовано слиянием сленгового *vibe* (ощущение, волна — популярно с 2010-х) и *coding* (программирование). Появление термина отражает революционный сдвиг в практике разработки программного обеспечения в эпоху мощных языковых моделей.",
+    "contextStory": "Никита открыл Cursor и написал: «Сделай мне SaaS-продукт для планирования путешествий». Через два часа **вайбкодинга** у него был работающий прототип с авторизацией, базой данных и платёжной системой. «Как это вообще работает?» — спросил коллега. «Понятия не имею», — ответил Никита, и это было чистой правдой: он занимался **vibecoding** в его первозданном виде — принимая каждое предложение ИИ не думая. Когда через неделю прилетел первый баг в продакшене, он открыл код и обнаружил, что не понимает ни строчки. **Vibecoding** дал ему скорость. Понимание пришлось добывать самому.",
+    "meta": {
+      "timesAccessed": 0,
+      "lastReviewed": null,
+      "srsLevel": 0,
+      "dateAdded": "2026-02-27"
+    },
+    "image": "/data/projects/tainted-grail/images/words/vibecoding.jpg"
+  },
+  {
     "word": "weasel out",
     "pronunciation": "ˈwiːzəl aʊt",
     "partOfSpeech": [
