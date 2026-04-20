@@ -2,11 +2,15 @@
   {
     "word": "be",
     "pronunciation": "biː",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/5/55/En-us-be.ogg"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Present: **am / is / are**; Past Simple: **was / were**; Past Participle: **been**; Present Participle: **being**",
     "cefrLevel": "A1",
+    "forms": "Present: **am / is / are**; Past Simple: **was / were**; Past Participle: **been**; Present Participle: **being**",
+    "image": "/data/projects/irregular-verbs/images/words/be.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -91,20 +95,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/be.jpg",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/5/55/En-us-be.ogg"
     }
   },
   {
     "word": "become",
     "pronunciation": "bɪˈkʌm",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/become-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **became**; Past Participle: **become**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **became**; Past Participle: **become**",
+    "image": "/data/projects/irregular-verbs/images/words/become.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -137,7 +141,7 @@
       },
       {
         "word": "get",
-        "description": "более разговорный вариант: *she got angry*. **Get** подчёркивает сам процесс изменения."
+        "description": "более разговорный вариант: *she got angry*. **[[get|Get]]** подчёркивает сам процесс изменения."
       },
       {
         "word": "turn",
@@ -168,20 +172,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/become.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/become-us.mp3"
     }
   },
   {
     "word": "begin",
     "pronunciation": "bɪˈɡɪn",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/begin-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/begin-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **began**; Past Participle: **begun**; Present Participle: **beginning**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **began**; Past Participle: **begun**; Present Participle: **beginning**",
+    "image": "/data/projects/irregular-verbs/images/words/begin.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -254,22 +259,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/begin.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/begin-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/begin-uk.mp3"
     }
   },
   {
     "word": "bite",
     "pronunciation": "baɪt",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/bite-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **bit**; Past Participle: **bitten** (rarely **bit**); Present Participle: **biting**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **bit**; Past Participle: **bitten** (rarely **bit**); Present Participle: **biting**",
+    "image": "/data/projects/irregular-verbs/images/words/bite.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -355,21 +359,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/bite.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/bite-us.mp3"
     }
   },
   {
     "word": "break",
     "pronunciation": "breɪk",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/break-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **broke**; Past Participle: **broken**; Present Participle: **breaking**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **broke**; Past Participle: **broken**; Present Participle: **breaking**",
+    "image": "/data/projects/irregular-verbs/images/words/break.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -469,20 +473,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/break.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/break-us.mp3"
     }
   },
   {
     "word": "bring",
     "pronunciation": "brɪŋ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/bring-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/bring-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **brought**; Past Participle: **brought**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **brought**; Past Participle: **brought**",
+    "image": "/data/projects/irregular-verbs/images/words/bring.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -518,7 +523,7 @@
     "comparisons": [
       {
         "word": "take",
-        "description": "уносить — движение в направлении от говорящего: *take the dog for a walk* — вывести собаку на прогулку."
+        "description": "уносить — движение в направлении от говорящего: *[[take]] the dog for a walk* — вывести собаку на прогулку."
       },
       {
         "word": "fetch",
@@ -558,22 +563,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/bring.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/bring-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/bring-uk.mp3"
     }
   },
   {
     "word": "build",
     "pronunciation": "bɪld",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/build-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/build-uk.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **built**; Past Participle: **built**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **built**; Past Participle: **built**",
+    "image": "/data/projects/irregular-verbs/images/words/build.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -658,22 +663,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/build.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/build-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/build-uk.mp3"
     }
   },
   {
     "word": "buy",
     "pronunciation": "baɪ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/buy-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/buy-uk.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **bought**; Past Participle: **bought**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **bought**; Past Participle: **bought**",
+    "image": "/data/projects/irregular-verbs/images/words/buy.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -753,22 +758,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/buy.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/buy-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/buy-uk.mp3"
     }
   },
   {
     "word": "catch",
     "pronunciation": "kætʃ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/catch-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/catch-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **caught**; Past Participle: **caught**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **caught**; Past Participle: **caught**",
+    "image": "/data/projects/irregular-verbs/images/words/catch.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -860,21 +865,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/catch.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/catch-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/catch-au.mp3"
     }
   },
   {
     "word": "choose",
     "pronunciation": "tʃuːz",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/choose-1-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **chose**; Past Participle: **chosen**; Present Participle: **choosing**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **chose**; Past Participle: **chosen**; Present Participle: **choosing**",
+    "image": "/data/projects/irregular-verbs/images/words/choose.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -952,20 +956,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/choose.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/choose-1-us.mp3"
     }
   },
   {
     "word": "come",
     "pronunciation": "kʌm",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/come-1-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/come-1-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **came**; Past Participle: **come**; Present Participle: **coming**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **came**; Past Participle: **come**; Present Participle: **coming**",
+    "image": "/data/projects/irregular-verbs/images/words/come.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1056,22 +1061,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/come.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/come-1-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/come-1-uk.mp3"
     }
   },
   {
     "word": "cut",
     "pronunciation": "kʌt",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/cut-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/cut-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **cut**; Past Participle: **cut** (все три формы одинаковы: cut – cut – cut)",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **cut**; Past Participle: **cut** (все три формы одинаковы: cut – cut – cut)",
+    "image": "/data/projects/irregular-verbs/images/words/cut.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1161,21 +1166,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/cut.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/cut-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/cut-au.mp3"
     }
   },
   {
     "word": "do",
     "pronunciation": "duː",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/do-1-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/do-1-au.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Present: **do / does** (3rd person); Past Simple: **did**; Past Participle: **done**; Present Participle: **doing**",
     "cefrLevel": "A1",
+    "forms": "Present: **do / does** (3rd person); Past Simple: **did**; Past Participle: **done**; Present Participle: **doing**",
+    "image": "/data/projects/irregular-verbs/images/words/do.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1213,7 +1218,7 @@
     "comparisons": [
       {
         "word": "make",
-        "description": "создавать что-то новое: *make a cake, make a mistake, make a decision* — в отличие от **do**, **make** подразумевает создание продукта."
+        "description": "создавать что-то новое: *[[make]] a cake, make a mistake, make a decision* — в отличие от **do**, **make** подразумевает создание продукта."
       },
       {
         "word": "perform",
@@ -1267,22 +1272,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/do.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/do-1-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/do-1-au.mp3"
     }
   },
   {
     "word": "draw",
     "pronunciation": "drɔː",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/d/d0/En-us-draw.ogg"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **drew**; Past Participle: **drawn**; Present Participle: **drawing**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **drew**; Past Participle: **drawn**; Present Participle: **drawing**",
+    "image": "/data/projects/irregular-verbs/images/words/draw.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1380,21 +1384,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/draw.jpg",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/d/d0/En-us-draw.ogg"
     }
   },
   {
     "word": "drink",
     "pronunciation": "drɪŋk",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **drank**; Past Participle: **drunk**; Present Participle: **drinking**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **drank**; Past Participle: **drunk**; Present Participle: **drinking**",
+    "image": "/data/projects/irregular-verbs/images/words/drink.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1474,21 +1478,23 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/drink.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3"
     }
   },
   {
     "word": "drive",
     "pronunciation": "draɪv",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/drive-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/drive-uk.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/drive-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **drove**; Past Participle: **driven**; Present Participle: **driving**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **drove**; Past Participle: **driven**; Present Participle: **driving**",
+    "image": "/data/projects/irregular-verbs/images/words/drive.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1573,22 +1579,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/drive.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/drive-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/drive-uk.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/drive-au.mp3"
     }
   },
   {
     "word": "eat",
     "pronunciation": "iːt",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/eat-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/eat-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **ate**; Past Participle: **eaten**; Present Participle: **eating**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **ate**; Past Participle: **eaten**; Present Participle: **eating**",
+    "image": "/data/projects/irregular-verbs/images/words/eat.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1666,22 +1671,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/eat.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/eat-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/eat-uk.mp3"
     }
   },
   {
     "word": "fall",
     "pronunciation": "fɔːl",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fall-1-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/fall-1-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **fell**; Past Participle: **fallen**; Present Participle: **falling**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **fell**; Past Participle: **fallen**; Present Participle: **falling**",
+    "image": "/data/projects/irregular-verbs/images/words/fall.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1779,22 +1784,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/fall.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fall-1-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/fall-1-au.mp3"
     }
   },
   {
     "word": "feel",
     "pronunciation": "fiːl",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/feel-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **felt**; Past Participle: **felt**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **felt**; Past Participle: **felt**",
+    "image": "/data/projects/irregular-verbs/images/words/feel.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1882,21 +1886,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/feel.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/feel-us.mp3"
     }
   },
   {
     "word": "find",
     "pronunciation": "faɪnd",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/find-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/find-uk.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **found**; Past Participle: **found**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **found**; Past Participle: **found**",
+    "image": "/data/projects/irregular-verbs/images/words/find.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1977,22 +1982,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/find.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/find-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/find-uk.mp3"
     }
   },
   {
     "word": "fly",
     "pronunciation": "flaɪ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fly-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **flew**; Past Participle: **flown**; Present Participle: **flying**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **flew**; Past Participle: **flown**; Present Participle: **flying**",
+    "image": "/data/projects/irregular-verbs/images/words/fly.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2082,20 +2086,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/fly.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fly-us.mp3"
     }
   },
   {
     "word": "forget",
     "pronunciation": "fəˈɡet",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/forget-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **forgot**; Past Participle: **forgotten** (AmE also **forgot**); Present Participle: **forgetting**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **forgot**; Past Participle: **forgotten** (AmE also **forgot**); Present Participle: **forgetting**",
+    "image": "/data/projects/irregular-verbs/images/words/forget.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2168,20 +2172,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/forget.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/forget-us.mp3"
     }
   },
   {
     "word": "get",
     "pronunciation": "ɡet",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/get-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **got**; Past Participle: **got** (BrE) / **gotten** (AmE); Present Participle: **getting**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **got**; Past Participle: **got** (BrE) / **gotten** (AmE); Present Participle: **getting**",
+    "image": "/data/projects/irregular-verbs/images/words/get.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2274,20 +2278,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/get.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/get-us.mp3"
     }
   },
   {
     "word": "give",
     "pronunciation": "ɡɪv",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/give-1-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/give-1-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **gave**; Past Participle: **given**; Present Participle: **giving**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **gave**; Past Participle: **given**; Present Participle: **giving**",
+    "image": "/data/projects/irregular-verbs/images/words/give.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2371,22 +2376,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/give.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/give-1-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/give-1-uk.mp3"
     }
   },
   {
     "word": "go",
     "pronunciation": "ɡoʊ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/go-1-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/go-1-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Present (3rd): **goes**; Past Simple: **went**; Past Participle: **gone**; Present Participle: **going**",
     "cefrLevel": "A1",
+    "forms": "Present (3rd): **goes**; Past Simple: **went**; Past Participle: **gone**; Present Participle: **going**",
+    "image": "/data/projects/irregular-verbs/images/words/go.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2478,21 +2483,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/go.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/go-1-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/go-1-au.mp3"
     }
   },
   {
     "word": "grow",
     "pronunciation": "ɡroʊ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/grow-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **grew**; Past Participle: **grown**; Present Participle: **growing**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **grew**; Past Participle: **grown**; Present Participle: **growing**",
+    "image": "/data/projects/irregular-verbs/images/words/grow.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2577,20 +2581,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/grow.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/grow-us.mp3"
     }
   },
   {
     "word": "hang",
     "pronunciation": "hæŋ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hang-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **hung**; Past Participle: **hung** (для предметов) — Past Simple: **hanged**; Past Participle: **hanged** (о смертной казни через повешение)",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **hung**; Past Participle: **hung** (для предметов) — Past Simple: **hanged**; Past Participle: **hanged** (о смертной казни через повешение)",
+    "image": "/data/projects/irregular-verbs/images/words/hang.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2671,20 +2675,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/hang.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hang-us.mp3"
     }
   },
   {
     "word": "have",
     "pronunciation": "hæv",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/have-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/have-uk.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/have-au.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Present (3rd): **has**; Past Simple: **had**; Past Participle: **had**; Present Participle: **having**",
     "cefrLevel": "A1",
+    "forms": "Present (3rd): **has**; Past Simple: **had**; Past Participle: **had**; Present Participle: **having**",
+    "image": "/data/projects/irregular-verbs/images/words/have.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2766,22 +2772,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/have.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/have-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/have-uk.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/have-au.mp3"
     }
   },
   {
     "word": "hear",
     "pronunciation": "hɪər",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hear-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/hear-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **heard**; Past Participle: **heard**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **heard**; Past Participle: **heard**",
+    "image": "/data/projects/irregular-verbs/images/words/hear.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2860,22 +2865,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/hear.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hear-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/hear-uk.mp3"
     }
   },
   {
     "word": "hide",
     "pronunciation": "haɪd",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hide-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **hid**; Past Participle: **hidden** (rarely **hid**); Present Participle: **hiding**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **hid**; Past Participle: **hidden** (rarely **hid**); Present Participle: **hiding**",
+    "image": "/data/projects/irregular-verbs/images/words/hide.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2955,21 +2959,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hide-us.mp3"
     }
   },
   {
     "word": "hit",
     "pronunciation": "hɪt",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hit-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **hit**; Past Participle: **hit** (все три формы одинаковы: hit – hit – hit)",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **hit**; Past Participle: **hit** (все три формы одинаковы: hit – hit – hit)",
+    "image": "/data/projects/irregular-verbs/images/words/hit.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3053,21 +3057,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/hit.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hit-us.mp3"
     }
   },
   {
     "word": "hold",
     "pronunciation": "hoʊld",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hold-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **held**; Past Participle: **held**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **held**; Past Participle: **held**",
+    "image": "/data/projects/irregular-verbs/images/words/hold.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3157,21 +3161,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/hold.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/hold-us.mp3"
     }
   },
   {
     "word": "keep",
     "pronunciation": "kiːp",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/keep-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/keep-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **kept**; Past Participle: **kept**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **kept**; Past Participle: **kept**",
+    "image": "/data/projects/irregular-verbs/images/words/keep.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3258,21 +3263,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/keep.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/keep-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/keep-au.mp3"
     }
   },
   {
     "word": "know",
     "pronunciation": "noʊ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/know-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/know-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **knew**; Past Participle: **known**; Present Participle: **knowing**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **knew**; Past Participle: **known**; Present Participle: **knowing**",
+    "image": "/data/projects/irregular-verbs/images/words/know.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3361,22 +3366,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/know.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/know-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/know-uk.mp3"
     }
   },
   {
     "word": "lead",
     "pronunciation": "liːd",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/lead-1-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **led**; Past Participle: **led**",
     "cefrLevel": "B1",
+    "forms": "Past Simple: **led**; Past Participle: **led**",
+    "image": "/data/projects/irregular-verbs/images/words/lead.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3456,21 +3460,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/lead.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/lead-1-us.mp3"
     }
   },
   {
     "word": "leave",
     "pronunciation": "liːv",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/leave-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/leave-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **left**; Past Participle: **left**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **left**; Past Participle: **left**",
+    "image": "/data/projects/irregular-verbs/images/words/leave.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3550,21 +3555,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/leave.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/leave-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/leave-au.mp3"
     }
   },
   {
     "word": "let",
     "pronunciation": "let",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/let-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **let**; Past Participle: **let** (все три формы одинаковы: let – let – let)",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **let**; Past Participle: **let** (все три формы одинаковы: let – let – let)",
+    "image": "/data/projects/irregular-verbs/images/words/let.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3645,20 +3649,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/let.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/let-us.mp3"
     }
   },
   {
     "word": "lose",
     "pronunciation": "luːz",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/lose-1-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/lose-1-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **lost**; Past Participle: **lost**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **lost**; Past Participle: **lost**",
+    "image": "/data/projects/irregular-verbs/images/words/lose.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3747,22 +3752,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/lose.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/lose-1-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/lose-1-uk.mp3"
     }
   },
   {
     "word": "make",
     "pronunciation": "meɪk",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/make-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/make-uk.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **made**; Past Participle: **made**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **made**; Past Participle: **made**",
+    "image": "/data/projects/irregular-verbs/images/words/make.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3851,23 +3856,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/make.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/make-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/make-uk.mp3"
     }
   },
   {
     "word": "mean",
     "pronunciation": "miːn",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/mean-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "adjective",
       "noun"
     ],
-    "forms": "Past Simple: **meant**; Past Participle: **meant**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **meant**; Past Participle: **meant**",
+    "image": "/data/projects/irregular-verbs/images/words/mean.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3958,21 +3962,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/mean.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/mean-us.mp3"
     }
   },
   {
     "word": "meet",
     "pronunciation": "miːt",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/meet-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/meet-uk.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **met**; Past Participle: **met**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **met**; Past Participle: **met**",
+    "image": "/data/projects/irregular-verbs/images/words/meet.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4040,22 +4045,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/meet.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/meet-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/meet-uk.mp3"
     }
   },
   {
     "word": "pay",
     "pronunciation": "peɪ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/pay-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **paid**; Past Participle: **paid**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **paid**; Past Participle: **paid**",
+    "image": "/data/projects/irregular-verbs/images/words/pay.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4139,20 +4143,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/pay.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/pay-us.mp3"
     }
   },
   {
     "word": "put",
     "pronunciation": "pʊt",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/put-1-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **put**; Past Participle: **put** (все три формы одинаковы: put – put – put)",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **put**; Past Participle: **put** (все три формы одинаковы: put – put – put)",
+    "image": "/data/projects/irregular-verbs/images/words/put.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4236,21 +4240,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/put.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/put-1-us.mp3"
     }
   },
   {
     "word": "read",
     "pronunciation": "riːd",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/read-1-uk.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **read** [red]; Past Participle: **read** [red] — написание одинаково, но произношение меняется: инфинитив [riːd], прошедшее [red]",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **read** [red]; Past Participle: **read** [red] — написание одинаково, но произношение меняется: инфинитив [riːd], прошедшее [red]",
+    "image": "/data/projects/irregular-verbs/images/words/read.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4324,21 +4328,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/read.jpg",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/read-1-uk.mp3"
     }
   },
   {
     "word": "ride",
     "pronunciation": "raɪd",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/ride-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **rode**; Past Participle: **ridden**; Present Participle: **riding**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **rode**; Past Participle: **ridden**; Present Participle: **riding**",
+    "image": "/data/projects/irregular-verbs/images/words/ride.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4414,21 +4418,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/ride.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/ride-us.mp3"
     }
   },
   {
     "word": "ring",
     "pronunciation": "rɪŋ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/ring-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **rang**; Past Participle: **rung**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **rang**; Past Participle: **rung**",
+    "image": "/data/projects/irregular-verbs/images/words/ring.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4506,21 +4510,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/ring.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/ring-us.mp3"
     }
   },
   {
     "word": "rise",
     "pronunciation": "raɪz",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/rise-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/rise-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **rose**; Past Participle: **risen**; Present Participle: **rising**",
     "cefrLevel": "B1",
+    "forms": "Past Simple: **rose**; Past Participle: **risen**; Present Participle: **rising**",
+    "image": "/data/projects/irregular-verbs/images/words/rise.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4598,11 +4603,6 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/rise.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/rise-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/rise-au.mp3"
     }
   },
   {
@@ -4612,8 +4612,9 @@
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **ran**; Past Participle: **run**; Present Participle: **running**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **ran**; Past Participle: **run**; Present Participle: **running**",
+    "image": "/data/projects/irregular-verbs/images/words/run.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4702,12 +4703,16 @@
   {
     "word": "say",
     "pronunciation": "seɪ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/say-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **said**; Past Participle: **said**; Present Participle: **saying**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **said**; Past Participle: **said**; Present Participle: **saying**",
+    "image": "/data/projects/irregular-verbs/images/words/say.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4745,11 +4750,11 @@
     "comparisons": [
       {
         "word": "tell",
-        "description": "Tell требует косвенного дополнения: *he told me* — он сказал мне; say используется без косвенного дополнения или с that-придаточным."
+        "description": "[[tell|Tell]] требует косвенного дополнения: *he told me* — он сказал мне; say используется без косвенного дополнения или с that-придаточным."
       },
       {
         "word": "speak",
-        "description": "Speak акцентирует процесс речи или владение языком: *speak English, speak at a conference*; say — конкретное высказывание."
+        "description": "[[speak|Speak]] акцентирует процесс речи или владение языком: *speak English, speak at a conference*; say — конкретное высказывание."
       }
     ],
     "collocations": [
@@ -4789,20 +4794,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/say.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/say-us.mp3"
     }
   },
   {
     "word": "see",
     "pronunciation": "siː",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/see-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **saw**; Past Participle: **seen**; Present Participle: **seeing**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **saw**; Past Participle: **seen**; Present Participle: **seeing**",
+    "image": "/data/projects/irregular-verbs/images/words/see.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4889,20 +4894,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/see.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/see-us.mp3"
     }
   },
   {
     "word": "sell",
     "pronunciation": "sɛl",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/sell-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **sold**; Past Participle: **sold**; Present Participle: **selling**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **sold**; Past Participle: **sold**; Present Participle: **selling**",
+    "image": "/data/projects/irregular-verbs/images/words/sell.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4932,7 +4937,7 @@
     "comparisons": [
       {
         "word": "buy",
-        "description": "Buy — получить что-либо за деньги; sell — передать что-либо за деньги. Противоположные действия одной сделки."
+        "description": "[[buy|Buy]] — получить что-либо за деньги; sell — передать что-либо за деньги. Противоположные действия одной сделки."
       },
       {
         "word": "trade",
@@ -4981,20 +4986,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/sell.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/sell-us.mp3"
     }
   },
   {
     "word": "send",
     "pronunciation": "sɛnd",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/send-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/send-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **sent**; Past Participle: **sent**; Present Participle: **sending**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **sent**; Past Participle: **sent**; Present Participle: **sending**",
+    "image": "/data/projects/irregular-verbs/images/words/send.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5024,7 +5030,7 @@
     "comparisons": [
       {
         "word": "give",
-        "description": "Give — передать что-либо лично в руки; send — направить что-либо туда, где находится получатель."
+        "description": "[[give|Give]] — передать что-либо лично в руки; send — направить что-либо туда, где находится получатель."
       },
       {
         "word": "deliver",
@@ -5064,23 +5070,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/send.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/send-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/send-uk.mp3"
     }
   },
   {
     "word": "set",
     "pronunciation": "sɛt",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/set-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun",
       "adjective"
     ],
-    "forms": "Past Simple: **set**; Past Participle: **set** (все три формы одинаковы)",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **set**; Past Participle: **set** (все три формы одинаковы)",
+    "image": "/data/projects/irregular-verbs/images/words/set.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5134,7 +5139,7 @@
     "comparisons": [
       {
         "word": "put",
-        "description": "Put — просто поместить что-либо куда-то; set часто подразумевает большую аккуратность или намеренность: *set the table* (накрыть стол), *put the book down* (положить книгу)."
+        "description": "[[put|Put]] — просто поместить что-либо куда-то; set часто подразумевает большую аккуратность или намеренность: *set the table* (накрыть стол), *put the book down* (положить книгу)."
       },
       {
         "word": "place",
@@ -5185,20 +5190,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/set.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/set-us.mp3"
     }
   },
   {
     "word": "sing",
     "pronunciation": "sɪŋ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/sing-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/sing-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **sang**; Past Participle: **sung**; Present Participle: **singing**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **sang**; Past Participle: **sung**; Present Participle: **singing**",
+    "image": "/data/projects/irregular-verbs/images/words/sing.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5278,21 +5284,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/sing.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/sing-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/sing-uk.mp3"
     }
   },
   {
     "word": "sit",
     "pronunciation": "sɪt",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/sit-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/sit-au.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **sat**; Past Participle: **sat**; Present Participle: **sitting**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **sat**; Past Participle: **sat**; Present Participle: **sitting**",
+    "image": "/data/projects/irregular-verbs/images/words/sit.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5334,7 +5340,7 @@
       },
       {
         "word": "stand",
-        "description": "Stand — находиться в стоячем положении; sit — в сидячем."
+        "description": "[[stand|Stand]] — находиться в стоячем положении; sit — в сидячем."
       }
     ],
     "collocations": [
@@ -5379,22 +5385,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/sit.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/sit-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/sit-au.mp3"
     }
   },
   {
     "word": "sleep",
     "pronunciation": "sliːp",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/sleep-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **slept**; Past Participle: **slept**; Present Participle: **sleeping**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **slept**; Past Participle: **slept**; Present Participle: **sleeping**",
+    "image": "/data/projects/irregular-verbs/images/words/sleep.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5479,20 +5484,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/sleep.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/sleep-us.mp3"
     }
   },
   {
     "word": "speak",
     "pronunciation": "spiːk",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/speak-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/speak-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **spoke**; Past Participle: **spoken**; Present Participle: **speaking**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **spoke**; Past Participle: **spoken**; Present Participle: **speaking**",
+    "image": "/data/projects/irregular-verbs/images/words/speak.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5526,7 +5532,7 @@
       },
       {
         "word": "say",
-        "description": "Say — произнести конкретные слова; speak — сам процесс говорения или владение языком."
+        "description": "[[say|Say]] — произнести конкретные слова; speak — сам процесс говорения или владение языком."
       }
     ],
     "collocations": [
@@ -5571,21 +5577,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/speak.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/speak-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/speak-uk.mp3"
     }
   },
   {
     "word": "spend",
     "pronunciation": "spɛnd",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/spend-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **spent**; Past Participle: **spent**; Present Participle: **spending**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **spent**; Past Participle: **spent**; Present Participle: **spending**",
+    "image": "/data/projects/irregular-verbs/images/words/spend.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5661,21 +5666,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/spend.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/spend-us.mp3"
     }
   },
   {
     "word": "stand",
     "pronunciation": "stænd",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/stand-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/stand-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **stood**; Past Participle: **stood**; Present Participle: **standing**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **stood**; Past Participle: **stood**; Present Participle: **standing**",
+    "image": "/data/projects/irregular-verbs/images/words/stand.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5721,7 +5727,7 @@
     "comparisons": [
       {
         "word": "sit",
-        "description": "Sit — находиться в сидячем положении; stand — в стоячем. Противоположные позы тела."
+        "description": "[[sit|Sit]] — находиться в сидячем положении; stand — в стоячем. Противоположные позы тела."
       },
       {
         "word": "lie",
@@ -5771,21 +5777,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/stand.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/stand-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/stand-au.mp3"
     }
   },
   {
     "word": "steal",
     "pronunciation": "stiːl",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/steal-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **stole**; Past Participle: **stolen**; Present Participle: **stealing**",
     "cefrLevel": "B1",
+    "forms": "Past Simple: **stole**; Past Participle: **stolen**; Present Participle: **stealing**",
+    "image": "/data/projects/irregular-verbs/images/words/steal.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5819,7 +5824,7 @@
       },
       {
         "word": "take",
-        "description": "Take нейтрально; steal подразумевает незаконное или тайное присвоение."
+        "description": "[[take|Take]] нейтрально; steal подразумевает незаконное или тайное присвоение."
       }
     ],
     "collocations": [
@@ -5864,21 +5869,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/steal.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/steal-us.mp3"
     }
   },
   {
     "word": "swim",
     "pronunciation": "swɪm",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/swim-1-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **swam**; Past Participle: **swum**; Present Participle: **swimming**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **swam**; Past Participle: **swum**; Present Participle: **swimming**",
+    "image": "/data/projects/irregular-verbs/images/words/swim.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -5961,20 +5966,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/swim.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/swim-1-us.mp3"
     }
   },
   {
     "word": "take",
     "pronunciation": "teɪk",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/take-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/take-uk.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/take-au.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **took**; Past Participle: **taken**; Present Participle: **taking**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **took**; Past Participle: **taken**; Present Participle: **taking**",
+    "image": "/data/projects/irregular-verbs/images/words/take.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -6013,7 +6020,7 @@
     "comparisons": [
       {
         "word": "bring",
-        "description": "Bring — принести что-то сюда или к говорящему; take — унести куда-то в другое место от говорящего."
+        "description": "[[bring|Bring]] — принести что-то сюда или к говорящему; take — унести куда-то в другое место от говорящего."
       },
       {
         "word": "grab",
@@ -6064,22 +6071,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/take.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/take-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/take-uk.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/take-au.mp3"
     }
   },
   {
     "word": "teach",
     "pronunciation": "tiːtʃ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/teach-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **taught**; Past Participle: **taught**; Present Participle: **teaching**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **taught**; Past Participle: **taught**; Present Participle: **teaching**",
+    "image": "/data/projects/irregular-verbs/images/words/teach.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -6154,20 +6159,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/teach.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/teach-us.mp3"
     }
   },
   {
     "word": "tell",
     "pronunciation": "tɛl",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/tell-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **told**; Past Participle: **told**; Present Participle: **telling**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **told**; Past Participle: **told**; Present Participle: **telling**",
+    "image": "/data/projects/irregular-verbs/images/words/tell.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -6206,7 +6211,7 @@
     "comparisons": [
       {
         "word": "say",
-        "description": "Say — произносить слова без обязательного дополнения: *she said something*; tell — всегда с получателем: *she told someone something*."
+        "description": "[[say|Say]] — произносить слова без обязательного дополнения: *she said something*; tell — всегда с получателем: *she told someone something*."
       },
       {
         "word": "inform",
@@ -6255,20 +6260,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/tell.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/tell-us.mp3"
     }
   },
   {
     "word": "think",
     "pronunciation": "θɪŋk",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/think-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **thought**; Past Participle: **thought**; Present Participle: **thinking**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **thought**; Past Participle: **thought**; Present Participle: **thinking**",
+    "image": "/data/projects/irregular-verbs/images/words/think.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -6354,21 +6359,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/think.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/think-us.mp3"
     }
   },
   {
     "word": "throw",
     "pronunciation": "θrəʊ",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/throw-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/throw-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **threw**; Past Participle: **thrown**; Present Participle: **throwing**",
     "cefrLevel": "A2",
+    "forms": "Past Simple: **threw**; Past Participle: **thrown**; Present Participle: **throwing**",
+    "image": "/data/projects/irregular-verbs/images/words/throw.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -6448,21 +6454,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/throw.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/throw-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/throw-au.mp3"
     }
   },
   {
     "word": "understand",
     "pronunciation": "ˌʌndəˈstænd",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/understand-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/understand-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **understood**; Past Participle: **understood**; Present Participle: **understanding**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **understood**; Past Participle: **understood**; Present Participle: **understanding**",
+    "image": "/data/projects/irregular-verbs/images/words/understand.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -6545,22 +6551,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/understand.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/understand-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/understand-uk.mp3"
     }
   },
   {
     "word": "wear",
     "pronunciation": "wɛː",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/wear-1-us.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **wore**; Past Participle: **worn**; Present Participle: **wearing**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **wore**; Past Participle: **worn**; Present Participle: **wearing**",
+    "image": "/data/projects/irregular-verbs/images/words/wear.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -6648,21 +6653,22 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/wear.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/wear-1-us.mp3"
     }
   },
   {
     "word": "win",
     "pronunciation": "wɪn",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/win-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/win-uk.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
-    "forms": "Past Simple: **won**; Past Participle: **won**; Present Participle: **winning**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **won**; Past Participle: **won**; Present Participle: **winning**",
+    "image": "/data/projects/irregular-verbs/images/words/win.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -6749,21 +6755,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/win.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/win-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/win-uk.mp3"
     }
   },
   {
     "word": "write",
     "pronunciation": "raɪt",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/write-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/write-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": "Past Simple: **wrote**; Past Participle: **written**; Present Participle: **writing**",
     "cefrLevel": "A1",
+    "forms": "Past Simple: **wrote**; Past Participle: **written**; Present Participle: **writing**",
+    "image": "/data/projects/irregular-verbs/images/words/write.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -6848,11 +6854,6 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-24"
-    },
-    "image": "/data/projects/irregular-verbs/images/words/write.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/write-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/write-uk.mp3"
     }
   }
 ]
