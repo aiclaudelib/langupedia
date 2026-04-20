@@ -4,6 +4,7 @@ dist/
 scripts/.pollinations.json
 scripts/.cloudflare.json
 public/data/projects/index.json
+data/*.db
 data/*.db-wal
 data/*.db-shm
 
