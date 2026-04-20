@@ -2,10 +2,17 @@
   {
     "word": "abhor",
     "pronunciation": "əbˈhôr",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-uk.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-au.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C2",
     "forms": "abhors, abhorred, abhorring",
+    "image": "/data/projects/tainted-grail/images/words/abhor.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -21,7 +28,6 @@
       "*She abhorred lying, yet here she was, weaving a web of deceit to survive.*",
       "*\"I abhor what you have become,\" the old mage whispered to his former apprentice.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Hate",
@@ -64,28 +70,25 @@
       }
     ],
     "wordHistory": "From Latin *abhorrēre* — \"to shrink back in horror,\" from *ab-* (\"away from\") + *horrēre* (\"to shudder, to bristle\"). Literally: your hair stands on end and you recoil. The same root *horrēre* appears in **horror** (terror), **horrible** (dreadful), **horrid** (repulsive), and **horrify** (to terrify). All of them describe the same physical reaction: trembling, goosebumps, hair standing on end. **Abhor** adds the motion of pulling away — not just shuddering, but recoiling in revulsion.",
+    "contextStory": "The old librarian **abhorred** noise — not merely disliked it, but recoiled from it as if sound itself were poison. When the new city council proposed turning half her library into a gaming lounge, she stood before them trembling with quiet fury. \"I **abhor** this plan,\" she said, her voice barely above a whisper yet sharp enough to silence the room. The council members shifted uncomfortably. They had expected protest, not this white-knuckled dignity. She returned to her library that evening, sat among her beloved shelves, and wrote a letter so devastating in its eloquence that the proposal was dead within a week — because nature **abhors** a vacuum, and she had filled every inch of that debate with righteous, unyielding conviction.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/abhor.jpg",
-    "contextStory": "The old librarian **abhorred** noise — not merely disliked it, but recoiled from it as if sound itself were poison. When the new city council proposed turning half her library into a gaming lounge, she stood before them trembling with quiet fury. \"I **abhor** this plan,\" she said, her voice barely above a whisper yet sharp enough to silence the room. The council members shifted uncomfortably. They had expected protest, not this white-knuckled dignity. She returned to her library that evening, sat among her beloved shelves, and wrote a letter so devastating in its eloquence that the proposal was dead within a week — because nature **abhors** a vacuum, and she had filled every inch of that debate with righteous, unyielding conviction.",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-uk.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-au.mp3"
     }
   },
   {
     "word": "absolution",
     "pronunciation": "ˌabsəˈlo͞oSH(ə)n",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/d/d6/LL-Q1860_%28eng%29-Vealhurl-absolution.wav"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/absolution.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -140,27 +143,27 @@
       }
     ],
     "wordHistory": "From Latin *absolūtiō* — \"completion, release,\" from *absolvere* — \"to untie, to set free\" (*ab-* \"from\" + *solvere* \"to loosen, to dissolve\"). Literally: **to untie from** guilt, to remove the bonds of sin. The same root *solvere* belongs to a vast family:\n• **solve** — to solve (literally \"to untie\" a problem)\n• **dissolve** — to dissolve (to untie bonds)\n• **resolve** — to resolve (to untie anew)\n• **solution** — a solution (both chemical and logical)\n• **absolute** — absolute (literally \"completely untied\" — free from all constraints)\n• **solvent** — a solvent; also financially solvent (able to \"untie\" debts)\nAnd here is the paradox: **absolute** and **absolution** are siblings. Absolute power is power untied from all constraints. Absolution is the soul untied from guilt. The same action: **removing bonds**.",
+    "contextStory": "The old knight crawled through the chapel doors, his armor streaked with blood that was not his own. He had burned the village on the king's orders, and now he sought **absolution** from the very god whose children he had slaughtered. The priest looked at him with hollow eyes and whispered, \"**Absolution** is not mine to give — it belongs to the dead.\" The knight wept, understanding at last that no prayer, no penance, no ritual could grant him **absolution** for what he had done. Some sins untie themselves only in the grave.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/absolution.jpg",
-    "contextStory": "The old knight crawled through the chapel doors, his armor streaked with blood that was not his own. He had burned the village on the king's orders, and now he sought **absolution** from the very god whose children he had slaughtered. The priest looked at him with hollow eyes and whispered, \"**Absolution** is not mine to give — it belongs to the dead.\" The knight wept, understanding at last that no prayer, no penance, no ritual could grant him **absolution** for what he had done. Some sins untie themselves only in the grave.",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/d/d6/LL-Q1860_%28eng%29-Vealhurl-absolution.wav"
     }
   },
   {
     "word": "afflicted",
     "pronunciation": "əˈflɪktɪd",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LL-Q1860_%28eng%29-Vealhurl-afflicted.wav"
+    },
     "partOfSpeech": [
       "adjective",
       "verb"
     ],
+    "cefrLevel": "B2",
     "forms": "base verb: **afflict**; past tense: **afflicted**; present participle: **afflicting**; 3rd person singular: **afflicts**",
+    "image": "/data/projects/tainted-grail/images/words/afflicted.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -224,25 +227,25 @@
     ],
     "wordHistory": "From Latin *afflīctus* — past participle of *afflīgere* (\"to strike down, to dash against\"), where *ad-* (\"to, against\") + *flīgere* (\"to strike, to beat\"). The literal sense is \"knocked down by a blow, cast to the ground.\" By Medieval Latin and Old French (*aflit*), the meaning had broadened to \"struck by misfortune.\" It entered English in the 14th century via Old French. Biblical translations (especially the King James Bible, 1611) cemented the word's aura of solemn, almost sacred suffering: *\"The Lord shall smite thee with madness… and thou shalt be afflicted.\"*",
     "contextStory": "The healer walked through the camp where the **afflicted** lay — dozens of people with blackened veins and clouded eyes. \"This sickness has **afflicted** three villages in a single week,\" his guide said, trying not to breathe. The healer knelt beside a girl whose face burned with fever. He knew this curse — it had **afflicted** him twenty years ago, leaving scars on his hands and emptiness in his chest. But he had survived. And now he knew how to save the rest.",
-    "cefrLevel": "B2",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/afflicted.jpg",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LL-Q1860_%28eng%29-Vealhurl-afflicted.wav"
     }
   },
   {
     "word": "bathed",
     "pronunciation": "bāT͟Hd",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/bathed-1-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "B2",
     "forms": "past tense of **bathe**",
+    "image": "/data/projects/tainted-grail/images/words/bathed.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -276,27 +279,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Old English *baþian* — \"to wash, immerse in water.\" Related to German *baden*, going back to Proto-Germanic *baþōną*. The figurative sense \"to suffuse with light\" (*bathed in light*) appeared in the 16th–17th century — a metaphor: light envelops you like warm water.",
+    "contextStory": "The abandoned temple was **bathed** in pale moonlight, its crumbling pillars casting long shadows across the stone floor. She stepped inside and found the altar **bathed** in something else — a warm, pulsing glow that had no source. It felt alive, sacred, as if the air itself had **bathed** the ruins in forgotten magic. She knelt, and for the first time in years, the weight in her chest dissolved.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/bathed.jpg",
-    "contextStory": "The abandoned temple was **bathed** in pale moonlight, its crumbling pillars casting long shadows across the stone floor. She stepped inside and found the altar **bathed** in something else — a warm, pulsing glow that had no source. It felt alive, sacred, as if the air itself had **bathed** the ruins in forgotten magic. She knelt, and for the first time in years, the weight in her chest dissolved.",
-    "cefrLevel": "B2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/bathed-1-uk.mp3"
     }
   },
   {
     "word": "beastly",
     "pronunciation": "ˈbiːstli",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/beastly-us.mp3"
+    },
     "partOfSpeech": [
       "adjective",
       "adverb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/beastly.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -371,20 +373,19 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/beastly.jpg",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/beastly-us.mp3"
     }
   },
   {
     "word": "behest",
     "pronunciation": "bəˈhest",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/behest-uk.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/behest.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -422,26 +423,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Old English *behǣs* — \"promise, vow, command,\" from *be-* + *hǣs* (\"command\"), from the verb *hātan* — \"to command, to promise, to name.\" This verb *hātan* is one of the oldest in the Germanic languages. Related to:\n• Old Norse *heita* (\"to call, to promise\") — hence Icelandic *heita*\n• Gothic *haitan* (\"to call, to name\")\n• German *heißen* (\"to be called\": *ich heiße...* — \"my name is...\")\nAn interesting detail: in Old English, *hātan* simultaneously meant \"to command,\" \"to promise,\" and \"to name.\" The connection between these meanings runs deep: to name something is to define it; to command is to name what must be; to promise is to name what will be. **Behest** preserved the \"command\" branch, while German *heißen* kept the \"naming\" one.",
+    "contextStory": "The general marched his army into the valley at the **behest** of a king who sat safely behind castle walls. Three thousand soldiers died that day — all at the **behest** of a man who had never held a sword. When the general returned, broken and hollow, he swore he would never again act at the **behest** of another. The crown could find a new dog to obey its commands.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/behest.jpg",
-    "contextStory": "The general marched his army into the valley at the **behest** of a king who sat safely behind castle walls. Three thousand soldiers died that day — all at the **behest** of a man who had never held a sword. When the general returned, broken and hollow, he swore he would never again act at the **behest** of another. The crown could find a new dog to obey its commands.",
-    "cefrLevel": "C2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/behest-uk.mp3"
     }
   },
   {
     "word": "bestow",
     "pronunciation": "bəˈstō",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/8/86/LL-Q1860_%28eng%29-Vealhurl-bestow.wav"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "bestows, bestowed, bestowing",
+    "image": "/data/projects/tainted-grail/images/words/bestow.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -491,27 +492,26 @@
       }
     ],
     "wordHistory": "Middle English *bistowen* — from *be-* (intensifying prefix) + *stow* (\"to place, to put away\"). **Stow** comes from Old English *stōw* (\"place\") — hence **stowaway** (a person hiding in a storage area, literally \"hidden away in a place\"). The original meaning of **bestow** was \"to place something in its proper location\" (hence the archaic sense of \"storing cargo\"). The semantic shift: placing a thing where it belongs became presenting a gift to one who is worthy. The idea of \"the proper place\" transformed into the idea of \"the deserving recipient.\" This is precisely what distinguishes bestow from a simple give: bestow implies the gift finds *its rightful place*.",
+    "contextStory": "The goddess descended from the mountain and chose to **bestow** her gift upon the smallest child in the village — not the warrior, not the elder. \"I **bestow** this flame upon you,\" she said, pressing a spark of light into the girl's hands. The village elders protested: why **bestow** such power on someone so young? But the goddess only smiled. She knew that the greatest gifts must be placed where they will grow, not where they will rust.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/bestow.jpg",
-    "contextStory": "The goddess descended from the mountain and chose to **bestow** her gift upon the smallest child in the village — not the warrior, not the elder. \"I **bestow** this flame upon you,\" she said, pressing a spark of light into the girl's hands. The village elders protested: why **bestow** such power on someone so young? But the goddess only smiled. She knew that the greatest gifts must be placed where they will grow, not where they will rust.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/8/86/LL-Q1860_%28eng%29-Vealhurl-bestow.wav"
     }
   },
   {
     "word": "brittle",
     "pronunciation": "ˈbritl",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/brittle-us.mp3"
+    },
     "partOfSpeech": [
       "adjective",
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/brittle.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -537,7 +537,6 @@
       "*Their friendship had grown brittle over the years — one wrong word, and it would snap.*",
       "*He wore a brittle mask of confidence, but fear was eating him alive.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Brittle",
@@ -567,27 +566,27 @@
       }
     ],
     "wordHistory": "Middle English *britel*, from the Old English root *brēotan* — \"to break, to shatter.\" Related to **breach** and **break** (though their etymological paths diverged long ago). Proto-Germanic *brutōną* — \"to break.\" The figurative sense (\"a brittle character,\" \"a brittle smile\") appeared in the 19th century — an apt metaphor: a person who seems solid but can shatter from a single blow.",
+    "contextStory": "After the funeral, she held herself together with a **brittle** composure that everyone mistook for strength. Her voice was **brittle** when she thanked the mourners — thin and sharp, like glass about to crack. At home, alone, she picked up their wedding photo and felt how **brittle** her whole world had become: one touch, one memory, and everything would shatter into dust. She set the photo down gently, afraid of her own hands.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/brittle.jpg",
-    "contextStory": "After the funeral, she held herself together with a **brittle** composure that everyone mistook for strength. Her voice was **brittle** when she thanked the mourners — thin and sharp, like glass about to crack. At home, alone, she picked up their wedding photo and felt how **brittle** her whole world had become: one touch, one memory, and everything would shatter into dust. She set the photo down gently, afraid of her own hands.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/brittle-us.mp3"
     }
   },
   {
     "word": "cabal",
     "pronunciation": "kəˈbæl",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/4/49/En-us-cabal.oga"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "verb: pastSimple: **caballed**, pastParticiple: **caballed**, presentParticiple: **caballing**",
+    "image": "/data/projects/tainted-grail/images/words/cabal.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -662,26 +661,25 @@
       }
     ],
     "wordHistory": "From French *cabale* — \"intrigue, secret group,\" borrowed from Medieval Latin *cabbala*, from Hebrew *קַבָּלָה* (*qabbālāh*) — \"tradition, received knowledge,\" from the verb *qibbēl* — \"to receive, to accept.\" Originally the word referred to the mystical tradition of Kabbalah — a secret Jewish tradition of scriptural interpretation. In the 17th century the word migrated into political vocabulary: in English it was cemented by a famous coincidence — under Charles II (around 1672), a group of five powerful ministers (Clifford, Arlington, Buckingham, Ashley, Lauderdale) happened to have initials spelling C-A-B-A-L, which folk etymology immediately linked to secret plotting. The coincidence proved too eloquent to ignore, and since then **cabal** has firmly meant \"a secret clique of conspirators.\"",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/4/49/En-us-cabal.oga"
-    },
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/cabal.jpg"
+    }
   },
   {
     "word": "captive",
     "pronunciation": "ˈkaptiv",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/captive-us.mp3"
+    },
     "partOfSpeech": [
       "adjective",
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/captive.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -707,7 +705,6 @@
       "*She held him captive — not with chains, but with her words.*",
       "*The dragon kept its captives alive, feeding on their fear.*"
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
@@ -729,27 +726,26 @@
       }
     ],
     "wordHistory": "From Latin *captīvus* — \"caught, taken prisoner,\" from *capere* — \"to take, to seize.\" The same root appears in **capture**, **capable** (literally \"able to take/contain\"), and even **chase** (via Old French). Interestingly, **captivate** also originally meant \"to take prisoner,\" and the romantic sense of \"to enchant\" is a 16th-century metaphor.",
+    "contextStory": "The dragon did not kill the princess — it kept her **captive** in a tower of black stone, feeding her stories instead of food. Over time, she became a willing **captive**, enchanted by tales of worlds beyond the sky. When the knight finally arrived to free her, she refused to leave. \"You do not understand,\" she whispered. \"I am not his **captive**. He is mine — the last dragon alive, and I am the only one he trusts.\"",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/captive.jpg",
-    "contextStory": "The dragon did not kill the princess — it kept her **captive** in a tower of black stone, feeding her stories instead of food. Over time, she became a willing **captive**, enchanted by tales of worlds beyond the sky. When the knight finally arrived to free her, she refused to leave. \"You do not understand,\" she whispered. \"I am not his **captive**. He is mine — the last dragon alive, and I am the only one he trusts.\"",
-    "cefrLevel": "B2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/captive-us.mp3"
     }
   },
   {
     "word": "clobber",
     "pronunciation": "ˈkläbər",
+    "audio": {
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/clobber-au.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/clobber.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -775,32 +771,30 @@
       "*Rising taxes clobbered small businesses across the country.*",
       "*He packed his clobber into a bag and set off at dawn.*"
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Origin unclear — one of those colorful English words with a murky etymology. It appeared in colloquial English in the 1940s (World War II era) meaning \"to hit hard.\" Possibly from dialectal *clobber* — \"to smear, to plaster\" — or connected to RAF military slang. The British sense of \"clothes, gear\" (*clobber*) is probably a separate word with a different history, tracing back to 19th-century thieves' cant.\nIn IT, *clobber* is also popular: \"to clobber a file/variable\" means to overwrite or obliterate data.",
+    "contextStory": "The heavyweight champion promised to **clobber** anyone who dared step into the ring. In the first round, he **clobbered** his opponent so hard the crowd went silent — it felt less like sport and more like destruction. After the fight, a reporter asked if he felt guilty. \"Guilty?\" he laughed. \"He signed up to get **clobbered**. I just delivered what he ordered.\"",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/clobber.jpg",
-    "contextStory": "The heavyweight champion promised to **clobber** anyone who dared step into the ring. In the first round, he **clobbered** his opponent so hard the crowd went silent — it felt less like sport and more like destruction. After the fight, a reporter asked if he felt guilty. \"Guilty?\" he laughed. \"He signed up to get **clobbered**. I just delivered what he ordered.\"",
-    "cefrLevel": "C1",
-    "audio": {
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/clobber-au.mp3"
     }
   },
   {
     "word": "cloying",
     "pronunciation": "ˈklɔɪ.ɪŋ",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/0/0e/En-us-cloying.oga"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/cloying.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -871,11 +865,6 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/cloying.jpg",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/0/0e/En-us-cloying.oga"
     }
   },
   {
@@ -885,7 +874,8 @@
       "phrasal verb",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/dabble in.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -936,24 +926,27 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "From **dab** — \"to touch lightly, to dip\" + the diminutive suffix *-le* (as in *sparkle*, *crackle*, *trickle*). Literally: \"to dip a little bit,\" \"to touch with the tips.\" The original meaning (16th century) was to splash one's hands or feet in water. The figurative sense \"to engage in something superficially\" appeared in the 17th century — the metaphor is transparent: not diving in headfirst, but merely getting your fingers wet. The suffix *-le* adds a nuance of repeated small action — not a single dip, but an ongoing bit of splashing.",
+    "contextStory": "The old witch warned her: \"Do not **dabble in** necromancy, child. It is not a hobby.\" But the apprentice was young and fearless — she **dabbled in** forbidden spells the way others dabble in painting, just a little, just for fun. By winter, the dead were whispering her name. She had only **dabbled in** the dark arts, she told herself. But the darkness does not care how shallow you dip your hands — it pulls you under all the same.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/dabble in.jpg",
-    "contextStory": "The old witch warned her: \"Do not **dabble in** necromancy, child. It is not a hobby.\" But the apprentice was young and fearless — she **dabbled in** forbidden spells the way others dabble in painting, just a little, just for fun. By winter, the dead were whispering her name. She had only **dabbled in** the dark arts, she told herself. But the darkness does not care how shallow you dip your hands — it pulls you under all the same.",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "defile",
     "pronunciation": "dɪˈfaɪl",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/defile-uk.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
+    "cefrLevel": "C1",
     "forms": "pastTense: **defiled**; pastParticiple: **defiled**; presentParticiple: **defiling**; thirdPerson: **defiles**; plural: **defiles**",
+    "image": "/data/projects/tainted-grail/images/words/defile.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1034,25 +1027,24 @@
       }
     ],
     "wordHistory": "The verb **defile** is the product of a remarkable collision between two different words. Middle English *defoulen* — \"to trample, to pollute\" — came from Old French *defouler* (to trample underfoot), from Latin *de-* + *fullāre* (a fuller — one who treads cloth during processing). But in the 14th–15th centuries, this word merged with another: *befilen* (to make foul), from Old English *fȳlan* (to dirty), related to *foul*. From this crossbreeding emerged the modern verb **defile** meaning \"to desecrate.\" The noun **defile** (a gorge) is an entirely different word: borrowed in the 17th century from French *défilé*, from *défiler* (to march in a column), from *de-* + *file* (a row, a line), going back to Latin *fīlum* (thread). Two homonyms — one about filth and dishonour, the other about formation and terrain.",
-    "cefrLevel": "C1",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/defile.jpg",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/defile-uk.mp3"
     }
   },
   {
     "word": "demeanor",
     "pronunciation": "dɪˈmiːnər",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/demeanor-uk.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/demeanor.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1102,25 +1094,24 @@
     ],
     "wordHistory": "From Anglo-French *demener* — \"to lead, manage,\" from Old French *demener* — \"to conduct oneself, direct\" (literally \"to drive, lead\"), from *de-* (\"completely\") + *mener* (\"to lead\"), going back to Latin *minare* — \"to drive cattle,\" from *minari* — \"to threaten.\" Thus the word traveled from \"driving cattle with threats\" through \"directing behavior\" to \"outward manner of conduct.\" The suffix *-or* (*-our* in British English) formed the noun. Interestingly, the verb **demean** (\"to degrade\") developed its pejorative sense later and independently — influenced by the word **mean** (\"base, lowly\").",
     "contextStory": "The new teacher walked into the classroom, and thirty teenagers fell silent — not from fear, but from his **demeanor**. No shouting, no threats. Just a steady gaze, a straight back, and a voice that never needed raising. \"Your **demeanor** says more about you than your words ever will,\" he told the hushed room, scanning every face. By the end of the year, the most disruptive student — the one everyone had written off — approached him after class. \"You changed my **demeanor**,\" the boy said quietly. \"And then it changed my life.\"",
-    "cefrLevel": "B2",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/demeanor.jpg",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/demeanor-uk.mp3"
     }
   },
   {
     "word": "discretion",
     "pronunciation": "dəˈskreSH(ə)n",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/discretion-us.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/discretion.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1145,7 +1136,6 @@
       "*He lacked the discretion to know when to speak and when to stay silent.*",
       "*\"Discretion is the better part of valor,\" the old thief muttered, slipping away before the fight began.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Discreet",
@@ -1190,26 +1180,26 @@
       }
     ],
     "wordHistory": "From Old French *discrecion*, from Latin *discrētiō* — \"separation, discernment,\" from *discernere* — \"to distinguish, to separate\" (*dis-* \"apart\" + *cernere* \"to sift, to distinguish\"). The original idea: the ability **to distinguish** — to separate the important from the unimportant, the appropriate from the inappropriate. Hence both meanings: tactfulness (knowing what is appropriate to say) and the right to decide (distinguishing and choosing). The same root *cernere* appears in:\n• **discern** — to distinguish, to perceive\n• **concern** — worry, care (literally \"to sift together\")\n• **secret** — a secret (literally \"set apart,\" from *sē-* + *cernere*)\n• **certain** — certain (literally \"sifted, decided\")\n• **crime** — crime (via Greek *krinein* — \"to judge, to separate\")\n• **crisis** — crisis (a moment of \"separation,\" when the outcome is decided)\nCuriously, **discreet** and **discrete** are the same word that split into two spellings in the 16th–17th century. Originally both were *discrete* from Latin *discrētus*. Then the spelling *discreet* became fixed for the meaning \"tactful,\" while *discrete* stuck for \"separate.\" A divorce formalized by orthography.",
+    "contextStory": "The spymaster hired her not for her skill with a blade, but for her **discretion**. In a court drowning in gossip, she moved like a shadow — never repeating what she heard, never asking what she should not know. \"I leave the method to your **discretion**,\" the queen told her one night, sliding a name across the table. She nodded. **Discretion** had kept her alive for twenty years. It would keep her alive tonight, too.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/discretion.jpg",
-    "contextStory": "The spymaster hired her not for her skill with a blade, but for her **discretion**. In a court drowning in gossip, she moved like a shadow — never repeating what she heard, never asking what she should not know. \"I leave the method to your **discretion**,\" the queen told her one night, sliding a name across the table. She nodded. **Discretion** had kept her alive for twenty years. It would keep her alive tonight, too.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/discretion-us.mp3"
     }
   },
   {
     "word": "disfigurement",
     "pronunciation": "dɪsˈfɪɡ.jər.mənt",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q1860_%28eng%29-Qwertygiy-disfigurement.wav"
+    },
     "partOfSpeech": [
       "noun"
     ],
+    "cefrLevel": "C2",
     "forms": "plural: **disfigurements**",
+    "image": "/data/projects/tainted-grail/images/words/disfigurement.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1278,20 +1268,19 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/disfigurement.jpg",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q1860_%28eng%29-Qwertygiy-disfigurement.wav"
     }
   },
   {
     "word": "dispense",
     "pronunciation": "dəˈspens",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/dispense-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/dispense.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1319,7 +1308,6 @@
       "*She dispensed with pleasantries and got straight to the point.*",
       "*A rusted machine, still dispensing holy water drop by drop.*"
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
@@ -1341,27 +1329,27 @@
       }
     ],
     "wordHistory": "From Latin *dispensāre* — \"to distribute by weight,\" from *dis-* (\"apart\") + *pendere* (\"to weigh\"). The same root *pendere* lives on in **spend**, **pension**, **ponder** (literally \"to weigh in one's mind\"), and **pendant** (something that hangs/dangles). The idea of \"weighing out and distributing fairly\" evolved into \"administering justice\" (*dispense justice*), while **dispense with** — \"to do without\" — appeared later as a metaphor: to release something, to free from an obligation.",
+    "contextStory": "The village healer sat beneath the old oak, ready to **dispense** remedies to the sick who lined up at dawn. She **dispensed** herbs and tinctures with steady hands, asking nothing in return. But when the lord's soldiers came demanding she **dispense** with her potions and leave, she refused. \"You can burn my hut,\" she said quietly, \"but you cannot stop people from needing medicine.\"",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/dispense.jpg",
-    "contextStory": "The village healer sat beneath the old oak, ready to **dispense** remedies to the sick who lined up at dawn. She **dispensed** herbs and tinctures with steady hands, asking nothing in return. But when the lord's soldiers came demanding she **dispense** with her potions and leave, she refused. \"You can burn my hut,\" she said quietly, \"but you cannot stop people from needing medicine.\"",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/dispense-us.mp3"
     }
   },
   {
     "word": "endeavor",
     "pronunciation": "enˈdevər",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/endeavor-us.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "BrE: **endeavour**",
+    "image": "/data/projects/tainted-grail/images/words/endeavor.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1405,17 +1393,12 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "From Middle English *endeveren* — \"to exert oneself,\" from *en-* (\"in\") + Old French *deveir* / *devoir* — \"duty, obligation\" (from Latin *dēbēre* — \"to owe\"). Literally: **to put oneself into a duty**, to make something one's obligation. The same root *dēbēre* appears in:\n• **debt** — debt (literally \"that which is owed\")\n• **due** — what is owed, what is fitting\n• **duty** — duty, obligation\n• **debit** — debit (a charge from an account)\nA beautiful idea: **endeavor** is not simply \"an attempt\" — it is the conscious taking on of a duty. You are not just trying — you are committing yourself to the effort.",
+    "contextStory": "Building the bridge across the ravine was a foolish **endeavor** — everyone said so. The engineer ignored them and threw herself into the **endeavor** with a fury that bordered on obsession, sleeping three hours a night, redrawing plans by candlelight. When the first cart crossed safely, the village fell silent. \"It was a worthy **endeavor**,\" the mayor finally admitted. She did not smile. She was already sketching the next one.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/endeavor.jpg",
-    "contextStory": "Building the bridge across the ravine was a foolish **endeavor** — everyone said so. The engineer ignored them and threw herself into the **endeavor** with a fury that bordered on obsession, sleeping three hours a night, redrawing plans by candlelight. When the first cart crossed safely, the village fell silent. \"It was a worthy **endeavor**,\" the mayor finally admitted. She did not smile. She was already sketching the next one.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/endeavor-us.mp3"
     }
   },
   {
@@ -1424,8 +1407,9 @@
     "partOfSpeech": [
       "verb phrase"
     ],
-    "forms": "fends for oneself; fended for oneself; fending for oneself",
     "cefrLevel": "B2",
+    "forms": "fends for oneself; fended for oneself; fending for oneself",
+    "image": "/data/projects/tainted-grail/images/words/fend for oneself.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1507,16 +1491,19 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-22"
-    },
-    "image": "/data/projects/tainted-grail/images/words/fend for oneself.jpg"
+    }
   },
   {
     "word": "fervent",
     "pronunciation": "ˈfɜːrvənt",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/1/11/En-us-fervent.oga"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/fervent.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1553,7 +1540,7 @@
       },
       {
         "word": "zealous",
-        "description": "zeal + action. A **zealous** person doesn't just feel — they actively push and may go too far. **Fervent** is about intensity of feeling, not action."
+        "description": "zeal + action. A **[[zealous]]** person doesn't just feel — they actively push and may go too far. **Fervent** is about intensity of feeling, not action."
       },
       {
         "word": "earnest",
@@ -1591,25 +1578,24 @@
       }
     ],
     "wordHistory": "From Latin *fervēns*, the present participle of *fervēre* — \"to boil, to seethe, to glow.\" The Proto-Indo-European root *bʰrewh₁-* — \"to boil, to bubble\" — is the same one that gave English **brew**, **broth**, and German *brauen*. Literally, **fervent** means \"boiling.\" In Old French, *fervent* already meant \"passionate, ardent\" — and in this form the word entered Middle English in the 14th century. The related **ferment** (fermentation) shares the same Latin root: physical boiling became a metaphor for emotional turmoil. The scientific term **effervescent** (fizzy, bubbling) is also a relative.",
-    "cefrLevel": "C1",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/fervent.jpg",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/1/11/En-us-fervent.oga"
     }
   },
   {
     "word": "fodder",
     "pronunciation": "ˈfädər",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fodder-us.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/fodder.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1631,7 +1617,6 @@
       "*\"We're nothing but fodder to them — sent to die so the lords can keep their lands.\"*",
       "*Rumours and half-truths became fodder for the mob's rage.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Fodder",
@@ -1653,26 +1638,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Old English *fōdor* — \"food, feed,\" from Proto-Germanic *fōdrą* — \"food, feed.\" The same root as **food** and **feed** — all from Proto-Indo-European *peh₂-* (\"to feed, to graze\"). Also related are Latin *pānis* (\"bread\" — hence **pantry**, a bread cupboard) and *pāstor* (\"shepherd\" — hence **pastor**). The German cognate is *Futter* (\"feed\"). The figurative **cannon fodder** is a calque from the German *Kanonenfutter*, attributed variously to Frederick the Great or to World War I. The idea is horrifying in its simplicity: people as feed for the cannons.",
+    "contextStory": "The general looked at the fresh recruits and saw only **fodder** — boys barely old enough to shave, shipped to the front as cannon **fodder** for a war they did not understand. \"Sir, they have no training,\" the lieutenant protested. The general shrugged. \"They do not need training. They need to hold the line for twenty minutes.\" The lieutenant said nothing. He had once been **fodder** too — the only difference was that he had survived.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/fodder.jpg",
-    "contextStory": "The general looked at the fresh recruits and saw only **fodder** — boys barely old enough to shave, shipped to the front as cannon **fodder** for a war they did not understand. \"Sir, they have no training,\" the lieutenant protested. The general shrugged. \"They do not need training. They need to hold the line for twenty minutes.\" The lieutenant said nothing. He had once been **fodder** too — the only difference was that he had survived.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fodder-us.mp3"
     }
   },
   {
     "word": "forsake",
     "pronunciation": "fôrˈsāk",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/7/71/LL-Q1860_%28eng%29-Vealhurl-forsake.wav"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C2",
     "forms": "forsakes; past: **forsook**; past participle: **forsaken**",
+    "image": "/data/projects/tainted-grail/images/words/forsake.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1693,7 +1678,6 @@
       "*He forsook his oath, his brothers, and everything he once believed in.*",
       "*A forsaken village: roofs caved in, doors hanging open, not a soul in sight.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Abandon",
@@ -1732,27 +1716,28 @@
       }
     ],
     "wordHistory": "Old English *forsacan* — \"to refuse, to reject, to renounce,\" from *for-* (an intensifying/negating prefix meaning \"completely, away\") + *sacan* (\"to argue, to fight, to accuse\"). The root *sacan* is related to:\n• Old Norse *saka* (\"to accuse\") — hence English **sake** (*for the sake of* — \"for the cause/purpose of,\" literally \"for the matter\")\n• German *Sache* (\"thing, matter\")\n• Gothic *sakan* (\"to argue\")\nThe literal meaning of *forsacan*: \"to completely give up the fight for someone\" — that is, to stop fighting for a person, to let go, to abandon. Not simply to leave, but **to stop defending**. This explains why forsake sounds so painful: the one who forsakes does not merely walk away — they consciously cease to protect.\nIrregular forms: **forsake, forsook, forsaken** (following the pattern of *take, took, taken* and *shake, shook, shaken*).",
+    "contextStory": "She begged him not to **forsake** her, but he turned his back and walked into the rain. The village had already **forsaken** its faith in him — doors shut, lanterns extinguished one by one. Standing alone in the square, she understood what it meant to be truly **forsaken**: not just left behind, but erased from someone's heart. Years later, he would regret the night he chose to **forsake** the only person who believed in him.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/forsake.jpg",
-    "contextStory": "She begged him not to **forsake** her, but he turned his back and walked into the rain. The village had already **forsaken** its faith in him — doors shut, lanterns extinguished one by one. Standing alone in the square, she understood what it meant to be truly **forsaken**: not just left behind, but erased from someone's heart. Years later, he would regret the night he chose to **forsake** the only person who believed in him.",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/7/71/LL-Q1860_%28eng%29-Vealhurl-forsake.wav"
     }
   },
   {
     "word": "fret",
     "pronunciation": "fret",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fret-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/fret-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
+    "cefrLevel": "C1",
     "forms": "past tense: **fretted**; past participle: **fretted**; present participle: **fretting**; third person: **frets**",
+    "image": "/data/projects/tainted-grail/images/words/fret.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1837,22 +1822,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/fret.jpg",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fret-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/fret-au.mp3"
     }
   },
   {
     "word": "husk",
     "pronunciation": "həsk",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/husk-us.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/husk.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1889,26 +1872,25 @@
       }
     ],
     "wordHistory": "Middle English *huske*, probably from Middle Low German *hūske* — \"small case, covering\" (a diminutive of *hūs* — \"house\"; the same root as **house**). Literally: a husk is a \"little house\" for a grain. A beautiful metaphor, and it explains why **husk** works so well figuratively — an empty house whose occupant has left. And **husky** (hoarse) literally means \"dry as a husk\": the sound of a voice when the throat has dried out.",
+    "contextStory": "After the plague passed, the survivors found only **husks** — of buildings, of crops, of people. Old Thomas sat in his chair, a brittle **husk** of the man who once carried oxen on his shoulders. His granddaughter peeled corn in silence, dropping each **husk** into the fire, watching them curl and blacken. The whole town felt like a **husk**: the shape remained, but everything living inside had been hollowed out.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/husk.jpg",
-    "contextStory": "After the plague passed, the survivors found only **husks** — of buildings, of crops, of people. Old Thomas sat in his chair, a brittle **husk** of the man who once carried oxen on his shoulders. His granddaughter peeled corn in silence, dropping each **husk** into the fire, watching them curl and blacken. The whole town felt like a **husk**: the shape remained, but everything living inside had been hollowed out.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/husk-us.mp3"
     }
   },
   {
     "word": "impending",
     "pronunciation": "imˈpendiNG",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/5/57/LL-Q1860_%28eng%29-Sapaa-impending.wav"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/impending.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1922,7 +1904,6 @@
       "*With the impending siege, every blacksmith in the city worked through the night.*",
       "*She spoke calmly, as though unaware of her impending death.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Impending",
@@ -1946,26 +1927,27 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "From Latin *impendēre* — \"to hang over,\" from *in-* (\"over, upon\") + *pendēre* (\"to hang, to dangle\"). Literally: something is hanging right above you and is about to fall. The same root *pendēre* appears in **pendant** (something that hangs), **suspend** (to hang up), **depend** (to depend — literally \"to hang from\"), **pending** (awaiting resolution — \"hanging\" in the air), and even **pendulum** (a swinging weight). In fact, **impending** and **pending** are close relatives: both describe something that \"hangs\" and awaits resolution, but **impending** adds a sense of threat — it is not just hanging, it is looming.",
+    "contextStory": "The sky turned a sickly yellow, and everyone felt the **impending** disaster in their bones. The mayor ignored the warnings of **impending** floods, insisting the dam would hold through anything. By midnight, with water already lapping at doorsteps, the sense of **impending** doom was no longer a feeling — it was a fact. Those who had prepared for the **impending** catastrophe fled to the hills; the rest could only pray.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/impending.jpg",
-    "contextStory": "The sky turned a sickly yellow, and everyone felt the **impending** disaster in their bones. The mayor ignored the warnings of **impending** floods, insisting the dam would hold through anything. By midnight, with water already lapping at doorsteps, the sense of **impending** doom was no longer a feeling — it was a fact. Those who had prepared for the **impending** catastrophe fled to the hills; the rest could only pray.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/5/57/LL-Q1860_%28eng%29-Sapaa-impending.wav"
     }
   },
   {
     "word": "kindle",
     "pronunciation": "ˈkindl",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/kindle-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/kindle-au.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "kindled, kindling",
+    "image": "/data/projects/tainted-grail/images/words/kindle.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2000,7 +1982,6 @@
       "*The preacher's sermon kindled a fire in the crowd that no amount of rain could quench.*",
       "*His kindled gaze betrayed the fury he tried so hard to hide.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Light",
@@ -2035,27 +2016,25 @@
       }
     ],
     "wordHistory": "From Old Norse *kynda* — \"to light, to start a fire.\" It entered English in the 12th–13th century with the Vikings. Related to Old Norse *kindill* (\"torch, candle\") and possibly connected to Latin *candēre* (\"to shine, to glow\" — hence **candle**, **candid**, **incandescent**), though a direct link is debated. What is not debated: **kindle** is unrelated to **kin** (relatives) or **kind** (type/benevolent), despite the surface similarity. The figurative sense \"to kindle a feeling\" appeared as early as the 14th century — a metaphor so natural it emerged almost simultaneously with the literal meaning.",
+    "contextStory": "The old teacher **kindled** something in her that no one else had bothered to try — curiosity. She stayed after class, reading by the fire he had **kindled** in the schoolroom stove, devouring books on astronomy and physics. That spark, once **kindled**, never died. Decades later, standing before a lecture hall at Cambridge, she still remembered the man who **kindled** the flame that lit her entire life.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/kindle.jpg",
-    "contextStory": "The old teacher **kindled** something in her that no one else had bothered to try — curiosity. She stayed after class, reading by the fire he had **kindled** in the schoolroom stove, devouring books on astronomy and physics. That spark, once **kindled**, never died. Decades later, standing before a lecture hall at Cambridge, she still remembered the man who **kindled** the flame that lit her entire life.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/kindle-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/kindle-au.mp3"
     }
   },
   {
     "word": "lucrative",
     "pronunciation": "ˈlo͞okrətiv",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/8/88/LL-Q1860_%28eng%29-Vealhurl-lucrative.wav"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/lucrative.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2069,7 +2048,6 @@
       "*The mercenary took the job — not out of loyalty, but because it was lucrative.*",
       "*What began as a lucrative venture soon became a trap they could not escape.*"
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [
       "*lucrative deal / contract* — a profitable deal",
@@ -2091,26 +2069,25 @@
       }
     ],
     "wordHistory": "From Latin *lucrātīvus* — \"bringing profit,\" from *lucrum* — \"gain, profit.\" The same root appears in **lucre** (gain) and, surprisingly, in German **Lohn** (\"wages, reward\") via Proto-Germanic. Latin *lucrum* goes back to Proto-Indo-European *lau-* — \"booty, spoils.\" Interestingly, **lucrative** itself is neutral-to-positive (profitable), while its relative **lucre** is almost always disapproving (*filthy lucre*). Same family, different attitudes toward money.",
+    "contextStory": "The smuggling route through the mountain pass was incredibly **lucrative** — one shipment could feed a family for a year. Marco knew the trade was dangerous, but nothing else in this dying town was half as **lucrative**. When the authorities finally shut down the pass, the men who had grown rich on this **lucrative** operation found they had no other skills, no savings, nothing. Easy money from a **lucrative** scheme had made them lazy, and now the mountains gave them nothing but silence.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/lucrative.jpg",
-    "contextStory": "The smuggling route through the mountain pass was incredibly **lucrative** — one shipment could feed a family for a year. Marco knew the trade was dangerous, but nothing else in this dying town was half as **lucrative**. When the authorities finally shut down the pass, the men who had grown rich on this **lucrative** operation found they had no other skills, no savings, nothing. Easy money from a **lucrative** scheme had made them lazy, and now the mountains gave them nothing but silence.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/8/88/LL-Q1860_%28eng%29-Vealhurl-lucrative.wav"
     }
   },
   {
     "word": "maudlin",
     "pronunciation": "ˈmôdlən",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/maudlin-uk.mp3"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/maudlin.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2130,7 +2107,6 @@
       "*\"Spare me your maudlin tears,\" she said. \"They won't undo what you've done.\"*",
       "*There was something maudlin about the whole village — a place drowning in its own grief.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Sentimental",
@@ -2160,17 +2136,12 @@
       }
     ],
     "wordHistory": "One of the most unexpected etymologies in English. **Maudlin** is a corrupted pronunciation of the name **Mary Magdalene**. In medieval English and French, her name sounded like *Maudeleyne*, *Maudlyn*. In paintings and sculpture, the Magdalene was traditionally depicted weeping — a penitent sinner with tear-stained eyes. So a saint's name became an adjective for mawkish, performative sentimentality. The journey from icon to drunken tears in a pub is a quintessentially English story.",
+    "contextStory": "By the third bottle, Uncle Victor turned **maudlin**, sobbing about a woman he had not seen in forty years. \"You always get **maudlin** at Christmas,\" his sister snapped, but he was beyond hearing. The children watched in uncomfortable silence as his **maudlin** monologue spiralled into incoherence. Nobody felt sorry for him — there was something repulsive about his **maudlin** self-pity, a grief performed for an audience that never asked for the show.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/maudlin.jpg",
-    "contextStory": "By the third bottle, Uncle Victor turned **maudlin**, sobbing about a woman he had not seen in forty years. \"You always get **maudlin** at Christmas,\" his sister snapped, but he was beyond hearing. The children watched in uncomfortable silence as his **maudlin** monologue spiralled into incoherence. Nobody felt sorry for him — there was something repulsive about his **maudlin** self-pity, a grief performed for an audience that never asked for the show.",
-    "cefrLevel": "C2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/maudlin-uk.mp3"
     }
   },
   {
@@ -2180,7 +2151,9 @@
       "adjective",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "base: **maul**; past tense: **mauled**; present participle: **mauling**; third person: **mauls**",
+    "image": "/data/projects/tainted-grail/images/words/mauled.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2262,9 +2235,7 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/mauled.jpg",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "mill about (around)",
@@ -2272,7 +2243,8 @@
     "partOfSpeech": [
       "phrasal verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/mill about (around).jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2307,15 +2279,13 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "From the verb **mill** — \"to grind\" (at a mill). The metaphor came from observing livestock: animals were driven into a mill yard or pen and would circle aimlessly — like grain being ground by millstones. This image of circular, pointless movement was transferred to people. The expression became established in the 18th–19th century. The same root *mill* appears in **meal** (flour; a meal), Latin *molere* (\"to grind\"), and **molar** (a back tooth — literally \"a millstone in the mouth\").",
+    "contextStory": "Hundreds of displaced families **milled about** the train station, clutching suitcases and children. No trains had come in three days, yet people kept **milling around**, afraid to leave in case one finally arrived. Guards **milled about** too, just as confused as everyone else, their rifles useless against the chaos of waiting. The station had become a world of its own — people **milling about** in slow, purposeless circles, going nowhere.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/mill about (around).jpg",
-    "contextStory": "Hundreds of displaced families **milled about** the train station, clutching suitcases and children. No trains had come in three days, yet people kept **milling around**, afraid to leave in case one finally arrived. Guards **milled about** too, just as confused as everyone else, their rifles useless against the chaos of waiting. The station had become a world of its own — people **milling about** in slow, purposeless circles, going nowhere.",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "mired in",
@@ -2325,7 +2295,8 @@
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/mired in.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2358,7 +2329,6 @@
       "*Mired in guilt and suspicion, the council could agree on nothing.*",
       "*The once-great city had become a mire of plague and lawlessness.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Mired in",
@@ -2386,15 +2356,13 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Old Norse *mýrr* — \"swamp, bog.\" Related to Old English *mōs* (\"swamp, moss\" — hence **moss**) and, via Proto-Germanic *miuzō*, connected to **moor** (a peatland, a heathland). All three words — **mire**, **moss**, **moor** — belong to the same marshy family. The figurative sense \"to become stuck in problems\" appeared in the 14th–15th century — a perfect metaphor: a swamp pulls you in slowly, imperceptibly, and escaping costs enormous effort.",
+    "contextStory": "The company was **mired in** lawsuits, each one spawning two more like a hydra. For years, the founders had been **mired in** debt so deep they had forgotten what solvency felt like. Every attempt to restructure got **mired in** bureaucracy — forms, committees, approvals that led to more forms. They had built something brilliant once, but now they were **mired in** the wreckage of their own success.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/mired in.jpg",
-    "contextStory": "The company was **mired in** lawsuits, each one spawning two more like a hydra. For years, the founders had been **mired in** debt so deep they had forgotten what solvency felt like. Every attempt to restructure got **mired in** bureaucracy — forms, committees, approvals that led to more forms. They had built something brilliant once, but now they were **mired in** the wreckage of their own success.",
-    "cefrLevel": "C2"
+    }
   },
   {
     "word": "munch (on)",
@@ -2402,7 +2370,8 @@
     "partOfSpeech": [
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/munch (on).jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2449,15 +2418,13 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Appeared in Middle English (14th century), probably of onomatopoeic origin — imitating the sound of chewing: *munch-munch*. Compare with French *mâcher* (\"to chew\") — there may be a connection via Old French *manchier*, but the exact etymology is debated. Many linguists believe it is simply onomatopoeia, like **crunch**, **scrunch**, **chomp** — English loves creating \"chewing\" words from combinations of *m-*, *ch-*, *-nch*. The word became even more popular thanks to Edvard Munch — no, that's a joke: the painter's surname is unrelated, and his famous painting *The Scream* is *Skrik* in Norwegian, not *Munch*.",
+    "contextStory": "The detective **munched on** a cold sandwich while studying the crime scene photos — crumbs falling onto evidence bags. His partner found it infuriating: \"How can you **munch** at a time like this?\" But **munching** was how he thought; the steady rhythm of chewing unlocked something in his brain. He **munched on** the last bite, wiped his hands on his coat, and pointed at the photograph. \"There. The window was open from the inside.\"",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/munch (on).jpg",
-    "contextStory": "The detective **munched on** a cold sandwich while studying the crime scene photos — crumbs falling onto evidence bags. His partner found it infuriating: \"How can you **munch** at a time like this?\" But **munching** was how he thought; the steady rhythm of chewing unlocked something in his brain. He **munched on** the last bite, wiped his hands on his coat, and pointed at the photograph. \"There. The window was open from the inside.\"",
-    "cefrLevel": "B2"
+    }
   },
   {
     "word": "ordained",
@@ -2466,7 +2433,9 @@
       "adjective",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "past tense of **ordain**",
+    "image": "/data/projects/tainted-grail/images/words/ordained.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2502,21 +2471,18 @@
       "*He felt that fate had ordained this meeting — it could not be mere chance.*",
       "*The newly ordained priest stood before the congregation, trembling.*"
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "From Old French *ordener*, from Latin *ordināre* — \"to put in order, arrange, appoint,\" from *ordō* (\"order, rank, series\"). In medieval times the word split into two paths: the religious sense (to confer priesthood) and the broader sense (to decree, command by authority). Both carry the idea that something is **set in its proper place** — whether by God, fate, or a ruler.",
+    "contextStory": "His mother had always believed he was **ordained** for greatness — chosen by God before birth. When he was **ordained** as a priest at twenty-three, she wept with joy, convinced that destiny had been fulfilled. But the young **ordained** minister felt no divine fire, only doubt. Perhaps what his mother saw as **ordained** fate was simply her own fierce will, shaping a life that was never asked to be shaped.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/ordained.jpg",
-    "contextStory": "His mother had always believed he was **ordained** for greatness — chosen by God before birth. When he was **ordained** as a priest at twenty-three, she wept with joy, convinced that destiny had been fulfilled. But the young **ordained** minister felt no divine fire, only doubt. Perhaps what his mother saw as **ordained** fate was simply her own fierce will, shaping a life that was never asked to be shaped.",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "penitence",
@@ -2524,7 +2490,8 @@
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/penitence.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2538,7 +2505,6 @@
       "*There was no penitence in his eyes — only defiance.*",
       "*True penitence requires more than words; it demands change.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Penitence",
@@ -2569,15 +2535,13 @@
       }
     ],
     "wordHistory": "From Latin *paenitentia* — \"repentance,\" from *paenitēre* — \"to regret, to repent.\" It is amusing that the **penitentiary** (prison) was originally conceived in the 18th century as a place where criminals were supposed to *repent*, not merely serve time. The Quakers championed the idea that solitary confinement would lead to penitence. The idea did not work, but the name stuck.",
+    "contextStory": "The judge searched the defendant's face for **penitence** and found none — only a cold, calculating stare. \"Show some **penitence**,\" his lawyer had begged before the hearing, but the man did not know how to fake what he did not feel. The victim's family wanted **penitence**; the public wanted punishment. In the end, the court gave him thirty years, hoping that time in a cell might teach the **penitence** that no verdict ever could.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/penitence.jpg",
-    "contextStory": "The judge searched the defendant's face for **penitence** and found none — only a cold, calculating stare. \"Show some **penitence**,\" his lawyer had begged before the hearing, but the man did not know how to fake what he did not feel. The victim's family wanted **penitence**; the public wanted punishment. In the end, the court gave him thirty years, hoping that time in a cell might teach the **penitence** that no verdict ever could.",
-    "cefrLevel": "C2"
+    }
   },
   {
     "word": "precarious",
@@ -2585,7 +2549,8 @@
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/precarious.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2605,7 +2570,6 @@
       "*Their alliance was precarious at best, held together only by a common enemy.*",
       "*She clung to the precarious ledge, her fingers whitening with effort.*"
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
@@ -2622,23 +2586,25 @@
       }
     ],
     "wordHistory": "From Latin *precārius* — \"obtained by entreaty, granted as a favor,\" from *precārī* — \"to ask, to pray\" (hence also **prayer**). The original meaning: something given to you upon request can also be taken away — so it is unreliable. Thus \"granted as a favor\" evolved into \"precarious, unstable.\" A beautiful evolution: from prayer to peril.",
+    "contextStory": "The rope bridge swayed in the wind, each step more **precarious** than the last. Elena gripped the fraying cables and forced herself not to look down at the river churning two hundred feet below. Her **precarious** balance was shattered when a plank snapped beneath her boot — she lunged forward, catching the next rope just in time. On the other side, the villagers watched in silence, knowing that their own survival was just as **precarious**: one more flood, one more failed harvest, and everything would collapse.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/precarious.jpg",
-    "contextStory": "The rope bridge swayed in the wind, each step more **precarious** than the last. Elena gripped the fraying cables and forced herself not to look down at the river churning two hundred feet below. Her **precarious** balance was shattered when a plank snapped beneath her boot — she lunged forward, catching the next rope just in time. On the other side, the villagers watched in silence, knowing that their own survival was just as **precarious**: one more flood, one more failed harvest, and everything would collapse.",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "putrid",
     "pronunciation": "ˈpjuːtrɪd",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/putrid-uk.mp3"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/putrid.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2714,11 +2680,6 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/putrid.jpg",
-    "cefrLevel": "C2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/putrid-uk.mp3"
     }
   },
   {
@@ -2727,7 +2688,9 @@
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C2",
     "forms": "rends; past tense and past participle: **rent**",
+    "image": "/data/projects/tainted-grail/images/words/rend.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2786,15 +2749,13 @@
     ],
     "relatedForms": [],
     "wordHistory": "Old English *rendan* — \"to tear, to rend.\" Proto-Germanic *randijaną*. Related to West Frisian *renne* (\"to cut\"). The word is purely Germanic, with no Latin connections. Interestingly, the past tense **rent** coincides with a completely different word **rent** (lease payment) — that one comes from Old French *rente*, from Latin *reddita* (\"returned, given back\"). The two **rent** forms are impostor homonyms with nothing in common but their sound. English is full of such traps.",
+    "contextStory": "The dragon's claws **rent** the knight's shield as if it were parchment, sending shards of iron spinning through the smoke. A second blow **rent** his breastplate open from shoulder to hip, and blood bloomed across the steel. The knight staggered but did not fall. \"You can **rend** my armor,\" he gasped, raising his broken sword, \"but you will not **rend** my will.\" The dragon hesitated — it had never seen prey refuse to die.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/rend.jpg",
-    "contextStory": "The dragon's claws **rent** the knight's shield as if it were parchment, sending shards of iron spinning through the smoke. A second blow **rent** his breastplate open from shoulder to hip, and blood bloomed across the steel. The knight staggered but did not fall. \"You can **rend** my armor,\" he gasped, raising his broken sword, \"but you will not **rend** my will.\" The dragon hesitated — it had never seen prey refuse to die.",
-    "cefrLevel": "C2"
+    }
   },
   {
     "word": "runt",
@@ -2802,7 +2763,8 @@
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/runt.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2828,23 +2790,28 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Origin unclear. It appeared in the 16th century meaning \"an old or stunted animal\" (originally a scrawny bull). Possibly related to Dutch *runt* (\"cow\") or Middle High German *runze* (\"runt\"). By the 17th century, the meaning narrowed to \"the smallest young one in a litter,\" and from there transferred to people. Interestingly, the word originally described not young animals but, on the contrary, old and decrepit ones. The sense of \"small and weak\" completely displaced the original.",
+    "contextStory": "They called him the **runt** of the litter — the smallest boy in a family of warriors, too scrawny to lift his father's sword. His brothers laughed when the **runt** announced he would enter the tournament. But on the final day, it was the **runt** who stood last in the arena, bloodied and grinning, while champions twice his size lay groaning in the dust. \"Size,\" he told the stunned crowd, \"is just the story other people tell about you.\"",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/runt.jpg",
-    "contextStory": "They called him the **runt** of the litter — the smallest boy in a family of warriors, too scrawny to lift his father's sword. His brothers laughed when the **runt** announced he would enter the tournament. But on the final day, it was the **runt** who stood last in the arena, bloodied and grinning, while champions twice his size lay groaning in the dust. \"Size,\" he told the stunned crowd, \"is just the story other people tell about you.\"",
-    "cefrLevel": "C2"
+    }
   },
   {
     "word": "ruse",
     "pronunciation": "ro͞oz",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-uk.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-au.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
+    "cefrLevel": "C2",
     "forms": "plural: **ruses**",
+    "image": "/data/projects/tainted-grail/images/words/ruse.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2897,13 +2864,6 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/ruse.jpg",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-uk.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-au.mp3"
     }
   },
   {
@@ -2912,7 +2872,9 @@
     "partOfSpeech": [
       "verb phrase"
     ],
+    "cefrLevel": "C1",
     "forms": "present simple: **skirts the edges**; past simple: **skirted the edges**; present participle: **skirting the edges**; past participle: **skirted the edges**",
+    "image": "/data/projects/tainted-grail/images/words/skirt the edges.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2981,18 +2943,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/skirt the edges.jpg",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "slingshot",
     "pronunciation": "ˈsliNGˌSHät",
+    "audio": {
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/slingshot-au.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/slingshot.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3024,7 +2988,6 @@
       "*The wagon slingshot over the hill and crashed into the mud below.*",
       "*He fashioned a crude slingshot from a forked branch and a strip of leather.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Sling",
@@ -3039,27 +3002,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "A compound word: **sling** (a sling; to hurl) + **shot** (a shot). *Sling* comes from Old Norse *slyngva* (\"to hurl\"). As a Y-shaped catapult, the word appeared in 19th-century America. The space meaning (*slingshot maneuver*) dates from the 1960s, when NASA began using planetary gravity to accelerate probes.",
+    "contextStory": "Marcus carved his first **slingshot** from a forked oak branch when he was seven, and by ten he could knock a pinecone off a fence at forty paces. When the raiders came to the village, the men grabbed swords and spears — but it was Marcus and his **slingshot** that dropped the enemy scout before he could signal the others. The stone struck true, and the boy stood shaking in the aftermath. He never looked at his **slingshot** the same way again: it was no longer a toy.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/slingshot.jpg",
-    "contextStory": "Marcus carved his first **slingshot** from a forked oak branch when he was seven, and by ten he could knock a pinecone off a fence at forty paces. When the raiders came to the village, the men grabbed swords and spears — but it was Marcus and his **slingshot** that dropped the enemy scout before he could signal the others. The stone struck true, and the boy stood shaking in the aftermath. He never looked at his **slingshot** the same way again: it was no longer a toy.",
-    "cefrLevel": "B2",
-    "audio": {
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/slingshot-au.mp3"
     }
   },
   {
     "word": "staunch",
     "pronunciation": "stôn(t)SH",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/staunch-uk.mp3"
+    },
     "partOfSpeech": [
       "adjective",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/staunch.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3080,7 +3042,6 @@
       "*\"I need staunch men,\" the commander said. \"Not heroes — men who will hold the line.\"*",
       "*Even his staunchest supporters began to doubt him after the massacre.*"
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [
       "*staunch ally / supporter / defender* — a steadfast ally / supporter / defender",
@@ -3091,17 +3052,12 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "From Old French *estancher* — \"to stop a leak, to stanch,\" from Vulgar Latin *stanticāre*, from Latin *stāre* — \"to stand.\" The literal idea: to make something **stand** (stop), to cease flowing. The same root *stāre* is an enormous family:\n• **stand** — to stand (Germanic cognate)\n• **station** — a station (a place where one stands)\n• **stable** — stable; a stable (a place where horses stand)\n• **stagnant** — stagnant (standing still)\n• **stamina** — stamina (literally \"the threads of fate on which everything stands\")\n• **constant** — constant (*con-* + *stāre* — \"to stand together/firmly\")\n• **obstinate** — obstinate (*ob-* + *stāre* — \"to stand against\")\nA beautiful duality: one word means both \"loyal, unbending\" (one who stands firm) and \"stopping blood\" (that which makes it stand/stop). Both senses are about **standing firm**.",
+    "contextStory": "When the conspiracy was exposed, every ally fled — except Lord Aldric, the king's most **staunch** supporter. He stood before the tribunal and spoke without flinching, his **staunch** loyalty unshaken even as the mob howled for blood. Later, in the dungeon, the king wept quietly. \"I had a hundred friends in the sunlight,\" he whispered. \"Only one proved **staunch** in the dark.\" Aldric said nothing. He simply sat beside his king and waited for dawn.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/staunch.jpg",
-    "contextStory": "When the conspiracy was exposed, every ally fled — except Lord Aldric, the king's most **staunch** supporter. He stood before the tribunal and spoke without flinching, his **staunch** loyalty unshaken even as the mob howled for blood. Later, in the dungeon, the king wept quietly. \"I had a hundred friends in the sunlight,\" he whispered. \"Only one proved **staunch** in the dark.\" Aldric said nothing. He simply sat beside his king and waited for dawn.",
-    "cefrLevel": "C1",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/staunch-uk.mp3"
     }
   },
   {
@@ -3110,7 +3066,8 @@
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/susceptible.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3186,18 +3143,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/susceptible.jpg",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "tether",
     "pronunciation": "ˈteT͟Hər",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/tether-us.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "tethers, tethered, tethering",
+    "image": "/data/projects/tainted-grail/images/words/tether.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3218,7 +3178,6 @@
       "*His sanity was tethered by the thinnest of threads.*",
       "*They tethered the mules and made camp beneath the ruins.*"
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Tether",
@@ -3246,27 +3205,26 @@
     ],
     "relatedForms": [],
     "wordHistory": "From Old Norse *tjóðr* — \"a tether for livestock.\" Related to Old High German *zeotar* (\"shaft, pole\") and going back to Proto-Germanic *teudran*. Possibly a distant relative of the Proto-Indo-European root *deu-* — \"to pull, to drag.\" The word entered English with the Vikings (as did **kindle**, **sky**, **skull**, **anger**, **wrong** — the Scandinavian heritage in English is enormous). The idiom *at the end of one's tether* is attested from the 17th century — a rural image understandable to anyone who has seen a goat on a rope, straining at its limit.",
+    "contextStory": "The astronaut drifted outside the station, connected only by a thin **tether** that coiled in the void like a silver thread. When the micrometeorite struck, the **tether** snapped — and suddenly there was nothing between her and infinity. She tumbled in silence, watching the station shrink. Inside, her crewmate scrambled to fire the rescue drone, hands trembling. \"Hold on,\" he whispered to no one. But there was nothing to hold on to: every **tether** — physical, emotional, gravitational — was gone.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/tether.jpg",
-    "contextStory": "The astronaut drifted outside the station, connected only by a thin **tether** that coiled in the void like a silver thread. When the micrometeorite struck, the **tether** snapped — and suddenly there was nothing between her and infinity. She tumbled in silence, watching the station shrink. Inside, her crewmate scrambled to fire the rescue drone, hands trembling. \"Hold on,\" he whispered to no one. But there was nothing to hold on to: every **tether** — physical, emotional, gravitational — was gone.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/tether-us.mp3"
     }
   },
   {
     "word": "trifled with",
     "pronunciation": "ˈtraɪfəld wɪð",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/trifle-us.mp3"
+    },
     "partOfSpeech": [
       "phrasal verb"
     ],
-    "forms": "trifles with, trifled with, trifling with",
     "cefrLevel": "C1",
+    "forms": "trifles with, trifled with, trifling with",
+    "image": "/data/projects/tainted-grail/images/words/trifled with.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3346,19 +3304,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-22"
-    },
-    "image": "/data/projects/tainted-grail/images/words/trifled with.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/trifle-us.mp3"
     }
   },
   {
     "word": "vanquish",
     "pronunciation": "ˈvaNGkwiSH",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/vanquish-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C2",
     "forms": "vanquished",
+    "image": "/data/projects/tainted-grail/images/words/vanquish.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3402,27 +3361,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "From Old French *veinquir* (modern *vaincre*), from Latin *vincere* — \"to conquer.\" The root *vincere* is one of the most prolific in Latin. Its relatives include:\n• **invincible** — unconquerable (*in-* \"not\" + *vincere*)\n• **convince** — to convince (literally \"to conquer completely\" with arguments: *con-* + *vincere*)\n• **convict** — to convict; a convict (literally \"conquered\" in court)\n• **evict** — to evict (literally \"to conquer out, to expel\")\n• **victor** — a victor\n• **Vincent** — a name, literally \"conquering\"\n• **province** — a province (from *pro-vincere* — \"a conquered [land],\" territory subdued by Rome)\nJulius Caesar's phrase *vēnī, vīdī, vīcī* (\"I came, I saw, I conquered\") uses the same root. And **vanquish** acquired its inserted *qu* under the influence of French spelling and, possibly, by analogy with **languish**.",
+    "contextStory": "She had **vanquished** every opponent in the arena — swordsmen, spearwielders, even a mounted knight — and the crowd roared her name like a prayer. But the one enemy she could not **vanquish** waited at home: the silence of an empty house, the chair where her daughter used to sit. Victory after victory, and yet the grief remained undefeated. \"You can **vanquish** armies,\" the old healer told her gently, \"but sorrow is not a foe you fight. It is a tide you learn to breathe through.\"",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/vanquish.jpg",
-    "contextStory": "She had **vanquished** every opponent in the arena — swordsmen, spearwielders, even a mounted knight — and the crowd roared her name like a prayer. But the one enemy she could not **vanquish** waited at home: the silence of an empty house, the chair where her daughter used to sit. Victory after victory, and yet the grief remained undefeated. \"You can **vanquish** armies,\" the old healer told her gently, \"but sorrow is not a foe you fight. It is a tide you learn to breathe through.\"",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/vanquish-us.mp3"
     }
   },
   {
     "word": "venture",
     "pronunciation": "ˈven(t)SHər",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/venture-us.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/venture.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3461,7 +3419,6 @@
       "*They ventured deeper into the forest, though every instinct screamed to turn back.*",
       "*He ventured an opinion and immediately regretted it.*"
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [
       "*business venture / joint venture* — a business / joint venture",
@@ -3493,17 +3450,12 @@
       }
     ],
     "wordHistory": "A shortened form of **adventure**, which came from Old French *aventure*, from Latin *adventūra* — \"that which is about to happen,\" from *advenīre* — \"to come, to occur\" (*ad-* \"to\" + *venīre* \"to come\"). The same root *venīre* appears in **advent** (arrival), **avenue** (literally \"a way by which one comes\"), **convene** (to assemble), and **revenue** (income — literally \"that which comes back\"). **Venture** lost the prefix *ad-* in the 15th century and became an independent word with an emphasis on risk and enterprise. And **venture capital** is a 20th-century term, but the idea is the same: you stake money on something that may or may not come through.",
+    "contextStory": "The merchant's first **venture** — a cargo of spices shipped across the Narrow Sea — sank in a storm, taking every coin he had. His second **venture**, a partnership with a Northland fur trader, barely broke even. But he refused to stop. On his third **venture**, he loaded a ship with something no one else dared to carry: books. They sold for ten times their weight in silver. \"Every **venture** teaches you,\" he told his son. \"The ones that fail teach you the most.\"",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/venture.jpg",
-    "contextStory": "The merchant's first **venture** — a cargo of spices shipped across the Narrow Sea — sank in a storm, taking every coin he had. His second **venture**, a partnership with a Northland fur trader, barely broke even. But he refused to stop. On his third **venture**, he loaded a ship with something no one else dared to carry: books. They sold for ten times their weight in silver. \"Every **venture** teaches you,\" he told his son. \"The ones that fail teach you the most.\"",
-    "cefrLevel": "B2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/venture-us.mp3"
     }
   },
   {
@@ -3513,6 +3465,7 @@
       "noun"
     ],
     "forms": "singular: **vestige**",
+    "image": "/data/projects/tainted-grail/images/words/vestiges.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3581,8 +3534,7 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/vestiges.jpg"
+    }
   },
   {
     "word": "vibecoding",
@@ -3591,8 +3543,9 @@
       "noun",
       "verb"
     ],
-    "forms": "verb: **vibecodes**, **vibecoded**, **vibecoding**",
     "cefrLevel": "C1",
+    "forms": "verb: **vibecodes**, **vibecoded**, **vibecoding**",
+    "image": "/data/projects/tainted-grail/images/words/vibecoding.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3667,8 +3620,7 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-27"
-    },
-    "image": "/data/projects/tainted-grail/images/words/vibecoding.jpg"
+    }
   },
   {
     "word": "weasel out",
@@ -3676,7 +3628,9 @@
     "partOfSpeech": [
       "phrasal verb"
     ],
+    "cefrLevel": "C1",
     "forms": "past simple: **weaseled out**; past participle: **weaseled out**; present participle: **weaseling out**; third person: **weasels out**",
+    "image": "/data/projects/tainted-grail/images/words/weasel out.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3740,18 +3694,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/weasel out.jpg",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "wench",
     "pronunciation": "wen(t)SH",
+    "audio": {
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/wench-au.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/wench.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3796,27 +3752,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Middle English *wenchel*, a shortened form of Old English *wencel* — \"child\" (with no gender specificity!). Related to *wancol* — \"unsteady, wobbly\" (describing a child learning to walk). By the 13th century, the meaning narrowed to \"girl, young woman,\" then to \"servant girl,\" and by the 15th–16th century it acquired the overtone of \"a woman of loose morals.\" A typical case of semantic degradation: a neutral word gradually \"sinks\" in meaning. The same path was followed by **hussy** (from *housewife* — \"homemaker\" to \"a loose woman\") and **villain** (from *villein* — \"peasant\" to \"evildoer\").",
+    "contextStory": "The duke swaggered into the tavern and snapped his fingers. \"**Wench**\\! Bring wine for the table.\" The woman behind the bar didn't move. \"The name is Marta,\" she said coldly. \"And the last man who called me **wench** left this tavern without his front teeth.\" The duke's guards reached for their swords, but Marta's regulars — dockworkers, blacksmiths, retired soldiers — rose from their benches as one. The duke reconsidered. No **wench** she — this was a woman who owned every room she entered.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/wench.jpg",
-    "contextStory": "The duke swaggered into the tavern and snapped his fingers. \"**Wench**\\! Bring wine for the table.\" The woman behind the bar didn't move. \"The name is Marta,\" she said coldly. \"And the last man who called me **wench** left this tavern without his front teeth.\" The duke's guards reached for their swords, but Marta's regulars — dockworkers, blacksmiths, retired soldiers — rose from their benches as one. The duke reconsidered. No **wench** she — this was a woman who owned every room she entered.",
-    "cefrLevel": "C2",
-    "audio": {
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/wench-au.mp3"
     }
   },
   {
     "word": "whelp",
     "pronunciation": "welp",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/whelp-1-uk.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/whelp.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3861,26 +3816,25 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Old English *hwelp* — \"a dog's puppy.\" Related to Old Norse *hvelpr*, Dutch *welp*, German *Welpe*. All go back to Proto-Germanic *hwelpaz*. The word is ancient and natively Germanic — no Latin involved. The derogatory meaning (\"puppy\" applied to a person) appeared in the Middle English period and became firmly established in literary language — from Shakespeare to modern fantasy.",
+    "contextStory": "\"You dare challenge me, **whelp**?\" the warlord snarled, drawing a blade as long as the boy was tall. The **whelp** — fifteen, sunburned, shaking — raised his father's rusted sword and said nothing. The crowd expected slaughter. Instead, the boy moved like water: ducking, spinning, striking once beneath the warlord's guard. The giant crumpled. Silence. Then the crowd erupted. The **whelp** stood over the fallen legend, tears streaming down his face, and whispered, \"That was for my village.\"",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/whelp.jpg",
-    "contextStory": "\"You dare challenge me, **whelp**?\" the warlord snarled, drawing a blade as long as the boy was tall. The **whelp** — fifteen, sunburned, shaking — raised his father's rusted sword and said nothing. The crowd expected slaughter. Instead, the boy moved like water: ducking, spinning, striking once beneath the warlord's guard. The giant crumpled. Silence. Then the crowd erupted. The **whelp** stood over the fallen legend, tears streaming down his face, and whispered, \"That was for my village.\"",
-    "cefrLevel": "C2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/whelp-1-uk.mp3"
     }
   },
   {
     "word": "yew",
     "pronunciation": "yo͞o",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/6/6c/En-us-you.ogg"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/yew.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3902,32 +3856,31 @@
       "*He carved the staff from yew — hard enough to block a blade, light enough to carry all day.*",
       "*A single yew grew in the centre of the graveyard, its roots reaching into the dead below.*"
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Old English *īw*, *ēow* — \"yew.\" Related to Old Irish *ēo*, Welsh *ywen*, German *Eibe*, Old Norse *ýr*. All go back to Proto-Germanic *īhwaz* — which is also the name of the rune **ᛇ** (Eihwaz) in the Elder Futhark, symbolizing the yew tree, death, and transformation. The Proto-Indo-European root *h₁eyHw-* is possibly connected to the concept of \"evergreen\" or \"long-lived.\" The Latin name for the yew, *taxus*, comes from a different root and gave us the word **toxic** (poisonous): the Greek *toxikon* meant \"arrow poison,\" from *toxon* (\"bow\") — and the finest bows were made precisely from yew. Thus the yew gave its name to both poison and weaponry.",
+    "contextStory": "The bowyer ran his hand along the **yew** stave, feeling for imperfections in the grain. \"This **yew** is three hundred years old,\" he murmured. \"It grew in a churchyard, fed by the dead.\" He bent the wood slowly, testing its spring — perfect elasticity, the kind only **yew** could give. By morning, the stave would be a longbow capable of punching through plate armor at two hundred yards. The tree had spent centuries growing in silence among graves. Now it would send men to join them.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/yew.jpg",
-    "contextStory": "The bowyer ran his hand along the **yew** stave, feeling for imperfections in the grain. \"This **yew** is three hundred years old,\" he murmured. \"It grew in a churchyard, fed by the dead.\" He bent the wood slowly, testing its spring — perfect elasticity, the kind only **yew** could give. By morning, the stave would be a longbow capable of punching through plate armor at two hundred yards. The tree had spent centuries growing in silence among graves. Now it would send men to join them.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/6/6c/En-us-you.ogg"
     }
   },
   {
     "word": "zealous",
     "pronunciation": "ˈzeləs",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-au.mp3"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/zealous.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4004,17 +3957,11 @@
       }
     ],
     "wordHistory": "From Late Latin *zēlōsus* — \"jealous, zealous,\" from Latin *zēlus* — \"zeal, jealousy,\" borrowed from Greek *ζῆλος* (*zēlos*) — \"ardor, jealousy, rivalry.\" The Greek word traces back to Proto-Indo-European *yeh₁-* — \"to seek, to strive.\" Notably, *zeal* and *jealousy* are etymological siblings: both descend from Greek *zēlos*, but *jealousy* arrived through Old French *jalousie*. The Zealots were a radical Jewish sect of the 1st century CE who fought against Roman rule. It is from them that **zealot** acquired its connotation of fanaticism — a shade of meaning that partially carried over to **zealous** as well.",
-    "cefrLevel": "C1",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/zealous.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-au.mp3"
     }
   }
 ]

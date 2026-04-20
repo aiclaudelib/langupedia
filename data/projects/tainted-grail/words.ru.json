@@ -2,10 +2,17 @@
   {
     "word": "abhor",
     "pronunciation": "əbˈhôr",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-uk.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-au.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C2",
     "forms": "abhors, abhorred, abhorring",
+    "image": "/data/projects/tainted-grail/images/words/abhor.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -21,7 +28,6 @@
       "*She abhorred lying, yet here she was, weaving a web of deceit to survive.* — Она ненавидела ложь, и всё же вот она — плетёт паутину обмана, чтобы выжить.",
       "*\"I abhor what you have become,\" the old mage whispered to his former apprentice.* — «Меня отвращает то, чем ты стал», — прошептал старый маг своему бывшему ученику."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Hate",
@@ -64,28 +70,25 @@
       }
     ],
     "wordHistory": "От латинского *abhorrēre* — \"отшатнуться в ужасе\", от *ab-* (\"от, прочь\") + *horrēre* (\"содрогнуться, ощетиниться\"). Буквально: волосы встают дыбом, и ты отпрядываешь. Тот же корень *horrēre* — в словах **horror** (ужас), **horrible** (ужасный), **horrid** (отвратительный) и **horrify** (ужаснуть). Все они про одну и ту же физическую реакцию: дрожь, мурашки, вздыбленные волосы. **Abhor** добавляет движение прочь — не просто содрогнуться, а отпрянуть с отвращением.",
+    "contextStory": "Старый библиотекарь **abhorred** шум — не просто не любила его, а физически отшатывалась, будто сам звук был ядом. Когда городской совет предложил превратить половину её библиотеки в игровой зал, она встала перед ними, дрожа от тихой ярости. «I **abhor** this plan», — сказала она голосом едва громче шёпота, но настолько острым, что зал мгновенно замолк. Советники заёрзали на стульях — они ждали криков, а не этого белоснежного достоинства. Она вернулась в библиотеку тем вечером, села среди любимых полок и написала письмо столь сокрушительное по силе, что проект похоронили за неделю — ведь nature **abhors** a vacuum, и она заполнила каждый сантиметр этой дискуссии непоколебимой убеждённостью.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/abhor.jpg",
-    "contextStory": "Старый библиотекарь **abhorred** шум — не просто не любила его, а физически отшатывалась, будто сам звук был ядом. Когда городской совет предложил превратить половину её библиотеки в игровой зал, она встала перед ними, дрожа от тихой ярости. «I **abhor** this plan», — сказала она голосом едва громче шёпота, но настолько острым, что зал мгновенно замолк. Советники заёрзали на стульях — они ждали криков, а не этого белоснежного достоинства. Она вернулась в библиотеку тем вечером, села среди любимых полок и написала письмо столь сокрушительное по силе, что проект похоронили за неделю — ведь nature **abhors** a vacuum, и она заполнила каждый сантиметр этой дискуссии непоколебимой убеждённостью.",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-uk.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/abhor-au.mp3"
     }
   },
   {
     "word": "absolution",
     "pronunciation": "ˌabsəˈlo͞oSH(ə)n",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/d/d6/LL-Q1860_%28eng%29-Vealhurl-absolution.wav"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/absolution.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -140,27 +143,27 @@
       }
     ],
     "wordHistory": "От латинского *absolūtiō* — \"завершение, освобождение\", от *absolvere* — \"отвязать, освободить\" (*ab-* \"от\" + *solvere* \"развязывать, растворять\"). Буквально: **развязать от** вины, снять путы греха. Тот же корень *solvere* — огромное семейство:\n• **solve** — решить (буквально \"развязать\" задачу)\n• **dissolve** — растворить (развязать связи)\n• **resolve** — решиться; разрешить (развязать заново)\n• **solution** — раствор; решение\n• **absolute** — абсолютный (буквально \"полностью развязанный\" — свободный от ограничений)\n• **solvent** — растворитель; платёжеспособный (способный \"развязать\" долги)\nИ вот парадокс: **absolute** и **absolution** — родные братья. Абсолютная власть — власть, развязанная от всех ограничений. Отпущение грехов — душа, развязанная от вины. Одно и то же действие: **снять узы**.",
+    "contextStory": "Старый рыцарь вполз в часовню, его доспехи были в чужой крови. Он сжёг деревню по приказу короля, и теперь искал **absolution** у того самого бога, чьих детей он уничтожил. Священник посмотрел на него пустыми глазами и прошептал: «**Absolution** — не в моей власти, оно принадлежит мёртвым». Рыцарь зарыдал, понимая наконец, что ни молитва, ни покаяние не дадут ему **absolution** за содеянное. Некоторые грехи развязываются только в могиле.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/absolution.jpg",
-    "contextStory": "Старый рыцарь вполз в часовню, его доспехи были в чужой крови. Он сжёг деревню по приказу короля, и теперь искал **absolution** у того самого бога, чьих детей он уничтожил. Священник посмотрел на него пустыми глазами и прошептал: «**Absolution** — не в моей власти, оно принадлежит мёртвым». Рыцарь зарыдал, понимая наконец, что ни молитва, ни покаяние не дадут ему **absolution** за содеянное. Некоторые грехи развязываются только в могиле.",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/d/d6/LL-Q1860_%28eng%29-Vealhurl-absolution.wav"
     }
   },
   {
     "word": "afflicted",
     "pronunciation": "əˈflɪktɪd",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LL-Q1860_%28eng%29-Vealhurl-afflicted.wav"
+    },
     "partOfSpeech": [
       "adjective",
       "verb"
     ],
+    "cefrLevel": "B2",
     "forms": "base verb: **afflict**; past tense: **afflicted**; present participle: **afflicting**; 3rd person singular: **afflicts**",
+    "image": "/data/projects/tainted-grail/images/words/afflicted.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -224,25 +227,25 @@
     ],
     "wordHistory": "От латинского *afflīctus* — причастие прошедшего времени от *afflīgere* (\"ударять, бросать на землю\"), где *ad-* (\"к\") + *flīgere* (\"бить, ударять\"). Буквальный смысл — \"сбитый ударом, повергнутый\". В средневековую латынь и старофранцузский (*aflit*) слово пришло уже с расширенным значением \"поражённый бедой\". В английский проникло в XIV веке через старофранцузский. Библейские переводы (особенно King James Bible, 1611) закрепили за словом ореол торжественного, почти священного страдания: *\"The Lord shall smite thee with madness… and thou shalt be afflicted\"*.",
     "contextStory": "Целитель шёл по лагерю, где лежали **afflicted** — десятки людей с почерневшими венами и мутными глазами. «Эта болезнь **afflicted** три деревни за одну неделю», — сказал его проводник, стараясь не дышать. Целитель опустился на колени рядом с девочкой, чьё лицо горело лихорадкой. Он знал это проклятие — оно **afflicted** его самого двадцать лет назад, оставив шрамы на руках и пустоту в груди. Но он выжил. И теперь он знал, как спасти остальных.",
-    "cefrLevel": "B2",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/afflicted.jpg",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/6/6d/LL-Q1860_%28eng%29-Vealhurl-afflicted.wav"
     }
   },
   {
     "word": "bathed",
     "pronunciation": "bāT͟Hd",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/bathed-1-uk.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "B2",
     "forms": "past tense of **bathe**",
+    "image": "/data/projects/tainted-grail/images/words/bathed.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -276,27 +279,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Old English *baþian* — \"to wash, immerse in water.\" Родственно немецкому *baden* и восходит к протогерманскому *baþōną*. Переносное значение \"омывать светом\" (*bathed in light*) появилось в XVI–XVII веке — метафора: свет обволакивает, как тёплая вода.",
+    "contextStory": "Заброшенный храм был **bathed** в бледном лунном свете, его обветшалые колонны отбрасывали длинные тени на каменный пол. Она вошла внутрь и увидела алтарь, **bathed** в чём-то ином — тёплом, пульсирующем сиянии без видимого источника. Оно казалось живым, священным, словно сам воздух **bathed** руины в забытой магии. Она опустилась на колени, и впервые за долгие годы тяжесть в груди растворилась.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/bathed.jpg",
-    "contextStory": "Заброшенный храм был **bathed** в бледном лунном свете, его обветшалые колонны отбрасывали длинные тени на каменный пол. Она вошла внутрь и увидела алтарь, **bathed** в чём-то ином — тёплом, пульсирующем сиянии без видимого источника. Оно казалось живым, священным, словно сам воздух **bathed** руины в забытой магии. Она опустилась на колени, и впервые за долгие годы тяжесть в груди растворилась.",
-    "cefrLevel": "B2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/bathed-1-uk.mp3"
     }
   },
   {
     "word": "beastly",
     "pronunciation": "ˈbiːstli",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/beastly-us.mp3"
+    },
     "partOfSpeech": [
       "adjective",
       "adverb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/beastly.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -371,20 +373,19 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/beastly.jpg",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/beastly-us.mp3"
     }
   },
   {
     "word": "behest",
     "pronunciation": "bəˈhest",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/behest-uk.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/behest.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -422,26 +423,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Древнеанглийское *behǣs* — \"обещание, обет, приказ\", от *be-* + *hǣs* (\"приказание\"), от глагола *hātan* — \"приказывать, обещать, называть\". Этот глагол *hātan* — один из древнейших в германских языках. Родственно:\n• древнескандинавскому *heita* (\"называть, обещать\") — отсюда исландское *heita*\n• готскому *haitan* (\"называть, звать\")\n• немецкому *heißen* (\"называться, зваться\": *ich heiße...* — \"меня зовут...\")\nИнтересная деталь: в древнеанглийском *hātan* одновременно значило и \"приказывать\", и \"обещать\", и \"называть по имени\". Связь между этими значениями глубокая: назвать что-то — значит определить его; приказать — значит назвать то, что должно быть; пообещать — значит назвать то, что будет. **Behest** сохранил именно \"приказную\" ветку, а немецкое *heißen* — \"именную\".",
+    "contextStory": "Генерал повёл армию в долину at the **behest** of короля, который сидел в безопасности за крепостными стенами. Три тысячи солдат погибли в тот день — все at the **behest** of человека, который никогда не держал меча. Когда генерал вернулся, сломленный и опустошённый, он поклялся, что больше никогда не будет действовать at the **behest** of кого бы то ни было. Пусть корона ищет себе нового пса для послушания.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/behest.jpg",
-    "contextStory": "Генерал повёл армию в долину at the **behest** of короля, который сидел в безопасности за крепостными стенами. Три тысячи солдат погибли в тот день — все at the **behest** of человека, который никогда не держал меча. Когда генерал вернулся, сломленный и опустошённый, он поклялся, что больше никогда не будет действовать at the **behest** of кого бы то ни было. Пусть корона ищет себе нового пса для послушания.",
-    "cefrLevel": "C2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/behest-uk.mp3"
     }
   },
   {
     "word": "bestow",
     "pronunciation": "bəˈstō",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/8/86/LL-Q1860_%28eng%29-Vealhurl-bestow.wav"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "bestows, bestowed, bestowing",
+    "image": "/data/projects/tainted-grail/images/words/bestow.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -491,27 +492,26 @@
       }
     ],
     "wordHistory": "Среднеанглийское *bistowen* — от *be-* (усилительный префикс) + *stow* (\"поместить, уложить\"). **Stow** — от древнеанглийского *stōw* (\"место\") — отсюда же **stowaway** (безбилетный пассажир — буквально \"спрятавшийся в месте [хранения]\"). Изначальное значение **bestow** — \"поместить что-то в надлежащее место\" (отсюда архаичное \"хранить груз\"). Семантический переход: поместить вещь туда, где ей подобает быть → вручить дар тому, кто его достоин. Идея \"надлежащего места\" превратилась в идею \"заслуженного получателя\". Что, собственно, и отличает bestow от простого give: bestow подразумевает, что дар обретает *своё место*.",
+    "contextStory": "Богиня спустилась с горы и решила **bestow** свой дар самому маленькому ребёнку в деревне — не воину, не старейшине. «Я **bestow** это пламя тебе», — сказала она, вложив искру света в ладони девочки. Старейшины возмутились: зачем **bestow** такую силу кому-то столь юному? Но богиня лишь улыбнулась. Она знала, что величайшие дары нужно вкладывать туда, где они будут расти, а не ржаветь.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/bestow.jpg",
-    "contextStory": "Богиня спустилась с горы и решила **bestow** свой дар самому маленькому ребёнку в деревне — не воину, не старейшине. «Я **bestow** это пламя тебе», — сказала она, вложив искру света в ладони девочки. Старейшины возмутились: зачем **bestow** такую силу кому-то столь юному? Но богиня лишь улыбнулась. Она знала, что величайшие дары нужно вкладывать туда, где они будут расти, а не ржаветь.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/8/86/LL-Q1860_%28eng%29-Vealhurl-bestow.wav"
     }
   },
   {
     "word": "brittle",
     "pronunciation": "ˈbritl",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/brittle-us.mp3"
+    },
     "partOfSpeech": [
       "adjective",
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/brittle.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -537,7 +537,6 @@
       "*Their friendship had grown brittle over the years — one wrong word, and it would snap.* — Их дружба с годами стала хрупкой — одно неверное слово, и она бы разбилась.",
       "*He wore a brittle mask of confidence, but fear was eating him alive.* — Он носил хрупкую маску уверенности, но страх пожирал его изнутри."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Brittle",
@@ -567,27 +566,27 @@
       }
     ],
     "wordHistory": "Среднеанглийское *britel*, от древнеанглийского корня *brēotan* — \"ломать, разбивать\". Родственно **breach** и **break** (хотя этимологические пути разошлись давно). Протогерманское *brutōną* — \"ломать\". Переносное значение (\"хрупкий характер\", \"натянутая улыбка\") появилось в XIX веке — метафора точная: человек, который кажется твёрдым, но может рассыпаться от одного удара.",
+    "contextStory": "После похорон она держалась с **brittle** самообладанием, которое все принимали за силу. Её голос был **brittle**, когда она благодарила пришедших — тонкий и резкий, как стекло на грани. Дома, в одиночестве, она взяла их свадебное фото и почувствовала, каким **brittle** стал весь её мир: одно прикосновение, одно воспоминание — и всё рассыплется в прах. Она осторожно положила фотографию, боясь собственных рук.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/brittle.jpg",
-    "contextStory": "После похорон она держалась с **brittle** самообладанием, которое все принимали за силу. Её голос был **brittle**, когда она благодарила пришедших — тонкий и резкий, как стекло на грани. Дома, в одиночестве, она взяла их свадебное фото и почувствовала, каким **brittle** стал весь её мир: одно прикосновение, одно воспоминание — и всё рассыплется в прах. Она осторожно положила фотографию, боясь собственных рук.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/brittle-us.mp3"
     }
   },
   {
     "word": "cabal",
     "pronunciation": "kəˈbæl",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/4/49/En-us-cabal.oga"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "verb: pastSimple: **caballed**, pastParticiple: **caballed**, presentParticiple: **caballing**",
+    "image": "/data/projects/tainted-grail/images/words/cabal.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -662,26 +661,25 @@
       }
     ],
     "wordHistory": "Из французского *cabale* — «интрига, тайная группа», заимствованного из средневекового латинского *cabbala*, от древнееврейского *קַבָּלָה* (*qabbālāh*) — «предание, полученное знание», от глагола *qibbēl* — «получать, принимать». Изначально слово относилось к мистическому учению Каббалы — тайной иудейской традиции толкования Священного Писания. В XVII веке слово перешло в политический лексикон: в английском закрепилось благодаря совпадению — при Карле II (около 1672 года) группа из пяти влиятельных министров (Clifford, Arlington, Buckingham, Ashley, Lauderdale) имела инициалы C-A-B-A-L, что народная этимология тут же связала с тайным заговором. Совпадение оказалось слишком красноречивым, и с тех пор **cabal** прочно означает «тайная клика заговорщиков».",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/4/49/En-us-cabal.oga"
-    },
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/cabal.jpg"
+    }
   },
   {
     "word": "captive",
     "pronunciation": "ˈkaptiv",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/captive-us.mp3"
+    },
     "partOfSpeech": [
       "adjective",
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/captive.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -707,7 +705,6 @@
       "*She held him captive — not with chains, but with her words.* — Она держала его в плену — не цепями, а словами.",
       "*The dragon kept its captives alive, feeding on their fear.* — Дракон сохранял пленников живыми, питаясь их страхом."
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
@@ -729,27 +726,26 @@
       }
     ],
     "wordHistory": "От латинского *captīvus* — \"пойманный, взятый в плен\", от *capere* — \"брать, хватать\". Тот же корень в словах **capture**, **capable** (буквально \"способный взять/вместить\") и даже **chase** (через старофранцузский). Интересно, что **captivate** изначально тоже означало \"взять в плен\", а романтическое \"очаровать\" — это уже метафора XVI века.",
+    "contextStory": "Дракон не убил принцессу — он держал её **captive** в башне из чёрного камня, питая историями вместо еды. Со временем она стала добровольной **captive**, заворожённая рассказами о мирах за пределами неба. Когда рыцарь наконец явился освободить её, она отказалась уходить. «Ты не понимаешь, — прошептала она. — Я не его **captive**. Он — мой. Последний живой дракон, и я — единственная, кому он доверяет».",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/captive.jpg",
-    "contextStory": "Дракон не убил принцессу — он держал её **captive** в башне из чёрного камня, питая историями вместо еды. Со временем она стала добровольной **captive**, заворожённая рассказами о мирах за пределами неба. Когда рыцарь наконец явился освободить её, она отказалась уходить. «Ты не понимаешь, — прошептала она. — Я не его **captive**. Он — мой. Последний живой дракон, и я — единственная, кому он доверяет».",
-    "cefrLevel": "B2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/captive-us.mp3"
     }
   },
   {
     "word": "clobber",
     "pronunciation": "ˈkläbər",
+    "audio": {
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/clobber-au.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/clobber.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -775,32 +771,30 @@
       "*Rising taxes clobbered small businesses across the country.* — Рост налогов ударил по малому бизнесу по всей стране.",
       "*He packed his clobber into a bag and set off at dawn.* — Он запихнул свои шмотки в сумку и двинулся в путь на рассвете."
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Происхождение неясно — одно из тех колоритных английских слов с туманной этимологией. Появилось в разговорном английском в 1940-х (времена Второй мировой) в значении \"сильно ударить\". Возможно, от диалектного *clobber* — \"заляпать, замазать\" или связано с военным жаргоном RAF. Британское значение \"одежда, шмотки\" (*clobber*) — это, вероятно, отдельное слово с другой историей, восходящее к воровскому арго XIX века.\nВ IT-контексте *clobber* тоже популярен: \"to clobber a file/variable\" — перезаписать, затереть данные.",
+    "contextStory": "Чемпион в тяжёлом весе пообещал **clobber** любого, кто осмелится выйти на ринг. В первом раунде он **clobbered** соперника так, что толпа замолчала — это было больше похоже на разрушение, чем на спорт. После боя журналист спросил, не чувствует ли он вины. «Вины?» — рассмеялся он. — «Он сам подписался, чтобы его **clobbered**. Я лишь выполнил заказ».",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/clobber.jpg",
-    "contextStory": "Чемпион в тяжёлом весе пообещал **clobber** любого, кто осмелится выйти на ринг. В первом раунде он **clobbered** соперника так, что толпа замолчала — это было больше похоже на разрушение, чем на спорт. После боя журналист спросил, не чувствует ли он вины. «Вины?» — рассмеялся он. — «Он сам подписался, чтобы его **clobbered**. Я лишь выполнил заказ».",
-    "cefrLevel": "C1",
-    "audio": {
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/clobber-au.mp3"
     }
   },
   {
     "word": "cloying",
     "pronunciation": "ˈklɔɪ.ɪŋ",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/0/0e/En-us-cloying.oga"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/cloying.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -871,11 +865,6 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/cloying.jpg",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/0/0e/En-us-cloying.oga"
     }
   },
   {
@@ -885,7 +874,8 @@
       "phrasal verb",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/dabble in.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -936,24 +926,27 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "От **dab** — \"слегка касаться, макать\" + уменьшительный суффикс *-le* (как в *sparkle*, *crackle*, *trickle*). Буквально: \"макать понемножку\", \"касаться кончиками\". Первоначальное значение (XVI век) — плескаться в воде руками или ногами. Переносное \"заниматься чем-то поверхностно\" появилось в XVII веке — метафора прозрачная: не нырнуть с головой, а лишь помочить пальцы. Суффикс *-le* добавляет оттенок повторяющегося мелкого действия — не один раз макнул, а бултыхаешься без конца.",
+    "contextStory": "Старая ведьма предупредила её: «Не вздумай **dabble in** некромантию, дитя. Это не увлечение». Но ученица была молода и бесстрашна — она **dabbled in** запретные заклинания так, как другие балуются с красками, чуть-чуть, ради забавы. К зиме мёртвые уже шептали её имя. Она лишь **dabbled in** тёмные искусства, говорила она себе. Но тьме всё равно, насколько неглубоко ты опустила руки — она утянет тебя на дно.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/dabble in.jpg",
-    "contextStory": "Старая ведьма предупредила её: «Не вздумай **dabble in** некромантию, дитя. Это не увлечение». Но ученица была молода и бесстрашна — она **dabbled in** запретные заклинания так, как другие балуются с красками, чуть-чуть, ради забавы. К зиме мёртвые уже шептали её имя. Она лишь **dabbled in** тёмные искусства, говорила она себе. Но тьме всё равно, насколько неглубоко ты опустила руки — она утянет тебя на дно.",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "defile",
     "pronunciation": "dɪˈfaɪl",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/defile-uk.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
+    "cefrLevel": "C1",
     "forms": "pastTense: **defiled**; pastParticiple: **defiled**; presentParticiple: **defiling**; thirdPerson: **defiles**; plural: **defiles**",
+    "image": "/data/projects/tainted-grail/images/words/defile.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1034,25 +1027,24 @@
       }
     ],
     "wordHistory": "Глагол **defile** — результат удивительного наложения двух разных слов. Среднеанглийское *defoulen* — «топтать, осквернять» — пришло из старофранцузского *defouler* (топтать ногами), от латинского *de-* + *fullāre* (сукновал — тот, кто топчет ткань при обработке). Но в XIV–XV веках это слово смешалось с другим: *befilen* (загрязнять), от древнеанглийского *fȳlan* (пачкать), родственного *foul*. Из этого скрещивания родился современный глагол **defile** со значением «осквернять». Существительное **defile** (ущелье) — совершенно другое слово: оно заимствовано в XVII веке из французского *défilé*, от *défiler* (маршировать колонной), от *de-* + *file* (ряд, шеренга), восходящего к латинскому *fīlum* (нить). Два омонима — один про грязь и бесчестие, другой про строй и теснину.",
-    "cefrLevel": "C1",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/defile.jpg",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/defile-uk.mp3"
     }
   },
   {
     "word": "demeanor",
     "pronunciation": "dɪˈmiːnər",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/demeanor-uk.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/demeanor.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1102,25 +1094,24 @@
     ],
     "wordHistory": "От англо-французского *demener* — \"вести, управлять\", из старофранцузского *demener* — \"вести себя, направлять\" (буквально \"гнать, вести\"), от *de-* (\"полностью\") + *mener* (\"вести\"), восходящего к латинскому *minare* — \"гнать скот\", от *minari* — \"угрожать\". Таким образом, слово прошло путь от \"погонять скот угрозами\" через \"направлять поведение\" к \"внешняя манера держаться\". Суффикс *-or* (*-our* в британском варианте) оформил существительное. Интересно, что глагол **demean** (\"унижать\") развил своё уничижительное значение позже и независимо — под влиянием слова **mean** (\"низкий, подлый\").",
     "contextStory": "Новый учитель вошёл в класс, и тридцать подростков замолчали — не от страха, а от его **demeanor**. Ни крика, ни угроз. Просто спокойный взгляд, прямая спина и голос, который не нуждался в повышении тона. «Ваш **demeanor** говорит о вас больше, чем ваши слова», — сказал он, обводя глазами притихший класс. К концу года самый буйный ученик, которого все списали со счетов, подошёл к нему после урока. «Вы изменили мой **demeanor**, — сказал он тихо. — А потом он изменил мою жизнь».",
-    "cefrLevel": "B2",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/demeanor.jpg",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/demeanor-uk.mp3"
     }
   },
   {
     "word": "discretion",
     "pronunciation": "dəˈskreSH(ə)n",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/discretion-us.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/discretion.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1145,7 +1136,6 @@
       "*He lacked the discretion to know when to speak and when to stay silent.* — Ему не хватало благоразумия понять, когда говорить, а когда молчать.",
       "*\"Discretion is the better part of valor,\" the old thief muttered, slipping away before the fight began.* — «Осторожность — лучшая часть доблести», — пробормотал старый вор, ускользая до начала драки."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Discreet",
@@ -1190,26 +1180,26 @@
       }
     ],
     "wordHistory": "От старофранцузского *discrecion*, от латинского *discrētiō* — \"разделение, различение\", от *discernere* — \"различать, отделять\" (*dis-* \"по отдельности\" + *cernere* \"отсеивать, различать\"). Изначальная идея: способность **различать** — отделять важное от неважного, уместное от неуместного. Отсюда оба значения: тактичность (знать, что уместно сказать) и право решать (различать и выбирать). Тот же корень *cernere* — в словах:\n• **discern** — различать, распознавать\n• **concern** — забота, беспокойство (буквально \"просеивать вместе\")\n• **secret** — секрет (буквально \"отделённое\", от *sē-* + *cernere*)\n• **certain** — определённый (буквально \"отсеянный, решённый\")\n• **crime** — преступление (через греч. *krinein* — \"судить, разделять\")\n• **crisis** — кризис (момент \"разделения\", когда решается исход)\nЗабавно, что **discreet** и **discrete** — это одно и то же слово, разошедшееся на два написания в XVI–XVII веке. Изначально оба были *discrete* от латинского *discrētus*. Потом для значения \"тактичный\" закрепилась форма *discreet*, а для \"отдельный\" — *discrete*. Развод, оформленный орфографией.",
+    "contextStory": "Шпионский мастер нанял её не за владение клинком, а за её **discretion**. При дворе, тонущем в сплетнях, она двигалась как тень — никогда не повторяя услышанного, никогда не спрашивая лишнего. «Способ оставляю на ваш **discretion**», — сказала ей королева однажды ночью, передвинув имя через стол. Она кивнула. **Discretion** хранила ей жизнь двадцать лет. Сохранит и этой ночью.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/discretion.jpg",
-    "contextStory": "Шпионский мастер нанял её не за владение клинком, а за её **discretion**. При дворе, тонущем в сплетнях, она двигалась как тень — никогда не повторяя услышанного, никогда не спрашивая лишнего. «Способ оставляю на ваш **discretion**», — сказала ей королева однажды ночью, передвинув имя через стол. Она кивнула. **Discretion** хранила ей жизнь двадцать лет. Сохранит и этой ночью.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/discretion-us.mp3"
     }
   },
   {
     "word": "disfigurement",
     "pronunciation": "dɪsˈfɪɡ.jər.mənt",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q1860_%28eng%29-Qwertygiy-disfigurement.wav"
+    },
     "partOfSpeech": [
       "noun"
     ],
+    "cefrLevel": "C2",
     "forms": "plural: **disfigurements**",
+    "image": "/data/projects/tainted-grail/images/words/disfigurement.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1278,20 +1268,19 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/disfigurement.jpg",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/4/40/LL-Q1860_%28eng%29-Qwertygiy-disfigurement.wav"
     }
   },
   {
     "word": "dispense",
     "pronunciation": "dəˈspens",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/dispense-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/dispense.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1319,7 +1308,6 @@
       "*She dispensed with pleasantries and got straight to the point.* — Она обошлась без любезностей и перешла прямо к делу.",
       "*A rusted machine, still dispensing holy water drop by drop.* — Проржавевший автомат, всё ещё отпускающий святую воду — капля за каплей."
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
@@ -1341,27 +1329,27 @@
       }
     ],
     "wordHistory": "От латинского *dispensāre* — \"распределять по весу\", от *dis-* (\"по отдельности\") + *pendere* (\"взвешивать\"). Тот же корень *pendere* живёт в словах **spend**, **pension**, **ponder** (буквально \"взвешивать в уме\") и **pendant** (то, что висит/свешивается). Идея \"взвешивать и раздавать справедливо\" перешла в значение \"отправлять правосудие\" (*dispense justice*), а **dispense with** — \"обойтись без\" — появилось позже как метафора: отпустить что-то, освободить от обязательства.",
+    "contextStory": "Деревенская целительница сидела под старым дубом, готовая **dispense** лекарства больным, которые выстраивались в очередь на рассвете. Она **dispensed** травы и настойки спокойными руками, ничего не прося взамен. Но когда солдаты лорда потребовали, чтобы она **dispense with** своим зельеварением и ушла, она отказалась. «Можете сжечь мою хижину, — тихо сказала она, — но людям всё равно нужны лекарства».",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/dispense.jpg",
-    "contextStory": "Деревенская целительница сидела под старым дубом, готовая **dispense** лекарства больным, которые выстраивались в очередь на рассвете. Она **dispensed** травы и настойки спокойными руками, ничего не прося взамен. Но когда солдаты лорда потребовали, чтобы она **dispense with** своим зельеварением и ушла, она отказалась. «Можете сжечь мою хижину, — тихо сказала она, — но людям всё равно нужны лекарства».",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/dispense-us.mp3"
     }
   },
   {
     "word": "endeavor",
     "pronunciation": "enˈdevər",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/endeavor-us.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "BrE: **endeavour**",
+    "image": "/data/projects/tainted-grail/images/words/endeavor.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1405,17 +1393,12 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "От среднеанглийского *endeveren* — \"прилагать усилия\", от *en-* (\"в\") + старофранцузского *deveir* / *devoir* — \"долг, обязанность\" (от латинского *dēbēre* — \"быть должным\"). Буквально: **вложить себя в долг**, сделать что-то своей обязанностью. Тот же корень *dēbēre* — в словах:\n• **debt** — долг (буквально \"то, что должен\")\n• **due** — должное, причитающееся\n• **duty** — долг, обязанность\n• **debit** — дебет (списание со счёта)\nКрасивая идея: **endeavor** — это не просто \"попытка\", а осознанное возложение на себя долга. Ты не пробуешь — ты обязуешься стараться.",
+    "contextStory": "Строительство моста через ущелье было безумным **endeavor** — так говорили все. Инженер проигнорировала их и бросилась в этот **endeavor** с яростью, граничащей с одержимостью, спала три часа в сутки, перечерчивала планы при свечах. Когда первая повозка благополучно пересекла мост, деревня замолчала. «Это был достойный **endeavor**», — наконец признал староста. Она не улыбнулась. Она уже чертила следующий.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/endeavor.jpg",
-    "contextStory": "Строительство моста через ущелье было безумным **endeavor** — так говорили все. Инженер проигнорировала их и бросилась в этот **endeavor** с яростью, граничащей с одержимостью, спала три часа в сутки, перечерчивала планы при свечах. Когда первая повозка благополучно пересекла мост, деревня замолчала. «Это был достойный **endeavor**», — наконец признал староста. Она не улыбнулась. Она уже чертила следующий.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/endeavor-us.mp3"
     }
   },
   {
@@ -1424,8 +1407,9 @@
     "partOfSpeech": [
       "verb phrase"
     ],
-    "forms": "fends for oneself; fended for oneself; fending for oneself",
     "cefrLevel": "B2",
+    "forms": "fends for oneself; fended for oneself; fending for oneself",
+    "image": "/data/projects/tainted-grail/images/words/fend for oneself.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1507,16 +1491,19 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-22"
-    },
-    "image": "/data/projects/tainted-grail/images/words/fend for oneself.jpg"
+    }
   },
   {
     "word": "fervent",
     "pronunciation": "ˈfɜːrvənt",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/1/11/En-us-fervent.oga"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/fervent.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1553,7 +1540,7 @@
       },
       {
         "word": "zealous",
-        "description": "рвение + действие. **Zealous** человек не просто чувствует — он активно действует и может перегибать палку. **Fervent** — про силу чувства, а не про действие."
+        "description": "рвение + действие. **[[zealous|Zealous]]** человек не просто чувствует — он активно действует и может перегибать палку. **Fervent** — про силу чувства, а не про действие."
       },
       {
         "word": "earnest",
@@ -1591,25 +1578,24 @@
       }
     ],
     "wordHistory": "От латинского *fervēns*, причастия настоящего времени от *fervēre* — «кипеть, бурлить, пылать». Праиндоевропейский корень *bʰrewh₁-* — «кипеть, бурлить» — тот же, что дал английское **brew** (варить пиво), **broth** (бульон) и немецкое *brauen*. Буквально **fervent** — «кипящий». В старофранцузском *fervent* уже означало «пылкий, горячий» — в этом виде слово вошло в среднеанглийский в XIV веке. Родственное **ferment** (брожение) — от того же латинского корня: где кипение физическое стало метафорой эмоционального бурления. Научный термин **effervescent** (шипучий, бурлящий) — тоже родственник.",
-    "cefrLevel": "C1",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/fervent.jpg",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/1/11/En-us-fervent.oga"
     }
   },
   {
     "word": "fodder",
     "pronunciation": "ˈfädər",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fodder-us.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/fodder.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1631,7 +1617,6 @@
       "*\"We're nothing but fodder to them — sent to die so the lords can keep their lands.\"* — «Мы для них не более чем расходный материал — посланы умирать, чтобы лорды сохранили свои земли».",
       "*Rumours and half-truths became fodder for the mob's rage.* — Слухи и полуправда стали пищей для ярости толпы."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Fodder",
@@ -1653,26 +1638,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Древнеанглийское *fōdor* — \"пища, корм\", от протогерманского *fōdrą* — \"пища, корм\". Тот же корень, что в **food** (еда) и **feed** (кормить) — все из праиндоевропейского *peh₂-* (\"кормить, пасти\"). Сюда же латинское *pānis* (\"хлеб\" — отсюда **pantry**, хлебный шкаф) и *pāstor* (\"пастух\" — отсюда **pastor**, пастырь). Немецкий родственник — *Futter* (\"корм\"). Переносное **cannon fodder** — калька с немецкого *Kanonenfutter*, приписывается то Фридриху Великому, то Первой мировой. Идея жуткая в своей простоте: люди — корм для пушек.",
+    "contextStory": "Генерал посмотрел на новобранцев и увидел лишь **fodder** — мальчишек, едва начавших бриться, отправленных на фронт как cannon **fodder** в войне, которую они не понимали. «Сэр, у них нет подготовки», — возразил лейтенант. Генерал пожал плечами: «Им не нужна подготовка. Им нужно продержать линию двадцать минут». Лейтенант промолчал. Он тоже когда-то был **fodder** — разница лишь в том, что он выжил.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/fodder.jpg",
-    "contextStory": "Генерал посмотрел на новобранцев и увидел лишь **fodder** — мальчишек, едва начавших бриться, отправленных на фронт как cannon **fodder** в войне, которую они не понимали. «Сэр, у них нет подготовки», — возразил лейтенант. Генерал пожал плечами: «Им не нужна подготовка. Им нужно продержать линию двадцать минут». Лейтенант промолчал. Он тоже когда-то был **fodder** — разница лишь в том, что он выжил.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fodder-us.mp3"
     }
   },
   {
     "word": "forsake",
     "pronunciation": "fôrˈsāk",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/7/71/LL-Q1860_%28eng%29-Vealhurl-forsake.wav"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C2",
     "forms": "forsakes; past: **forsook**; past participle: **forsaken**",
+    "image": "/data/projects/tainted-grail/images/words/forsake.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1693,7 +1678,6 @@
       "*He forsook his oath, his brothers, and everything he once believed in.* — Он предал свою клятву, своих братьев и всё, во что когда-то верил.",
       "*A forsaken village: roofs caved in, doors hanging open, not a soul in sight.* — Покинутая деревня: провалившиеся крыши, распахнутые двери, ни души."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Abandon",
@@ -1732,27 +1716,28 @@
       }
     ],
     "wordHistory": "Древнеанглийское *forsacan* — \"отказать, отвергнуть, отречься\", от *for-* (усилительный/отрицательный префикс, означающий \"полностью, прочь\") + *sacan* (\"спорить, бороться, обвинять\"). Корень *sacan* родственен:\n• древнескандинавскому *saka* (\"обвинять\") — отсюда английское **sake** (*for the sake of* — \"ради\", буквально \"ради дела/причины\")\n• немецкому *Sache* (\"дело, вещь\")\n• готскому *sakan* (\"спорить\")\nБуквальный смысл *forsacan*: \"полностью отказаться от спора/борьбы за кого-то\" — то есть перестать бороться за человека, отпустить, бросить. Не просто уйти, а **перестать сражаться за**. Это объясняет, почему forsake так больно звучит: тот, кто forsakes, не просто уходит — он сознательно прекращает защищать.\nНеправильные формы: **forsake → forsook → forsaken** (по модели *take → took → taken*, *shake → shook → shaken*).",
+    "contextStory": "Она умоляла его не бросать её, но он повернулся и ушёл в дождь — решил **forsake** всё, что их связывало. Деревня уже **forsaken** веру в него: двери захлопнулись, фонари погасли один за другим. Стоя одна на площади, она поняла, что значит быть **forsaken** — не просто оставленной, а стёртой из чьего-то сердца. Спустя годы он пожалеет о той ночи, когда решил **forsake** единственного человека, который в него верил.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/forsake.jpg",
-    "contextStory": "Она умоляла его не бросать её, но он повернулся и ушёл в дождь — решил **forsake** всё, что их связывало. Деревня уже **forsaken** веру в него: двери захлопнулись, фонари погасли один за другим. Стоя одна на площади, она поняла, что значит быть **forsaken** — не просто оставленной, а стёртой из чьего-то сердца. Спустя годы он пожалеет о той ночи, когда решил **forsake** единственного человека, который в него верил.",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/7/71/LL-Q1860_%28eng%29-Vealhurl-forsake.wav"
     }
   },
   {
     "word": "fret",
     "pronunciation": "fret",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fret-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/fret-au.mp3"
+    },
     "partOfSpeech": [
       "verb",
       "noun"
     ],
+    "cefrLevel": "C1",
     "forms": "past tense: **fretted**; past participle: **fretted**; present participle: **fretting**; third person: **frets**",
+    "image": "/data/projects/tainted-grail/images/words/fret.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1837,22 +1822,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/fret.jpg",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/fret-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/fret-au.mp3"
     }
   },
   {
     "word": "husk",
     "pronunciation": "həsk",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/husk-us.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/husk.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1889,26 +1872,25 @@
       }
     ],
     "wordHistory": "Среднеанглийское *huske*, вероятно, от средненижненемецкого *hūske* — \"маленький чехол, оболочка\" (уменьшительное от *hūs* — \"дом\"; тот же корень, что в **house**). Буквально: шелуха — это \"домик\" для зерна. Красивая метафора, и она объясняет, почему **husk** так хорошо работает в переносном значении — пустой дом, из которого ушёл хозяин. А **husky** (хриплый) — буквально \"сухой, как шелуха\": так звучит голос, в котором пересохло горло.",
+    "contextStory": "Когда чума отступила, выжившие нашли лишь **husks** — от домов, от урожая, от людей. Старый Томас сидел в кресле, хрупкий **husk** человека, который когда-то носил быков на плечах. Его внучка молча чистила кукурузу, бросая каждый **husk** в огонь и глядя, как они скручиваются и чернеют. Весь город казался **husk** — форма осталась, но всё живое внутри было выскоблено.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/husk.jpg",
-    "contextStory": "Когда чума отступила, выжившие нашли лишь **husks** — от домов, от урожая, от людей. Старый Томас сидел в кресле, хрупкий **husk** человека, который когда-то носил быков на плечах. Его внучка молча чистила кукурузу, бросая каждый **husk** в огонь и глядя, как они скручиваются и чернеют. Весь город казался **husk** — форма осталась, но всё живое внутри было выскоблено.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/husk-us.mp3"
     }
   },
   {
     "word": "impending",
     "pronunciation": "imˈpendiNG",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/5/57/LL-Q1860_%28eng%29-Sapaa-impending.wav"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/impending.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -1922,7 +1904,6 @@
       "*With the impending siege, every blacksmith in the city worked through the night.* — Ввиду грядущей осады каждый кузнец в городе работал всю ночь.",
       "*She spoke calmly, as though unaware of her impending death.* — Она говорила спокойно, словно не ведая о своей неминуемой смерти."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Impending",
@@ -1946,26 +1927,27 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "От латинского *impendēre* — \"нависать над\", от *in-* (\"над, на\") + *pendēre* (\"висеть, свисать\"). Буквально: что-то висит прямо над тобой и вот-вот упадёт. Тот же корень *pendēre* — в словах **pendant** (подвеска — то, что висит), **suspend** (подвесить), **depend** (зависеть — буквально \"висеть от\"), **pending** (ожидающий решения — \"висящий\" в воздухе) и даже **pendulum** (маятник). Собственно, **impending** и **pending** — ближайшие родственники: оба про то, что \"висит\" и ждёт разрешения, но **impending** добавляет ощущение угрозы — это не просто висит, это нависает.",
+    "contextStory": "Небо стало болезненно-жёлтым, и все ощутили **impending** катастрофу нутром. Мэр проигнорировал предупреждения об **impending** наводнении, уверяя, что дамба выдержит. К полуночи, когда вода уже лизала пороги домов, ощущение **impending** doom перестало быть предчувствием — оно стало фактом. Те, кто подготовился к **impending** бедствию, бежали в холмы; остальным оставалось только молиться.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/impending.jpg",
-    "contextStory": "Небо стало болезненно-жёлтым, и все ощутили **impending** катастрофу нутром. Мэр проигнорировал предупреждения об **impending** наводнении, уверяя, что дамба выдержит. К полуночи, когда вода уже лизала пороги домов, ощущение **impending** doom перестало быть предчувствием — оно стало фактом. Те, кто подготовился к **impending** бедствию, бежали в холмы; остальным оставалось только молиться.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/5/57/LL-Q1860_%28eng%29-Sapaa-impending.wav"
     }
   },
   {
     "word": "kindle",
     "pronunciation": "ˈkindl",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/kindle-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/kindle-au.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "kindled, kindling",
+    "image": "/data/projects/tainted-grail/images/words/kindle.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2000,7 +1982,6 @@
       "*The preacher's sermon kindled a fire in the crowd that no amount of rain could quench.* — Проповедь пастора разожгла в толпе огонь, который не потушить никаким дождём.",
       "*His kindled gaze betrayed the fury he tried so hard to hide.* — Его пылающий взгляд выдавал ярость, которую он так старался скрыть."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Light",
@@ -2035,27 +2016,25 @@
       }
     ],
     "wordHistory": "От древнескандинавского *kynda* — \"зажигать, разводить огонь\". Пришло в английский в XII–XIII веке с викингами. Родственно древнескандинавскому *kindill* (\"факел, свеча\") и, возможно, связано с латинским *candēre* (\"светить, сиять\" — отсюда **candle**, **candid**, **incandescent**), хотя прямое родство спорно. Что не спорно — **kindle** не связано с **kin** (родня) и **kind** (добрый/вид), несмотря на внешнее сходство. Переносное \"разжечь чувство\" появилось уже в XIV веке — метафора настолько естественная, что возникла почти одновременно с буквальным значением.",
+    "contextStory": "Старый учитель **kindled** в ней то, что никто другой не пытался зажечь — любопытство. Она оставалась после уроков, читая у огня, который он **kindled** в школьной печи, поглощая книги по астрономии и физике. Эта искра, однажды **kindled**, уже не угасла. Спустя десятилетия, стоя перед аудиторией в Кембридже, она всё ещё помнила человека, который **kindled** пламя, осветившее всю её жизнь.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/kindle.jpg",
-    "contextStory": "Старый учитель **kindled** в ней то, что никто другой не пытался зажечь — любопытство. Она оставалась после уроков, читая у огня, который он **kindled** в школьной печи, поглощая книги по астрономии и физике. Эта искра, однажды **kindled**, уже не угасла. Спустя десятилетия, стоя перед аудиторией в Кембридже, она всё ещё помнила человека, который **kindled** пламя, осветившее всю её жизнь.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/kindle-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/kindle-au.mp3"
     }
   },
   {
     "word": "lucrative",
     "pronunciation": "ˈlo͞okrətiv",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/8/88/LL-Q1860_%28eng%29-Vealhurl-lucrative.wav"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/lucrative.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2069,7 +2048,6 @@
       "*The mercenary took the job — not out of loyalty, but because it was lucrative.* — Наёмник взялся за работу — не из верности, а потому что она хорошо оплачивалась.",
       "*What began as a lucrative venture soon became a trap they could not escape.* — То, что начиналось как прибыльное предприятие, вскоре стало ловушкой, из которой не выбраться."
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [
       "*lucrative deal / contract* — выгодная сделка",
@@ -2091,26 +2069,25 @@
       }
     ],
     "wordHistory": "От латинского *lucrātīvus* — \"приносящий прибыль\", от *lucrum* — \"выгода, прибыль, нажива\". Тот же корень — в **lucre** (нажива) и, как ни странно, в немецком **Lohn** (\"зарплата, вознаграждение\") через протогерманский. Латинское *lucrum* восходит к праиндоевропейскому *lau-* — \"добыча, трофей\". Интересно, что само **lucrative** — нейтрально-положительное (прибыльный), а вот его родственник **lucre** — почти всегда с осуждением (*filthy lucre*). Одна семья, а отношение к деньгам разное.",
+    "contextStory": "Контрабандный маршрут через горный перевал был невероятно **lucrative** — один рейс мог прокормить семью целый год. Марко знал, что дело опасное, но ничто другое в этом умирающем городке не было и вполовину так **lucrative**. Когда власти наконец перекрыли перевал, люди, разбогатевшие на этом **lucrative** бизнесе, обнаружили, что у них нет ни навыков, ни сбережений. Лёгкие деньги от **lucrative** схемы сделали их ленивыми, и теперь горы не давали им ничего, кроме тишины.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/lucrative.jpg",
-    "contextStory": "Контрабандный маршрут через горный перевал был невероятно **lucrative** — один рейс мог прокормить семью целый год. Марко знал, что дело опасное, но ничто другое в этом умирающем городке не было и вполовину так **lucrative**. Когда власти наконец перекрыли перевал, люди, разбогатевшие на этом **lucrative** бизнесе, обнаружили, что у них нет ни навыков, ни сбережений. Лёгкие деньги от **lucrative** схемы сделали их ленивыми, и теперь горы не давали им ничего, кроме тишины.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/8/88/LL-Q1860_%28eng%29-Vealhurl-lucrative.wav"
     }
   },
   {
     "word": "maudlin",
     "pronunciation": "ˈmôdlən",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/maudlin-uk.mp3"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/maudlin.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2130,7 +2107,6 @@
       "*\"Spare me your maudlin tears,\" she said. \"They won't undo what you've done.\"* — «Избавь меня от своих слезливых причитаний, — сказала она. — Слезами содеянного не воротишь».",
       "*There was something maudlin about the whole village — a place drowning in its own grief.* — Во всей деревне было что-то слезливо-жалкое — место, тонущее в собственном горе."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Sentimental",
@@ -2160,17 +2136,12 @@
       }
     ],
     "wordHistory": "Одна из самых неожиданных этимологий в английском. **Maudlin** — это искажённое произношение имени **Mary Magdalene** (Мария Магдалина). В средневековом английском и французском её имя звучало как *Maudeleyne*, *Maudlyn*. На картинах и в скульптуре Магдалину традиционно изображали плачущей — кающейся грешницей с заплаканными глазами. Так имя святой стало нарицательным для слезливой, показной сентиментальности. Путь от иконы к пьяным слезам в пабе — история чисто английская.",
+    "contextStory": "К третьей бутылке дядя Виктор стал **maudlin** — разрыдался из-за женщины, которую не видел сорок лет. «Ты всегда становишься **maudlin** на Рождество», — отрезала его сестра, но он уже не слышал. Дети в неловком молчании наблюдали, как его **maudlin** монолог скатывался в бессвязность. Никто ему не сочувствовал — было что-то отталкивающее в его **maudlin** жалости к себе, горе напоказ для зрителей, которые не просили этого спектакля.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/maudlin.jpg",
-    "contextStory": "К третьей бутылке дядя Виктор стал **maudlin** — разрыдался из-за женщины, которую не видел сорок лет. «Ты всегда становишься **maudlin** на Рождество», — отрезала его сестра, но он уже не слышал. Дети в неловком молчании наблюдали, как его **maudlin** монолог скатывался в бессвязность. Никто ему не сочувствовал — было что-то отталкивающее в его **maudlin** жалости к себе, горе напоказ для зрителей, которые не просили этого спектакля.",
-    "cefrLevel": "C2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/maudlin-uk.mp3"
     }
   },
   {
@@ -2180,7 +2151,9 @@
       "adjective",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "base: **maul**; past tense: **mauled**; present participle: **mauling**; third person: **mauls**",
+    "image": "/data/projects/tainted-grail/images/words/mauled.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2262,9 +2235,7 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/mauled.jpg",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "mill about (around)",
@@ -2272,7 +2243,8 @@
     "partOfSpeech": [
       "phrasal verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/mill about (around).jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2307,15 +2279,13 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "От глагола **mill** — \"молоть\" (на мельнице). Метафора пришла из наблюдения за скотом: животных загоняли на мельничный двор или в загон, и они бесцельно кружили на месте — как зерно, которое перемалывается жерновами. Этот образ кругового, бессмысленного движения перешёл на людей. Выражение закрепилось в XVIII–XIX веке. Тот же корень *mill* — в словах **meal** (мука; еда), латинском *molere* (\"молоть\") и **molar** (коренной зуб — буквально \"жернов во рту\").",
+    "contextStory": "Сотни семей беженцев **milled about** на вокзале, прижимая к себе чемоданы и детей. Поездов не было уже три дня, но люди продолжали **mill around**, боясь уйти — вдруг поезд всё-таки придёт. Охранники тоже **milled about**, растерянные не меньше остальных, их винтовки бесполезны против хаоса ожидания. Вокзал стал отдельным миром — люди **milling about** медленными, бесцельными кругами, никуда не двигаясь.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/mill about (around).jpg",
-    "contextStory": "Сотни семей беженцев **milled about** на вокзале, прижимая к себе чемоданы и детей. Поездов не было уже три дня, но люди продолжали **mill around**, боясь уйти — вдруг поезд всё-таки придёт. Охранники тоже **milled about**, растерянные не меньше остальных, их винтовки бесполезны против хаоса ожидания. Вокзал стал отдельным миром — люди **milling about** медленными, бесцельными кругами, никуда не двигаясь.",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "mired in",
@@ -2325,7 +2295,8 @@
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/mired in.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2358,7 +2329,6 @@
       "*Mired in guilt and suspicion, the council could agree on nothing.* — Погрязший в чувстве вины и подозрениях, совет не мог ни о чём договориться.",
       "*The once-great city had become a mire of plague and lawlessness.* — Некогда великий город превратился в трясину чумы и беззакония."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Mired in",
@@ -2386,15 +2356,13 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Древнескандинавское *mýrr* — \"болото, топь\". Родственно древнеанглийскому *mōs* (\"болото, мох\" — отсюда **moss**) и, через протогерманское *miuzō*, связано со словом **moor** (торфяная пустошь, вересковая равнина). Все три слова — **mire**, **moss**, **moor** — из одного болотного семейства. Переносное значение \"увязнуть в проблемах\" появилось в XIV–XV веке — метафора идеальная: болото затягивает медленно, незаметно, и выбраться из него стоит огромных усилий. В Tainted Grail, где пейзаж — сплошные топи и туман, слово попадает буквально в точку.",
+    "contextStory": "Компания была **mired in** судебных исках — каждый порождал ещё два, как гидра. Годами основатели были **mired in** долгах настолько глубоких, что забыли, каково это — быть платёжеспособными. Каждая попытка реструктуризации оказывалась **mired in** бюрократии — формы, комитеты, согласования, ведущие к новым формам. Когда-то они создали нечто блестящее, но теперь были **mired in** обломках собственного успеха.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/mired in.jpg",
-    "contextStory": "Компания была **mired in** судебных исках — каждый порождал ещё два, как гидра. Годами основатели были **mired in** долгах настолько глубоких, что забыли, каково это — быть платёжеспособными. Каждая попытка реструктуризации оказывалась **mired in** бюрократии — формы, комитеты, согласования, ведущие к новым формам. Когда-то они создали нечто блестящее, но теперь были **mired in** обломках собственного успеха.",
-    "cefrLevel": "C2"
+    }
   },
   {
     "word": "munch (on)",
@@ -2402,7 +2370,8 @@
     "partOfSpeech": [
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/munch (on).jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2449,15 +2418,13 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Появилось в среднеанглийском (XIV век), вероятно, звукоподражательного происхождения — имитирует звук жевания: *мнч-мнч*. Сравните с французским *mâcher* (\"жевать\") — возможно, есть связь через старофранцузский *manchier*, но точная этимология спорна. Многие лингвисты считают, что это просто ономатопея, как **crunch**, **scrunch**, **chomp** — английский язык любит создавать \"жевательные\" слова из сочетаний *m-*, *ch-*, *-nch*. Слово стало ещё популярнее благодаря Эдварду Мунку (Edvard Munch) — нет, шутка: фамилия художника не связана, но знаменитая картина *The Scream* по-норвежски — *Skrik*, а не *Munch*.",
+    "contextStory": "Детектив **munched on** холодный сэндвич, изучая фотографии с места преступления — крошки сыпались на пакеты с уликами. Его напарника это бесило: «Как ты можешь **munch** в такой момент?» Но **munching** помогал ему думать — мерный ритм жевания словно запускал что-то в мозгу. Он **munched on** последний кусок, вытер руки о пальто и ткнул в фотографию. «Вот. Окно было открыто изнутри.»",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/munch (on).jpg",
-    "contextStory": "Детектив **munched on** холодный сэндвич, изучая фотографии с места преступления — крошки сыпались на пакеты с уликами. Его напарника это бесило: «Как ты можешь **munch** в такой момент?» Но **munching** помогал ему думать — мерный ритм жевания словно запускал что-то в мозгу. Он **munched on** последний кусок, вытер руки о пальто и ткнул в фотографию. «Вот. Окно было открыто изнутри.»",
-    "cefrLevel": "B2"
+    }
   },
   {
     "word": "ordained",
@@ -2466,7 +2433,9 @@
       "adjective",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "past tense of **ordain**",
+    "image": "/data/projects/tainted-grail/images/words/ordained.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2502,21 +2471,18 @@
       "*He felt that fate had ordained this meeting — it could not be mere chance.* — Он чувствовал, что судьба предначертала эту встречу — это не могло быть простым совпадением.",
       "*The newly ordained priest stood before the congregation, trembling.* — Новорукоположенный священник стоял перед паствой, дрожа."
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "От старофранцузского *ordener*, от латинского *ordināre* — \"упорядочить, устроить, назначить\", от *ordō* (\"порядок, ряд, чин\"). В Средние века слово разделилось на две ветки: религиозное значение (рукоположить в священники) и более широкое (повелеть, предписать властью). Оба несут идею о том, что нечто **помещается на подобающее место** — будь то Богом, судьбой или правителем.",
+    "contextStory": "Его мать всегда верила, что он **ordained** для великих дел — избран Богом ещё до рождения. Когда его **ordained** в священники в двадцать три, она плакала от радости, убеждённая, что судьба свершилась. Но молодой **ordained** служитель не чувствовал божественного огня — только сомнения. Возможно, то, что мать считала **ordained** судьбой, было лишь её собственной яростной волей, формирующей жизнь, которая не просила, чтобы её формировали.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/ordained.jpg",
-    "contextStory": "Его мать всегда верила, что он **ordained** для великих дел — избран Богом ещё до рождения. Когда его **ordained** в священники в двадцать три, она плакала от радости, убеждённая, что судьба свершилась. Но молодой **ordained** служитель не чувствовал божественного огня — только сомнения. Возможно, то, что мать считала **ordained** судьбой, было лишь её собственной яростной волей, формирующей жизнь, которая не просила, чтобы её формировали.",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "penitence",
@@ -2524,7 +2490,8 @@
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/penitence.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2538,7 +2505,6 @@
       "*There was no penitence in his eyes — only defiance.* — В его глазах не было раскаяния — только вызов.",
       "*True penitence requires more than words; it demands change.* — Истинное раскаяние требует большего, чем слова; оно требует перемен."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Penitence",
@@ -2569,15 +2535,13 @@
       }
     ],
     "wordHistory": "От латинского *paenitentia* — \"раскаяние\", от *paenitēre* — \"сожалеть, раскаиваться\". Забавно, что **penitentiary** (тюрьма) — изначально задумывалась в XVIII веке как место, где преступники должны были *раскаиваться*, а не просто сидеть. Квакеры продвигали идею, что одиночное заключение ведёт к покаянию. Идея не сработала, а название осталось.",
+    "contextStory": "Судья искал на лице подсудимого **penitence** и не нашёл — только холодный, расчётливый взгляд. «Прояви хоть немного **penitence**», — умолял адвокат перед слушанием, но этот человек не умел изображать то, чего не чувствовал. Семья жертвы хотела **penitence**; общество хотело наказания. В итоге суд дал ему тридцать лет, надеясь, что время в камере научит той **penitence**, которой не может научить ни один приговор.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/penitence.jpg",
-    "contextStory": "Судья искал на лице подсудимого **penitence** и не нашёл — только холодный, расчётливый взгляд. «Прояви хоть немного **penitence**», — умолял адвокат перед слушанием, но этот человек не умел изображать то, чего не чувствовал. Семья жертвы хотела **penitence**; общество хотело наказания. В итоге суд дал ему тридцать лет, надеясь, что время в камере научит той **penitence**, которой не может научить ни один приговор.",
-    "cefrLevel": "C2"
+    }
   },
   {
     "word": "precarious",
@@ -2585,7 +2549,8 @@
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/precarious.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2605,7 +2570,6 @@
       "*Their alliance was precarious at best, held together only by a common enemy.* — Их союз был в лучшем случае шатким — скреплённым лишь общим врагом.",
       "*She clung to the precarious ledge, her fingers whitening with effort.* — Она цеплялась за ненадёжный выступ, пальцы побелели от усилия."
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
@@ -2622,23 +2586,25 @@
       }
     ],
     "wordHistory": "От латинского *precārius* — \"полученный просьбой, данный как милость\", от *precārī* — \"просить, молить\" (отсюда же **prayer**). Изначальный смысл: то, что тебе дали по просьбе, могут и забрать — значит, это ненадёжно. Так \"данное из милости\" превратилось в \"шаткий, ненадёжный\". Красивая эволюция: от молитвы — к опасности.",
+    "contextStory": "Верёвочный мост раскачивался на ветру, и каждый шаг был всё более **precarious**. Елена вцепилась в истёршиеся тросы и заставила себя не смотреть вниз, где бурлила река в двухстах футах под ногами. Её **precarious** равновесие рухнуло, когда доска треснула под ботинком — она рванулась вперёд и в последний миг схватилась за следующий канат. На другом берегу жители молча наблюдали, зная, что их собственное выживание столь же **precarious**: ещё одно наводнение, ещё один неурожай — и всё рухнет.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/precarious.jpg",
-    "contextStory": "Верёвочный мост раскачивался на ветру, и каждый шаг был всё более **precarious**. Елена вцепилась в истёршиеся тросы и заставила себя не смотреть вниз, где бурлила река в двухстах футах под ногами. Её **precarious** равновесие рухнуло, когда доска треснула под ботинком — она рванулась вперёд и в последний миг схватилась за следующий канат. На другом берегу жители молча наблюдали, зная, что их собственное выживание столь же **precarious**: ещё одно наводнение, ещё один неурожай — и всё рухнет.",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "putrid",
     "pronunciation": "ˈpjuːtrɪd",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/putrid-uk.mp3"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/putrid.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2714,11 +2680,6 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/putrid.jpg",
-    "cefrLevel": "C2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/putrid-uk.mp3"
     }
   },
   {
@@ -2727,7 +2688,9 @@
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C2",
     "forms": "rends; past tense and past participle: **rent**",
+    "image": "/data/projects/tainted-grail/images/words/rend.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2786,15 +2749,13 @@
     ],
     "relatedForms": [],
     "wordHistory": "Древнеанглийское *rendan* — \"рвать, разрывать\". Протогерманское *randijaną*. Родственно западнофризскому *renne* (\"резать\"). Слово чисто германское, без латинских связей. Интересно, что форма прошедшего времени **rent** совпала с совершенно другим словом **rent** (аренда) — то из старофранцузского *rente*, от латинского *reddita* (\"возвращённое, отданное\"). Два **rent** — омонимы-самозванцы, у которых нет ничего общего, кроме звучания. Английский язык полон таких ловушек.",
+    "contextStory": "Когти дракона **rent** щит рыцаря, словно тот был из пергамента, — осколки железа разлетелись в дыму. Второй удар **rent** нагрудник от плеча до бедра, и кровь расцвела на стали. Рыцарь пошатнулся, но не упал. «Ты можешь **rend** мою броню, — прохрипел он, поднимая сломанный меч, — но ты не сможешь **rend** мою волю.» Дракон замер — он никогда не видел, чтобы жертва отказывалась умирать.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/rend.jpg",
-    "contextStory": "Когти дракона **rent** щит рыцаря, словно тот был из пергамента, — осколки железа разлетелись в дыму. Второй удар **rent** нагрудник от плеча до бедра, и кровь расцвела на стали. Рыцарь пошатнулся, но не упал. «Ты можешь **rend** мою броню, — прохрипел он, поднимая сломанный меч, — но ты не сможешь **rend** мою волю.» Дракон замер — он никогда не видел, чтобы жертва отказывалась умирать.",
-    "cefrLevel": "C2"
+    }
   },
   {
     "word": "runt",
@@ -2802,7 +2763,8 @@
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/runt.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2828,23 +2790,28 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Происхождение неясно. Появилось в XVI веке в значении \"старое или чахлое животное\" (первоначально — захудалый бык). Возможно, родственно нидерландскому *runt* (\"корова\") или средневерхненемецкому *runze* (\"коротышка\"). К XVII веку значение сузилось до \"самый мелкий детёныш в помёте\", а оттуда перешло на людей. Интересно, что изначально слово описывало не молодняк, а наоборот — старое, одряхлевшее животное. Смысл \"мелкий и слабый\" вытеснил оригинальный полностью.",
+    "contextStory": "Его называли **runt** — самый мелкий мальчишка в семье воинов, слишком щуплый, чтобы поднять отцовский меч. Братья хохотали, когда **runt** заявил, что выйдет на турнир. Но в последний день именно **runt** стоял последним на арене — окровавленный и ухмыляющийся, — пока чемпионы вдвое крупнее него стонали в пыли. «Размер, — сказал он ошеломлённой толпе, — это просто история, которую о тебе рассказывают другие.»",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/runt.jpg",
-    "contextStory": "Его называли **runt** — самый мелкий мальчишка в семье воинов, слишком щуплый, чтобы поднять отцовский меч. Братья хохотали, когда **runt** заявил, что выйдет на турнир. Но в последний день именно **runt** стоял последним на арене — окровавленный и ухмыляющийся, — пока чемпионы вдвое крупнее него стонали в пыли. «Размер, — сказал он ошеломлённой толпе, — это просто история, которую о тебе рассказывают другие.»",
-    "cefrLevel": "C2"
+    }
   },
   {
     "word": "ruse",
     "pronunciation": "ro͞oz",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-us.mp3",
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-uk.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-au.mp3"
+    },
     "partOfSpeech": [
       "noun"
     ],
+    "cefrLevel": "C2",
     "forms": "plural: **ruses**",
+    "image": "/data/projects/tainted-grail/images/words/ruse.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2897,13 +2864,6 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/ruse.jpg",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-us.mp3",
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-uk.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/ruse-au.mp3"
     }
   },
   {
@@ -2912,7 +2872,9 @@
     "partOfSpeech": [
       "verb phrase"
     ],
+    "cefrLevel": "C1",
     "forms": "present simple: **skirts the edges**; past simple: **skirted the edges**; present participle: **skirting the edges**; past participle: **skirted the edges**",
+    "image": "/data/projects/tainted-grail/images/words/skirt the edges.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -2981,18 +2943,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/skirt the edges.jpg",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "slingshot",
     "pronunciation": "ˈsliNGˌSHät",
+    "audio": {
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/slingshot-au.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/slingshot.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3024,7 +2988,6 @@
       "*The wagon slingshot over the hill and crashed into the mud below.* — Повозку вынесло через холм, и она рухнула в грязь внизу.",
       "*He fashioned a crude slingshot from a forked branch and a strip of leather.* — Он смастерил грубую рогатку из раздвоенной ветки и полоски кожи."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Sling",
@@ -3039,27 +3002,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Составное слово: **sling** (праща; швырять) + **shot** (выстрел). *Sling* — из древнескандинавского *slyngva* (\"метнуть\"). Как рогатка слово появилось в XIX веке в Америке. А космическое значение (*slingshot maneuver*) — из 1960-х, когда NASA стало использовать гравитацию планет для разгона зондов.",
+    "contextStory": "Маркус вырезал свой первый **slingshot** из раздвоенной дубовой ветки в семь лет, а к десяти сбивал шишку с забора с сорока шагов. Когда в деревню пришли налётчики, мужчины схватились за мечи и копья — но именно Маркус и его **slingshot** уложили вражеского разведчика прежде, чем тот успел подать сигнал. Камень попал точно, и мальчик стоял, дрожа, в наступившей тишине. Он больше никогда не смотрел на свой **slingshot** как прежде: это больше не была игрушка.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/slingshot.jpg",
-    "contextStory": "Маркус вырезал свой первый **slingshot** из раздвоенной дубовой ветки в семь лет, а к десяти сбивал шишку с забора с сорока шагов. Когда в деревню пришли налётчики, мужчины схватились за мечи и копья — но именно Маркус и его **slingshot** уложили вражеского разведчика прежде, чем тот успел подать сигнал. Камень попал точно, и мальчик стоял, дрожа, в наступившей тишине. Он больше никогда не смотрел на свой **slingshot** как прежде: это больше не была игрушка.",
-    "cefrLevel": "B2",
-    "audio": {
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/slingshot-au.mp3"
     }
   },
   {
     "word": "staunch",
     "pronunciation": "stôn(t)SH",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/staunch-uk.mp3"
+    },
     "partOfSpeech": [
       "adjective",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/staunch.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3080,7 +3042,6 @@
       "*\"I need staunch men,\" the commander said. \"Not heroes — men who will hold the line.\"* — «Мне нужны надёжные люди, — сказал командир. — Не герои — люди, которые удержат строй».",
       "*Even his staunchest supporters began to doubt him after the massacre.* — Даже его самые верные сторонники начали сомневаться в нём после резни."
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [
       "*staunch ally / supporter / defender* — верный союзник / сторонник / защитник",
@@ -3091,17 +3052,12 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "От старофранцузского *estancher* — \"остановить течь, осушить\", от вульгарной латыни *stanticāre*, от латинского *stāre* — \"стоять\". Буквальная идея: заставить что-то **стоять** (остановиться), не течь. Тот же корень *stāre* — колоссальная семья:\n• **stand** — стоять (германский родственник)\n• **station** — станция (место, где стоят)\n• **stable** — стабильный; конюшня (место, где стоят лошади)\n• **stagnant** — застойный (стоячий)\n• **stamina** — выносливость (буквально \"нити судьбы, на которых всё стоит\")\n• **constant** — постоянный (*con-* + *stāre* — \"стоять вместе/твёрдо\")\n• **obstinate** — упрямый (*ob-* + *stāre* — \"стоять против\")\nКрасивая двойственность: одно слово значит и \"верный, несгибаемый\" (тот, кто стоит), и \"останавливающий кровь\" (то, что заставляет стоять). Оба значения — про то, чтобы **стоять твёрдо**.",
+    "contextStory": "Когда заговор раскрылся, все союзники разбежались — все, кроме лорда Олдрика, самого **staunch** сторонника короля. Он встал перед трибуналом и говорил не дрогнув — его **staunch** верность не пошатнулась даже когда толпа жаждала крови. Позже, в темнице, король тихо плакал. «У меня была сотня друзей при свете дня, — прошептал он. — Лишь один оказался **staunch** во тьме.» Олдрик ничего не сказал. Он просто сел рядом с королём и стал ждать рассвета.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/staunch.jpg",
-    "contextStory": "Когда заговор раскрылся, все союзники разбежались — все, кроме лорда Олдрика, самого **staunch** сторонника короля. Он встал перед трибуналом и говорил не дрогнув — его **staunch** верность не пошатнулась даже когда толпа жаждала крови. Позже, в темнице, король тихо плакал. «У меня была сотня друзей при свете дня, — прошептал он. — Лишь один оказался **staunch** во тьме.» Олдрик ничего не сказал. Он просто сел рядом с королём и стал ждать рассвета.",
-    "cefrLevel": "C1",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/staunch-uk.mp3"
     }
   },
   {
@@ -3110,7 +3066,8 @@
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/susceptible.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3186,18 +3143,21 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/susceptible.jpg",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "tether",
     "pronunciation": "ˈteT͟Hər",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/tether-us.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
+    "cefrLevel": "C1",
     "forms": "tethers, tethered, tethering",
+    "image": "/data/projects/tainted-grail/images/words/tether.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3218,7 +3178,6 @@
       "*His sanity was tethered by the thinnest of threads.* — Его рассудок держался на тончайшей нити.",
       "*They tethered the mules and made camp beneath the ruins.* — Они привязали мулов и разбили лагерь под руинами."
     ],
-    "usageNote": null,
     "comparisons": [
       {
         "word": "Tether",
@@ -3246,27 +3205,26 @@
     ],
     "relatedForms": [],
     "wordHistory": "От древнескандинавского *tjóðr* — \"привязь для скота\". Родственно древневерхненемецкому *zeotar* (\"дышло\") и восходит к протогерманскому *teudran*. Возможно, дальний родственник праиндоевропейского корня *deu-* — \"тянуть, тащить\". Слово пришло в английский с викингами (как и **kindle**, **sky**, **skull**, **anger**, **wrong** — скандинавское наследие в английском огромно). Идиома *at the end of one's tether* зафиксирована с XVII века — образ сельский и понятный каждому, кто видел козу на верёвке, мечущуюся у предела.",
+    "contextStory": "Астронавт парила за бортом станции, соединённая лишь тонким **tether**, который вился в пустоте серебряной нитью. Когда ударил микрометеорит, **tether** лопнул — и между ней и бесконечностью не осталось ничего. Она кувыркалась в тишине, глядя, как станция уменьшается. Внутри её напарник лихорадочно запускал спасательный дрон, руки дрожали. «Держись», — прошептал он в никуда. Но держаться было не за что: каждый **tether** — физический, эмоциональный, гравитационный — исчез.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/tether.jpg",
-    "contextStory": "Астронавт парила за бортом станции, соединённая лишь тонким **tether**, который вился в пустоте серебряной нитью. Когда ударил микрометеорит, **tether** лопнул — и между ней и бесконечностью не осталось ничего. Она кувыркалась в тишине, глядя, как станция уменьшается. Внутри её напарник лихорадочно запускал спасательный дрон, руки дрожали. «Держись», — прошептал он в никуда. Но держаться было не за что: каждый **tether** — физический, эмоциональный, гравитационный — исчез.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/tether-us.mp3"
     }
   },
   {
     "word": "trifled with",
     "pronunciation": "ˈtraɪfəld wɪð",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/trifle-us.mp3"
+    },
     "partOfSpeech": [
       "phrasal verb"
     ],
-    "forms": "trifles with, trifled with, trifling with",
     "cefrLevel": "C1",
+    "forms": "trifles with, trifled with, trifling with",
+    "image": "/data/projects/tainted-grail/images/words/trifled with.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3346,19 +3304,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-22"
-    },
-    "image": "/data/projects/tainted-grail/images/words/trifled with.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/trifle-us.mp3"
     }
   },
   {
     "word": "vanquish",
     "pronunciation": "ˈvaNGkwiSH",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/vanquish-us.mp3"
+    },
     "partOfSpeech": [
       "verb"
     ],
+    "cefrLevel": "C2",
     "forms": "vanquished",
+    "image": "/data/projects/tainted-grail/images/words/vanquish.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3402,27 +3361,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "От старофранцузского *veinquir* (современное *vaincre*), от латинского *vincere* — \"побеждать\". Корень *vincere* — один из самых плодовитых в латыни. Родственники:\n• **invincible** — непобедимый (*in-* \"не\" + *vincere*)\n• **convince** — убедить (буквально \"полностью победить\" аргументами: *con-* + *vincere*)\n• **convict** — осудить; осуждённый (буквально \"побеждённый\" в суде)\n• **evict** — выселить (буквально \"победить, вытеснить\")\n• **victor** — победитель\n• **Vincent** — имя, буквально \"побеждающий\"\n• **province** — провинция (от *pro-vincere* — \"побеждённая [земля]\", территория, покорённая Римом)\nФраза Юлия Цезаря *vēnī, vīdī, vīcī* (\"пришёл, увидел, победил\") — тот же корень. А **vanquish** получило вставное *qu* под влиянием французского написания и, возможно, по аналогии со словом **languish**.",
+    "contextStory": "Она **vanquished** каждого противника на арене — мечников, копейщиков, даже конного рыцаря — и толпа ревела её имя как молитву. Но враг, которого она не могла **vanquish**, ждал дома: тишина пустого дома, стул, где когда-то сидела её дочь. Победа за победой, а горе оставалось непобеждённым. «Ты можешь **vanquish** армии, — мягко сказала ей старая целительница, — но скорбь — это не враг, с которым сражаются. Это прилив, сквозь который учатся дышать.»",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/vanquish.jpg",
-    "contextStory": "Она **vanquished** каждого противника на арене — мечников, копейщиков, даже конного рыцаря — и толпа ревела её имя как молитву. Но враг, которого она не могла **vanquish**, ждал дома: тишина пустого дома, стул, где когда-то сидела её дочь. Победа за победой, а горе оставалось непобеждённым. «Ты можешь **vanquish** армии, — мягко сказала ей старая целительница, — но скорбь — это не враг, с которым сражаются. Это прилив, сквозь который учатся дышать.»",
-    "cefrLevel": "C2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/vanquish-us.mp3"
     }
   },
   {
     "word": "venture",
     "pronunciation": "ˈven(t)SHər",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/venture-us.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "B2",
+    "image": "/data/projects/tainted-grail/images/words/venture.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3461,7 +3419,6 @@
       "*They ventured deeper into the forest, though every instinct screamed to turn back.* — Они забирались всё глубже в лес, хотя каждый инстинкт кричал: назад.",
       "*He ventured an opinion and immediately regretted it.* — Он рискнул высказать мнение и тут же об этом пожалел."
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [
       "*business venture / joint venture* — деловое/совместное предприятие",
@@ -3493,17 +3450,12 @@
       }
     ],
     "wordHistory": "Сокращение от **adventure**, которое пришло из старофранцузского *aventure*, от латинского *adventūra* — \"то, что должно произойти\", от *advenīre* — \"приходить, случаться\" (*ad-* \"к\" + *venīre* \"приходить\"). Тот же корень *venīre* — в словах **advent** (пришествие), **avenue** (проспект — буквально \"путь, по которому приходят\"), **convene** (созывать), **revenue** (доход — буквально \"то, что возвращается\"). **Venture** потеряло приставку *ad-* в XV веке и стало самостоятельным словом с акцентом на риск и предпринимательство. А **venture capital** (венчурный капитал) — термин XX века, но идея та же: ставишь деньги на то, что может прийти, а может и нет.",
+    "contextStory": "Первый **venture** купца — груз специй через Узкое Море — утонул в шторме, забрав каждую монету. Второй **venture**, партнёрство с северным торговцем мехами, едва вышел в ноль. Но он не сдался. В третий **venture** он загрузил корабль тем, что никто другой не решался везти: книгами. Их продали в десять раз дороже их веса в серебре. «Каждый **venture** тебя учит, — сказал он сыну. — Те, что проваливаются, учат больше всего.»",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/venture.jpg",
-    "contextStory": "Первый **venture** купца — груз специй через Узкое Море — утонул в шторме, забрав каждую монету. Второй **venture**, партнёрство с северным торговцем мехами, едва вышел в ноль. Но он не сдался. В третий **venture** он загрузил корабль тем, что никто другой не решался везти: книгами. Их продали в десять раз дороже их веса в серебре. «Каждый **venture** тебя учит, — сказал он сыну. — Те, что проваливаются, учат больше всего.»",
-    "cefrLevel": "B2",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/venture-us.mp3"
     }
   },
   {
@@ -3513,6 +3465,7 @@
       "noun"
     ],
     "forms": "singular: **vestige**",
+    "image": "/data/projects/tainted-grail/images/words/vestiges.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3581,8 +3534,7 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/vestiges.jpg"
+    }
   },
   {
     "word": "vibecoding",
@@ -3591,8 +3543,9 @@
       "noun",
       "verb"
     ],
-    "forms": "verb: **vibecodes**, **vibecoded**, **vibecoding**",
     "cefrLevel": "C1",
+    "forms": "verb: **vibecodes**, **vibecoded**, **vibecoding**",
+    "image": "/data/projects/tainted-grail/images/words/vibecoding.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3667,8 +3620,7 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-27"
-    },
-    "image": "/data/projects/tainted-grail/images/words/vibecoding.jpg"
+    }
   },
   {
     "word": "weasel out",
@@ -3676,7 +3628,9 @@
     "partOfSpeech": [
       "phrasal verb"
     ],
+    "cefrLevel": "C1",
     "forms": "past simple: **weaseled out**; past participle: **weaseled out**; present participle: **weaseling out**; third person: **weasels out**",
+    "image": "/data/projects/tainted-grail/images/words/weasel out.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3740,18 +3694,20 @@
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/weasel out.jpg",
-    "cefrLevel": "C1"
+    }
   },
   {
     "word": "wench",
     "pronunciation": "wen(t)SH",
+    "audio": {
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/wench-au.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/wench.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3796,27 +3752,26 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Среднеанглийское *wenchel*, сокращение древнеанглийского *wencel* — \"ребёнок, дитя\" (без привязки к полу!). Родственно *wancol* — \"шаткий, неустойчивый\" (о ребёнке, который учится ходить). К XIII веку значение сузилось до \"девочка, девушка\", затем — \"служанка\", а к XV–XVI веку приобрело оттенок \"женщина лёгкого поведения\". Типичная история семантической деградации: нейтральное слово постепенно \"опускается\" в значении. Тот же путь прошли **hussy** (от *housewife* — \"домохозяйка\" → \"потаскуха\") и **villain** (от *villein* — \"крестьянин\" → \"злодей\").",
+    "contextStory": "Герцог ввалился в таверну и щёлкнул пальцами. «**Wench**! Вина на стол.» Женщина за стойкой не шелохнулась. «Меня зовут Марта, — холодно сказала она. — А последний, кто назвал меня **wench**, ушёл отсюда без передних зубов.» Стражники герцога потянулись к мечам, но завсегдатаи Марты — грузчики, кузнецы, отставные солдаты — поднялись со скамей как один. Герцог передумал. Никакая она не **wench** — это была женщина, которой принадлежала любая комната, куда она входила.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/wench.jpg",
-    "contextStory": "Герцог ввалился в таверну и щёлкнул пальцами. «**Wench**! Вина на стол.» Женщина за стойкой не шелохнулась. «Меня зовут Марта, — холодно сказала она. — А последний, кто назвал меня **wench**, ушёл отсюда без передних зубов.» Стражники герцога потянулись к мечам, но завсегдатаи Марты — грузчики, кузнецы, отставные солдаты — поднялись со скамей как один. Герцог передумал. Никакая она не **wench** — это была женщина, которой принадлежала любая комната, куда она входила.",
-    "cefrLevel": "C2",
-    "audio": {
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/wench-au.mp3"
     }
   },
   {
     "word": "whelp",
     "pronunciation": "welp",
+    "audio": {
+      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/whelp-1-uk.mp3"
+    },
     "partOfSpeech": [
       "noun",
       "verb"
     ],
-    "forms": null,
+    "cefrLevel": "C2",
+    "image": "/data/projects/tainted-grail/images/words/whelp.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3861,26 +3816,25 @@
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Древнеанглийское *hwelp* — \"детёныш собаки\". Родственно древнескандинавскому *hvelpr*, нидерландскому *welp*, немецкому *Welpe*. Все восходят к протогерманскому *hwelpaz*. Слово древнее и исконно германское — никакой латыни. Уничижительное значение (\"щенок\" о человеке) появилось уже в среднеанглийский период и прочно закрепилось в литературном языке — от Шекспира до современного фэнтези.",
+    "contextStory": "«Ты смеешь бросить мне вызов, **whelp**?» — прорычал военачальник, вытаскивая клинок длиной в рост мальчишки. **Whelp** — пятнадцать лет, обгорелый на солнце, дрожащий — поднял ржавый отцовский меч и не сказал ни слова. Толпа ждала бойни. Вместо этого мальчик двигался как вода: нырнул, крутанулся, нанёс один удар под защиту великана. Тот рухнул. Тишина. Затем толпа взорвалась. **Whelp** стоял над поверженной легендой, слёзы текли по его лицу, и шептал: «Это за мою деревню.»",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/whelp.jpg",
-    "contextStory": "«Ты смеешь бросить мне вызов, **whelp**?» — прорычал военачальник, вытаскивая клинок длиной в рост мальчишки. **Whelp** — пятнадцать лет, обгорелый на солнце, дрожащий — поднял ржавый отцовский меч и не сказал ни слова. Толпа ждала бойни. Вместо этого мальчик двигался как вода: нырнул, крутанулся, нанёс один удар под защиту великана. Тот рухнул. Тишина. Затем толпа взорвалась. **Whelp** стоял над поверженной легендой, слёзы текли по его лицу, и шептал: «Это за мою деревню.»",
-    "cefrLevel": "C2",
-    "audio": {
-      "uk": "https://api.dictionaryapi.dev/media/pronunciations/en/whelp-1-uk.mp3"
     }
   },
   {
     "word": "yew",
     "pronunciation": "yo͞o",
+    "audio": {
+      "us": "https://upload.wikimedia.org/wikipedia/commons/6/6c/En-us-you.ogg"
+    },
     "partOfSpeech": [
       "noun"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/yew.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -3902,32 +3856,31 @@
       "*He carved the staff from yew — hard enough to block a blade, light enough to carry all day.* — Он вырезал посох из тиса — достаточно твёрдый, чтобы парировать клинок, и достаточно лёгкий, чтобы нести весь день.",
       "*A single yew grew in the centre of the graveyard, its roots reaching into the dead below.* — Одинокий тис рос посреди кладбища, его корни тянулись к мёртвым внизу."
     ],
-    "usageNote": null,
     "comparisons": [],
     "collocations": [],
     "idioms": [],
     "relatedForms": [],
     "wordHistory": "Древнеанглийское *īw*, *ēow* — \"тис\". Родственно древнеирландскому *ēo*, валлийскому *ywen*, немецкому *Eibe*, древнескандинавскому *ýr*. Все восходят к протогерманскому *īhwaz* — это же название руны **ᛇ** (Eihwaz) в Старшем Футарке, которая символизирует тис, смерть и трансформацию. Праиндоевропейский корень *h₁eyHw-* — возможно, связан с понятием \"вечнозелёный\" или \"долговечный\". Латинское название тиса *taxus* — из другого корня и дало нам слово **toxic** (ядовитый): греческое *toxikon* означало \"яд для стрел\", от *toxon* (\"лук\") — а лучшие луки делали именно из тиса. Так тис дал название и яду, и оружию.",
+    "contextStory": "Лучный мастер провёл рукой по заготовке из **yew**, нащупывая изъяны в волокнах. «Этому **yew** триста лет, — пробормотал он. — Он рос на кладбище, вскормленный мёртвыми.» Он медленно согнул древесину, проверяя упругость — идеальная эластичность, которую мог дать только **yew**. К утру заготовка станет длинным луком, способным пробить латный доспех с двухсот ярдов. Дерево провело века, безмолвно вырастая среди могил. Теперь оно будет отправлять людей к ним.",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-20"
-    },
-    "image": "/data/projects/tainted-grail/images/words/yew.jpg",
-    "contextStory": "Лучный мастер провёл рукой по заготовке из **yew**, нащупывая изъяны в волокнах. «Этому **yew** триста лет, — пробормотал он. — Он рос на кладбище, вскормленный мёртвыми.» Он медленно согнул древесину, проверяя упругость — идеальная эластичность, которую мог дать только **yew**. К утру заготовка станет длинным луком, способным пробить латный доспех с двухсот ярдов. Дерево провело века, безмолвно вырастая среди могил. Теперь оно будет отправлять людей к ним.",
-    "cefrLevel": "C1",
-    "audio": {
-      "us": "https://upload.wikimedia.org/wikipedia/commons/6/6c/En-us-you.ogg"
     }
   },
   {
     "word": "zealous",
     "pronunciation": "ˈzeləs",
+    "audio": {
+      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-us.mp3",
+      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-au.mp3"
+    },
     "partOfSpeech": [
       "adjective"
     ],
-    "forms": null,
+    "cefrLevel": "C1",
+    "image": "/data/projects/tainted-grail/images/words/zealous.jpg",
     "definitions": [
       {
         "sense": 1,
@@ -4004,17 +3957,11 @@
       }
     ],
     "wordHistory": "От позднелатинского *zēlōsus* — «ревнивый, рьяный», от латинского *zēlus* — «рвение, ревность», заимствованного из греческого *ζῆλος* (*zēlos*) — «пыл, ревность, соперничество». Греческое слово восходит к праиндоевропейскому *yeh₁-* — «искать, стремиться». Интересно, что исторически *zeal* и *jealousy* — однокоренные слова: оба происходят от греческого *zēlos*, просто *jealousy* пришла через старофранцузское *jalousie*. Зелоты (*Zealots*) — название радикальной еврейской секты I века, боровшейся против римского владычества. Именно от них слово **zealot** приобрело оттенок фанатизма, который частично перешёл и на **zealous**.",
-    "cefrLevel": "C1",
     "meta": {
       "timesAccessed": 0,
       "lastReviewed": null,
       "srsLevel": 0,
       "dateAdded": "2026-02-21"
-    },
-    "image": "/data/projects/tainted-grail/images/words/zealous.jpg",
-    "audio": {
-      "us": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-us.mp3",
-      "au": "https://api.dictionaryapi.dev/media/pronunciations/en/zealous-au.mp3"
     }
   }
 ]
