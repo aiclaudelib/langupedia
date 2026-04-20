@@ -194,4 +194,29 @@ test.describe('Lexicon app', () => {
     const card = page.locator(`#card-${slug}`)
     await expect(card).toBeVisible({ timeout: 5000 })
   })
+
+  test('wiki link: fervent → zealous scrolls, zealous shows backlinks', async ({ page }) => {
+    // Default lang is RU; auto-linkify created fervent→zealous in both RU and EN
+    await page.goto('/projects/tainted-grail#fervent')
+    await page.waitForSelector('.word-card')
+
+    const ferventCard = page.locator('#card-fervent')
+    await expect(ferventCard).toBeVisible({ timeout: 5000 })
+
+    // Click the wiki-link to zealous inside fervent's comparisons
+    const wikiLink = ferventCard.locator('a.wiki-link[data-target="zealous" i]').first()
+    await expect(wikiLink).toBeVisible()
+    await wikiLink.click()
+
+    // Virtualizer scrolls zealous into view via hashchange listener
+    const zealousCard = page.locator('#card-zealous')
+    await expect(zealousCard).toBeVisible({ timeout: 5000 })
+    await expect(page).toHaveURL(/#zealous$/)
+
+    // Backlinks section shows on zealous and lists fervent
+    const backlinks = zealousCard.locator('.word-backlinks')
+    await expect(backlinks).toBeVisible()
+    await backlinks.locator('.word-backlinks-toggle').click()
+    await expect(backlinks.locator('.word-backlinks-content a', { hasText: 'fervent' })).toBeVisible()
+  })
 })

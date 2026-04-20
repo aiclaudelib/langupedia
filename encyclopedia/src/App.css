@@ -1504,3 +1504,67 @@ body {
     border-radius: 0;
   }
 }
+
+.wiki-link {
+  color: #5a3a1f;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(90, 58, 31, 0.35);
+  transition: background-color 0.15s, border-color 0.15s;
+  padding: 0 1px;
+}
+.wiki-link:hover {
+  background-color: rgba(90, 58, 31, 0.08);
+  border-bottom-color: rgba(90, 58, 31, 0.75);
+}
+.wiki-link.link-missing {
+  color: #8a6a4a;
+  border-bottom-style: dashed;
+  border-bottom-color: rgba(138, 106, 74, 0.55);
+  cursor: help;
+}
+
+.word-backlinks {
+  margin-top: 1.25rem;
+  padding: 0.75rem 1rem;
+  background: rgba(90, 58, 31, 0.04);
+  border-left: 2px solid rgba(90, 58, 31, 0.35);
+  border-radius: 0 4px 4px 0;
+  font-size: 0.9rem;
+}
+.word-backlinks-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  color: #5a3a1f;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.word-backlinks-arrow {
+  display: inline-block;
+  transition: transform 0.15s;
+  font-size: 0.75em;
+}
+.word-backlinks.open .word-backlinks-arrow {
+  transform: rotate(90deg);
+}
+.word-backlinks-content {
+  display: none;
+  margin-top: 0.5rem;
+  line-height: 1.6;
+}
+.word-backlinks.open .word-backlinks-content {
+  display: block;
+}
+.word-backlinks-content a {
+  color: #5a3a1f;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(90, 58, 31, 0.35);
+  margin-right: 0.4rem;
+}
+.word-backlinks-content a:hover {
+  background-color: rgba(90, 58, 31, 0.08);
+}
+

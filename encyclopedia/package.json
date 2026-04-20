@@ -12,24 +12,39 @@
     "pm2:stop": "pm2 stop lexicon",
     "pm2:push-word": "pm2 start ecosystem.config.cjs --only push-word",
     "test": "playwright test",
-    "generate-index": "node scripts/generate-index.mjs",
-    "build:ghpages": "node scripts/generate-index.mjs && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/langupedia/ tsc -b && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/langupedia/ vite build && cp dist/index.html dist/404.html"
+    "test:unit": "vitest run",
+    "lint": "eslint .",
+    "db:import": "node scripts/import-json-to-sqlite.mjs",
+    "db:export": "node scripts/export-to-json.mjs",
+    "build:ghpages": "node scripts/export-to-json.mjs && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/langupedia/ tsc -b && VITE_DEPLOY_MODE=ghpages VITE_BASE_PATH=/langupedia/ vite build && cp dist/index.html dist/404.html"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.90.21",
     "@tanstack/react-router": "^1.161.3",
     "@tanstack/react-virtual": "^3.13.19",
+    "better-sqlite3": "^12.9.0",
     "react": "^19",
     "react-dom": "^19"
   },
   "devDependencies": {
+    "@claude-flow/memory": "^3.0.0-alpha.14",
+    "@eslint/js": "^10.0.1",
     "@playwright/test": "^1.58.2",
+    "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^25.3.3",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.4",
+    "@vitest/ui": "^3.2.4",
+    "eslint": "^10.2.1",
+    "eslint-formatter-compact": "^9.0.1",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.5.0",
     "pm2": "^6.0.14",
     "typescript": "~5.9.3",
-    "vite": "^7.3.1"
+    "typescript-eslint": "^8.58.2",
+    "vite": "^7.3.1",
+    "vitest": "^3.2.4"
   }
 }

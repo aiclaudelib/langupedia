@@ -8,12 +8,15 @@ import { downloadMarkdown } from '../utils/downloadMarkdown'
 import WordHistory from './WordHistory'
 import ContextStory from './ContextStory'
 import PronunciationPlayer from './PronunciationPlayer'
+import WordBacklinks from './WordBacklinks'
 
 interface WordCardProps {
   word: Word
   lang: string
   onLangChange: (lang: string) => void
   onListenClick?: (word: string) => void
+  knownTargets?: Set<string>
+  projectId?: string
 }
 
 function escapeHtml(text: string): string {
@@ -22,7 +25,8 @@ function escapeHtml(text: string): string {
   return div.innerHTML
 }
 
-export default memo(function WordCard({ word: w, lang, onLangChange, onListenClick }: WordCardProps) {
+export default memo(function WordCard({ word: w, lang, onLangChange, onListenClick, knownTargets, projectId }: WordCardProps) {
+  const fmt = (text: string | null | undefined) => formatText(text, { knownTargets })
   const [shareOpen, setShareOpen] = useState(false)
   const shareRef = useRef<HTMLDivElement>(null)
 
@@ -106,7 +110,7 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
           {w.forms && (
             <div
               className="card-forms"
-              dangerouslySetInnerHTML={{ __html: formatText(w.forms) }}
+              dangerouslySetInnerHTML={{ __html: fmt(w.forms) }}
             />
           )}
 
@@ -121,7 +125,7 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
                   )}
                   <span
                     className="def-text"
-                    dangerouslySetInnerHTML={{ __html: formatText(def.text) }}
+                    dangerouslySetInnerHTML={{ __html: fmt(def.text) }}
                   />
                   {def.examples && def.examples.length > 0 && (
                     <div className="def-examples">
@@ -129,7 +133,7 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
                         <div
                           key={i}
                           className="def-example"
-                          dangerouslySetInnerHTML={{ __html: formatText(ex) }}
+                          dangerouslySetInnerHTML={{ __html: fmt(ex) }}
                         />
                       ))}
                     </div>
@@ -180,7 +184,7 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
             <div key={i} className="example-block">
               <span
                 className="example-text"
-                dangerouslySetInnerHTML={{ __html: formatText(ex) }}
+                dangerouslySetInnerHTML={{ __html: fmt(ex) }}
               />
             </div>
           ))}
@@ -193,7 +197,7 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
           <div className="usage-note">
             <div
               className="usage-note-text"
-              dangerouslySetInnerHTML={{ __html: formatText(w.usageNote) }}
+              dangerouslySetInnerHTML={{ __html: fmt(w.usageNote) }}
             />
           </div>
         </>
@@ -210,7 +214,7 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
               {w.comparisons.map((c) => (
                 <tr key={c.word}>
                   <td>{c.word}</td>
-                  <td dangerouslySetInnerHTML={{ __html: formatText(c.description) }} />
+                  <td dangerouslySetInnerHTML={{ __html: fmt(c.description) }} />
                 </tr>
               ))}
             </tbody>
@@ -228,7 +232,7 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
                 <div
                   key={i}
                   className="collocation-tag"
-                  dangerouslySetInnerHTML={{ __html: formatText(text) }}
+                  dangerouslySetInnerHTML={{ __html: fmt(text) }}
                 />
               )
             })}
@@ -243,12 +247,12 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
             <div key={i} className="idiom-box">
               <div
                 className="idiom-phrase"
-                dangerouslySetInnerHTML={{ __html: formatText(idiom.phrase) }}
+                dangerouslySetInnerHTML={{ __html: fmt(idiom.phrase) }}
               />
               {idiom.explanation && (
                 <div
                   className="idiom-explanation"
-                  dangerouslySetInnerHTML={{ __html: formatText(idiom.explanation) }}
+                  dangerouslySetInnerHTML={{ __html: fmt(idiom.explanation) }}
                 />
               )}
             </div>
@@ -269,7 +273,7 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
                 {rf.description && (
                   <span
                     className="related-form-desc"
-                    dangerouslySetInnerHTML={{ __html: formatText(rf.description) }}
+                    dangerouslySetInnerHTML={{ __html: fmt(rf.description) }}
                   />
                 )}
               </div>
@@ -278,8 +282,9 @@ export default memo(function WordCard({ word: w, lang, onLangChange, onListenCli
         </>
       )}
 
-      {w.wordHistory && <WordHistory text={w.wordHistory} />}
-      {w.contextStory && <ContextStory text={w.contextStory} />}
+      {w.wordHistory && <WordHistory text={w.wordHistory} knownTargets={knownTargets} />}
+      {w.contextStory && <ContextStory text={w.contextStory} knownTargets={knownTargets} />}
+      {projectId && <WordBacklinks projectId={projectId} word={w.word} />}
     </article>
   )
 })

@@ -67,6 +67,10 @@ export default function LexiconView() {
     return map
   }, [words])
 
+  const knownTargets = useMemo(() => {
+    return new Set(words.map(w => w.word.toLowerCase()))
+  }, [words])
+
   const handleScroll = useCallback(() => {
     const el = scrollContainerRef.current
     if (!el) return
@@ -144,6 +148,17 @@ export default function LexiconView() {
     }
   }, [words, virtualizer])
 
+  useEffect(() => {
+    const onHashChange = () => {
+      const hash = window.location.hash.slice(1)
+      if (!hash) return
+      const idx = words.findIndex(w => slugify(w.word) === hash)
+      if (idx >= 0) virtualizer.scrollToIndex(idx, { align: 'start' })
+    }
+    window.addEventListener('hashchange', onHashChange)
+    return () => window.removeEventListener('hashchange', onHashChange)
+  }, [words, virtualizer])
+
   return (
     <>
       <Sidebar
@@ -188,7 +203,7 @@ export default function LexiconView() {
                   }}
                 >
                   {vItem.index > 0 && <div className="card-divider">&#10087;</div>}
-                  <WordCard word={w} lang={lang} onLangChange={handleLangChange} onListenClick={setYouglishWord} />
+                  <WordCard word={w} lang={lang} onLangChange={handleLangChange} onListenClick={setYouglishWord} knownTargets={knownTargets} projectId={projectId} />
                 </div>
               )
             })}

@@ -3,9 +3,10 @@ import { formatText } from '../utils/formatText'
 
 interface WordHistoryProps {
   text: string
+  knownTargets?: Set<string>
 }
 
-export default function WordHistory({ text }: WordHistoryProps) {
+export default function WordHistory({ text, knownTargets }: WordHistoryProps) {
   const [open, setOpen] = useState(false)
 
   return (
@@ -20,7 +21,7 @@ export default function WordHistory({ text }: WordHistoryProps) {
       <div className="word-history-content">
         <div
           className="word-history-text has-dropcap"
-          dangerouslySetInnerHTML={{ __html: formatText(text) }}
+          dangerouslySetInnerHTML={{ __html: formatText(text, { knownTargets }) }}
         />
       </div>
     </div>

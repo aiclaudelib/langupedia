@@ -3,9 +3,10 @@ import { formatText } from '../utils/formatText'
 
 interface ContextStoryProps {
   text: string
+  knownTargets?: Set<string>
 }
 
-export default function ContextStory({ text }: ContextStoryProps) {
+export default function ContextStory({ text, knownTargets }: ContextStoryProps) {
   const [open, setOpen] = useState(false)
 
   return (
@@ -20,7 +21,7 @@ export default function ContextStory({ text }: ContextStoryProps) {
       <div className="context-story-content">
         <div
           className="context-story-text"
-          dangerouslySetInnerHTML={{ __html: formatText(text) }}
+          dangerouslySetInnerHTML={{ __html: formatText(text, { knownTargets }) }}
         />
       </div>
     </div>
