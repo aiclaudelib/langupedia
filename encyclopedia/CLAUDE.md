@@ -27,16 +27,20 @@ yarn db:export        # Export SQLite back to JSON (for ghpages static build)
 
 ## Data store
 
-All project + word data lives in `data/lexicon.db` (SQLite, WAL). Tables:
+Runtime store is `data/lexicon.db` (SQLite, WAL). Tables:
 
 - `projects(id, name, title, subtitle, created_at)`
 - `words(id, project_id, word, pronunciation, part_of_speech, cefr_level, forms, image, audio, meta)` — language-neutral fields
 - `word_translations(word_id, lang, definitions, main_examples, usage_note, comparisons, collocations, idioms, related_forms, word_history, context_story)` — per-language
 - `word_links(project_id, source_word_id, lang, target_word_lc, target_word_id, field, display_text)` — materialized wiki graph
 
-Schema migrations live in `src/server/migrations/NNN_*.sql` and run automatically on first DB open. The DB file is committed to git; `-wal`/`-shm` are gitignored.
+Schema migrations live in `src/server/migrations/NNN_*.sql` and run automatically on first DB open.
 
-For static (ghpages) builds, `yarn db:export` writes `public/data/projects/<id>/words.{ru,en}.json` and `index.json` before `vite build` runs.
+**The DB file itself is NOT committed** — it's a large binary that can't be diffed or merged. The committed source of truth is the per-project JSON snapshots in `public/data/projects/<id>/{project,words.en,words.ru}.json`. These are both the ghpages data source AND the canonical content:
+
+- After a fresh clone, run `yarn db:import` to rebuild `data/lexicon.db` from the JSON snapshots.
+- After editing content (via `./scripts/lexicon.sh` or the API), run `yarn db:export` before committing — the DB change is only persisted in the snapshots.
+- `data/*.db`, `-wal`, `-shm` are all gitignored.
 
 ## Project structure
 
