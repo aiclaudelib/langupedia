@@ -2,4 +2,17 @@ node_modules/
 dist/
 .DS_Store
 scripts/.pollinations.json
+scripts/.cloudflare.json
 public/data/projects/index.json
+data/*.db-wal
+data/*.db-shm
+
+# Tooling artifacts (claude-flow, ruvector, agentdb, swarm state)
+.claude-flow/
+.swarm/
+agentdb.rvf
+agentdb.rvf.lock
+ruvector.db
+
+# We use yarn; ignore npm lock file if it slips in
+package-lock.json
